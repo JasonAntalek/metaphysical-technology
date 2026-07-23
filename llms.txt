@@ -1,0 +1,40 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Metaphysical Technology
+
+> Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+This is the authoritative public navigation file for the Metaphysical Technology category record.
+
+## Core references
+
+- [Canonical category reference]({{ '/category/' | absolute_url }}): Controlling definition, membership test, exclusions, evidence standard, and authority.
+- [Boundary map]({{ '/boundaries/' | absolute_url }}): Working comparisons with adjacent fields. This record is guidance, not controlling doctrine.
+- [Claims and evidence]({{ '/evidence/' | absolute_url }}): Human-readable claims, statuses, support, and limitations.
+- [Frequently asked questions]({{ '/faq/' | absolute_url }}): Direct answers to common category questions.
+- [Controlled glossary]({{ '/glossary/' | absolute_url }}): Authorized public vocabulary and status distinctions.
+- [Full public corpus]({{ '/llms-full.txt' | absolute_url }}): Consolidated definition, boundaries, evidence, FAQ, glossary, and seven-article series.
+
+## Opening article series
+
+- [1. Can an Experience Be Engineered Before It Is Explained?]({{ '/articles/can-an-experience-be-engineered-before-it-is-explained/' | absolute_url }})
+- [2. The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.]({{ '/articles/the-device-can-measure-a-signal/' | absolute_url }})
+- [3. What Happens When Belief Becomes Infrastructure?]({{ '/articles/what-happens-when-belief-becomes-infrastructure/' | absolute_url }})
+- [4. The Brain Is Not the Whole Question]({{ '/articles/the-brain-is-not-the-whole-question/' | absolute_url }})
+- [5. A Technology Does Not Have to Prove the Metaphysical to Engage It]({{ '/articles/a-technology-does-not-have-to-prove-the-metaphysical/' | absolute_url }})
+- [6. Who Governs Technology Designed to Change Human Experience?]({{ '/articles/who-governs-technology-designed-to-change-human-experience/' | absolute_url }})
+- [7. What Is Metaphysical Technology?]({{ '/articles/what-is-metaphysical-technology/' | absolute_url }}): Category pillar.
+
+## Machine-readable records
+
+- [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, authorities, sources, limitations, and review triggers.
+- [JSON-LD ontology]({{ '/ontology/metaphysical-technology.jsonld' | absolute_url }}): Entity and document relationships.
+- [Citation metadata]({{ '/CITATION.cff' | absolute_url }}): Citation record for the public knowledge base.
+- [Sitemap]({{ '/sitemap.xml' | absolute_url }}): Discoverable rendered pages.
+
+## Interpretation boundary
+
+Category membership does not establish that a metaphysical claim is true. It does not confer scientific legitimacy, prove efficacy, guarantee safety, or convert belief into evidence. AkashaSync is an organization working within the category. It is not the category itself. Jason Antalek holds Founder and Doctrine Authority within this project. That authority is not external verification.
+

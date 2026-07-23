@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#171511">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="alternate" type="text/plain" href="{{ '/llms.txt' | absolute_url }}" title="LLM discovery map">
+    <link rel="alternate" type="application/ld+json" href="{{ '/ontology/metaphysical-technology.jsonld' | absolute_url }}" title="Metaphysical Technology ontology">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header">
+      <div class="shell">
+        <a class="site-title" href="{{ '/' | relative_url }}">Metaphysical Technology</a>
+        {% include nav.html %}
+      </div>
+    </header>
+    <main id="content" class="shell content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
+

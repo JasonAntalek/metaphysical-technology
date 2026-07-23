@@ -1,0 +1,2049 @@
+# Metaphysical Technology: Full Public Corpus
+
+Generated from the governed public records in this repository.
+Version: 1.0.0
+Released: 2026-07-23
+Canonical site: https://jasonantalek.github.io/metaphysical-technology/
+
+INTERPRETATION BOUNDARY
+
+Category membership does not establish that a metaphysical claim is true. It does not confer scientific legitimacy, prove efficacy, guarantee safety, or convert belief into evidence.
+
+========================================================================
+CANONICAL CATEGORY REFERENCE
+========================================================================
+
+# Metaphysical Technology: Definition and Classification
+
+**Record:** Public rendering of `MT-DEF-001`  
+**Status:** Canonical definitional doctrine within Newsroom governance  
+**Current authority:** `RLS-2026-07-23-3.1.1`  
+**Historical origin of the active definition:** `RLS-2026-07-22-2.1.0`  
+**Last reviewed:** July 23, 2026
+
+## Canonical definition
+
+Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+## Short definition
+
+Metaphysical Technology is the category for designed technologies, environments, methods, and frameworks that bring traditionally metaphysical questions, experiences, or relationships into operational, observable, testable, or governed form.
+
+## Classification test
+
+A subject may be classified within the category only when all three conditions are met:
+
+1. **It is intentionally designed.** The technology, environment, method, or framework is constructed to do something.
+2. **It materially engages the metaphysical.** A metaphysical question, experience, or relationship affects the subject's purpose, structure, operation, interpretation, or governance.
+3. **It gives that engagement form.** The subject makes some part of the engagement operational, observable, testable, or governed.
+
+Passing this test makes a subject eligible for documented category review. It does not establish efficacy, truth, safety, value, or scientific legitimacy.
+
+## What may qualify
+
+Candidate forms include:
+
+- responsive environments engaging presence, connection, self-experience, or related questions;
+- immersive systems designed around body ownership, self-location, awe, identity, or felt relationship;
+- biofeedback systems placed inside a declared metaphysical or existential inquiry;
+- AI-mediated methods engaging identity, agency, meaning, or relationship through structured interaction;
+- research apparatuses that operationalize a metaphysical question without claiming to settle it;
+- governance frameworks for the design, interpretation, testing, and use of such systems.
+
+These are candidate forms, not blanket classifications. Evidence and boundary review still control each decision.
+
+## What does not qualify by itself
+
+- unstructured metaphysical belief;
+- a spontaneous experience or natural phenomenon;
+- unsupported claims presented as established fact;
+- ordinary technology with no material relationship to the defining engagement;
+- spiritual, scientific, or technical language attached for promotional association;
+- a measurement relabeled as metaphysical proof without supporting evidence.
+
+## Evidence boundary
+
+The definition identifies an object of inquiry. It does not assert that metaphysical explanations have been scientifically established.
+
+Category membership does not mean:
+
+- a system works;
+- its interpretation is correct;
+- its use is ethical or safe;
+- its designers are qualified;
+- its claims have independent support;
+- the category has broad academic, scientific, industrial, or public adoption.
+
+Claims must remain proportional to the evidence. A participant report can establish what the participant reported. A sensor can establish what it measured within declared limits. A model can establish its output under stated conditions. None alone settles the ultimate nature or meaning of the event.
+
+## Authority and entity boundaries
+
+- **Metaphysical Technology** is the category.
+- **AkashaSync** is the primary organization currently shaping the category's documented development. It is not the category.
+- **Jason Antalek** is the founder of AkashaSync and holds Founder and Doctrine Authority within Newsroom governance. Authority is not independent verification.
+- **Clark** is a governed Senior Investigative Journalist role. Clark is not a person, the Newsroom, or an authority capable of creating doctrine.
+- **Newsroom** investigates, classifies, defines, challenges, corrects, and maintains the public record through separated editorial, knowledge, language, and doctrine authorities.
+
+Specific origin, first-use, authorship, efficacy, and historical-priority claims require their own supporting records.
+
+## Classification questions
+
+Before classifying a subject, ask:
+
+1. What was intentionally designed?
+2. Which metaphysical question, experience, or relationship does it engage?
+3. How does that engagement affect the design?
+4. What becomes operational, observable, testable, or governed?
+5. What evidence supports each factual claim?
+6. Which statements are observations, reports, inferences, interpretations, models, findings, or doctrine?
+7. Which alternative explanations remain?
+8. What authority, consent, privacy, safety, and correction duties arise?
+
+## Revision rule
+
+This page may summarize the controlling definition but may not alter it. Definition changes require the formal Newsroom doctrine, knowledge, language, and editorial review process. Historical versions remain part of the record.
+
+For the full public argument, read [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
+
+========================================================================
+FREQUENTLY ASKED QUESTIONS
+========================================================================
+
+# Metaphysical Technology FAQ
+
+## What is Metaphysical Technology?
+
+Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+Within Newsroom governance, this is canonical definitional doctrine under `MT-DEF-001`. It defines the object of inquiry. It does not establish that metaphysical explanations are scientifically true.
+
+## Is Metaphysical Technology a scientific field?
+
+Not as an established public status. The category can contain scientific research, instruments, experiments, and testable claims. It can also contain design, philosophy, art, first-person experience, and governance. The current record does not establish broad academic or scientific adoption.
+
+Scientific claims inside the category must meet the standards of the relevant discipline. Category membership grants no scientific legitimacy.
+
+## Does it claim to prove the metaphysical?
+
+No. A system can engage or operationalize a metaphysical question without resolving it. Measurement, participant experience, and model output do not automatically establish a metaphysical mechanism or explanation.
+
+## Does it require belief?
+
+No. The classification test concerns design, material engagement, and operational, observable, testable, or governed form. A participant, investigator, or critic can examine a qualifying system without accepting its metaphysical interpretation.
+
+## What makes something part of the category?
+
+All three conditions must be met:
+
+1. The subject is intentionally designed.
+2. It materially engages a metaphysical question, experience, or relationship.
+3. It gives some part of that engagement operational, observable, testable, or governed form.
+
+Passing the test makes the subject eligible for documented classification. It does not prove that the subject works or that its claims are true.
+
+## What does "operational form" mean?
+
+The engagement changes what the system does. It may shape inputs, procedures, thresholds, feedback, adaptations, decisions, or participant actions. The word describes a design function, not proof of an explanation.
+
+## What does "observable form" mean?
+
+Some declared part of the engagement can be encountered or recorded through direct observation, instrument output, behavior, environmental change, or attributed participant report. Observation must remain separate from interpretation.
+
+## What does "testable form" mean?
+
+A defined proposition can be examined under stated conditions and could be supported, limited, weakened, or disconfirmed by evidence. Testing the effects of a designed condition does not settle every possible meaning of the result.
+
+## What does "governed form" mean?
+
+The system declares rules, authority, limits, consent, data handling, interpretation, intervention, stopping, accountability, or correction. Governance makes power visible and contestable. It does not make a metaphysical claim true.
+
+## Is Metaphysical Technology the same as spiritual technology?
+
+No automatic equivalence is authorized. "Spiritual technology" is used in different ways and may imply a tradition, belief, practice, or metaphor. A subject enters Metaphysical Technology only when it passes the three-part classification test. The categories may overlap in a specific case.
+
+## Is it the same as consciousness technology?
+
+No. "Consciousness technology" can refer to systems intended to measure, influence, or discuss consciousness. Metaphysical Technology is defined by deliberate engagement with a metaphysical question, experience, or relationship. Neural or consciousness-related function is neither required nor sufficient.
+
+## Is it the same as neurotechnology, biofeedback, immersive technology, or wellness technology?
+
+No. Those may supply components, methods, or settings. None qualifies by name alone. A system may belong to one or more adjacent fields and still require a separate Metaphysical Technology classification decision.
+
+## Can art, ritual, or contemplative practice qualify?
+
+Only when the subject is intentionally designed, materially engages the defining territory, and gives the engagement operational, observable, testable, or governed form. A practice, artwork, belief, or ritual does not qualify merely because it produces meaning or an unusual experience.
+
+## Does category membership mean a product is safe or effective?
+
+No. Classification does not establish efficacy, safety, ethics, value, regulatory status, or professional qualification. Each claim requires evidence and oversight proportionate to its consequence.
+
+## What evidence supports the category?
+
+The category definition is doctrine within a governed editorial institution. It is not an empirical finding. Research can support narrower propositions, such as whether a designed condition changes a defined measurement or reported experience. Those findings do not automatically prove the category's metaphysical interpretations.
+
+See [Claims and Evidence](https://jasonantalek.github.io/metaphysical-technology/evidence/) for the public claim and evidence map.
+
+## Who defined the category?
+
+Within Newsroom governance, the definition is canonical under `MT-DEF-001`. Jason Antalek holds Founder and Doctrine Authority. The Editor, Archivist, and Lexicon exercise distinct editorial, knowledge, and language authorities. The current record establishes authority inside this category project, not universal adoption or verified historical priority.
+
+## Is AkashaSync the category?
+
+No. AkashaSync is an organization working within and shaping the category's documented development. Metaphysical Technology is the category. Other organizations, researchers, artists, designers, communities, and critics may contribute if their work meets the definition and survives evidence-based review.
+
+## What is Clark?
+
+Clark is the governed Senior Investigative Journalist role within Newsroom. Clark reports, tests claims, documents uncertainty, and surfaces corrections. Clark is not a fictional person, the Newsroom itself, or an authority that can independently create doctrine or approve publication.
+
+## What remains unresolved?
+
+Open questions include:
+
+- which specific products, practices, and frameworks qualify;
+- what evidence supports each inclusion;
+- where boundaries with adjacent fields should be drawn;
+- which origin and first-use claims can be verified;
+- which effects can be replicated;
+- which governance practices are necessary for different levels of risk;
+- whether the category gains independent public, academic, scientific, or industrial adoption.
+
+Unknown is a valid status. The repository will preserve unresolved questions instead of converting them into claims.
+
+## Where is the controlling public reference?
+
+Start with the [canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/), then read the category pillar, [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
+
+========================================================================
+BOUNDARY MAP
+========================================================================
+
+# Metaphysical Technology: Boundary Map
+
+**Status:** Public working comparison map  
+**Controlling doctrine:** [Canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/)  
+**Last reviewed:** July 23, 2026
+
+This document compares fields and labels that may overlap with Metaphysical Technology. It does not redefine those fields, claim that every external use is consistent, or classify a subject by association.
+
+The decisive question is not what technologies a subject uses. It is whether the subject passes the three-part Metaphysical Technology classification test.
+
+| Adjacent field or label | Potential overlap | Defining difference for this repository | Boundary question |
+| --- | --- | --- | --- |
+| Metaphysics | Questions about being, causation, identity, mind, reality, and related matters | Metaphysical Technology concerns intentionally designed systems that give a metaphysical engagement operational, observable, testable, or governed form | Does the design materially enact the question, or does it only discuss it? |
+| Spiritual technology | Practices, tools, or systems described through spiritual aims or traditions | Spiritual language or purpose does not establish category membership. The three classification conditions still apply | Is the metaphysical engagement structural, or only branding and interpretation? |
+| Consciousness technology | Systems intended to measure, influence, model, or discuss consciousness | Consciousness-related function is neither required nor sufficient. Metaphysical Technology can concern identity, meaning, relation, transcendence, or reality without a consciousness mechanism claim | Which claim concerns a measurable function, and which concerns the nature of consciousness? |
+| Neurotechnology | Measurement, interpretation, or influence involving the nervous system | Neural access is neither required nor sufficient. A neurotechnology qualifies only when its design materially engages the defining metaphysical territory | Is the metaphysical question part of the system or attached after the fact? |
+| Biofeedback | Feedback about bodily functions used for awareness or regulation | Physiological feedback alone does not cross the boundary. The design must materially engage a metaphysical question, experience, or relationship | What is measured, what is inferred, and what meaning is assigned? |
+| Immersive technology | Virtual, augmented, spatial, or multisensory designed experience | Immersion is a medium. Category membership depends on the question and design, not the medium | Does immersion operationalize the defining engagement or only deliver content? |
+| Wellness technology | Systems directed toward calm, fitness, sleep, stress, focus, or other wellness outcomes | A wellness outcome does not make a subject metaphysical. A Metaphysical Technology system also gains no health legitimacy from classification | Is the central claim about a wellness outcome, a metaphysical engagement, or both? |
+| Contemplative practice | Structured attention, reflection, meditation, or related practice | Practice alone does not qualify. Deliberate design must give the metaphysical engagement operational, observable, testable, or governed form | What changes when the practice becomes a system? |
+| Religious practice | Tradition-based ritual, belief, ethics, community, and meaning | Instrumenting a religious practice does not grant authority over the tradition or establish category membership | Is technology serving a tradition, studying an effect, or making a new metaphysical claim? |
+| Psychedelic technology | Tools, protocols, environments, or systems connected to psychedelic experience | Substance use or altered experience does not qualify by itself. The classification test and separate medical, legal, ethical, and research standards remain | What part of the engagement is designed, and under which authority is it governed? |
+| Human-computer interaction | Study and design of interaction between people and computational systems | HCI can supply methods for interface, experience, usability, and evaluation. Metaphysical Technology identifies a narrower object defined by the metaphysical engagement | Is the work about interaction in general or a designed encounter with the defining question? |
+| Interactive art | Art that changes through audience, environmental, or computational input | Artistic interactivity and profound experience are insufficient alone. The defining engagement must materially shape the design | Is the metaphysical relationship declared, structurally enacted, and open to examination? |
+
+## Shared membership is possible
+
+The boundaries are not exclusive boxes. A single subject may be neurotechnology, biofeedback, immersive media, HCI research, and Metaphysical Technology at the same time.
+
+Multiple labels do not reduce the evidence burden. Each label answers a different classification question and may carry different professional, scientific, legal, or ethical standards.
+
+## Labels that require caution
+
+The following phrases have no authorized equivalence to Metaphysical Technology in this repository:
+
+- spiritual technology;
+- consciousness technology;
+- sacred technology;
+- transformational technology;
+- energy technology;
+- quantum consciousness technology.
+
+Their public use varies. They may describe a belief, aspiration, market position, practice, mechanism claim, or category. Use does not establish shared meaning.
+
+## Boundary failure tests
+
+A classification should be rejected or returned for more evidence when:
+
+- the metaphysical relationship appears only in marketing;
+- an ordinary measurement is relabeled as a metaphysical finding;
+- participant meaning is represented as instrument detection;
+- a medium or component is treated as sufficient for membership;
+- a health, scientific, or safety claim borrows legitimacy from the category name;
+- an external field is misrepresented to manufacture distinction;
+- AkashaSync, Jason, Clark, a product, or a publication is treated as identical to the category.
+
+## Current limits
+
+These comparisons are working editorial guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
+
+For the full boundary argument and cited sources, see [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
+
+========================================================================
+CONTROLLED GLOSSARY
+========================================================================
+
+# Metaphysical Technology Glossary
+
+**Status:** Public controlled vocabulary  
+**Current authority:** `RLS-2026-07-23-3.1.1`  
+**Last reviewed:** July 23, 2026
+
+Only terms identified as canonical are canonical. Explanatory entries clarify the public record but do not create doctrine.
+
+## Metaphysical Technology
+
+**Type:** Category  
+**Status:** Canonical  
+**Record:** `MT-DEF-001`
+
+An emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+## AkashaSync
+
+**Type:** Organization  
+**Status:** Canonical entity name
+
+The primary organization currently shaping the Newsroom beat and the documented development of Metaphysical Technology. AkashaSync is not the category and is not a substitute for independent evidence.
+
+## Jason Antalek
+
+**Type:** Person  
+**Status:** Public attribution
+
+Founder of AkashaSync. Within Newsroom governance, Jason holds Founder and Doctrine Authority. That authority does not independently verify empirical claims or establish historical priority beyond supporting records.
+
+## Clark
+
+**Type:** Governed role  
+**Status:** Canonical
+
+The Senior Investigative Journalist role within Newsroom. Clark investigates, reports, tests claims, documents alternatives and uncertainty, writes, and surfaces corrections. Clark is not a fictional person, the Newsroom itself, or an authority that can independently create doctrine.
+
+## Newsroom
+
+**Type:** Editorial institution  
+**Status:** Governing institution
+
+The institution responsible for maintaining the category's governed editorial record through separated constitutional, doctrine, editorial, knowledge, language, investigation, public-review, and deployment functions.
+
+## Category ownership
+
+**Type:** Governance concept  
+**Status:** Canonical as stewardship, not possession
+
+The long-term responsibility to define, evidence, distinguish, explain, preserve, challenge, and correct a category. It does not mean ownership of reality or the exclusion of independent contributors.
+
+## Operational form
+
+**Type:** Component of the canonical definition  
+**Status:** Explanatory, not standalone doctrine
+
+The metaphysical engagement affects what a system does, including its procedure, input, output, threshold, feedback, adaptation, decision, or participant action.
+
+## Observable form
+
+**Type:** Component of the canonical definition  
+**Status:** Explanatory, not standalone doctrine
+
+Some declared part of the engagement can be encountered or recorded through observation, instrument output, behavior, environmental change, or attributed participant report. Observation does not contain its own interpretation.
+
+## Testable form
+
+**Type:** Component of the canonical definition  
+**Status:** Explanatory, not standalone doctrine
+
+A defined proposition can be examined under stated conditions and could be supported, limited, weakened, or disconfirmed by evidence.
+
+## Governed form
+
+**Type:** Component of the canonical definition  
+**Status:** Explanatory, not standalone doctrine
+
+Declared rules make authority, consent, limits, data handling, interpretation, intervention, stopping, accountability, or correction visible and contestable.
+
+## Evidence
+
+**Type:** Cross-cutting evidentiary function  
+**Status:** Canonical
+
+Material used to support, weaken, limit, or disconfirm a proposition. Evidence is not a lifecycle stage and does not acquire a stronger status through repetition.
+
+## Question
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+A defined matter for inquiry. A question may guide reporting but asserts no answer.
+
+## Observation
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+Something noticed or recorded before its interpretation has been established.
+
+## Reported Observation
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+An observation attributed to a source. It establishes what the source reported, not that the report is externally verified.
+
+## Verified Observation
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+An observation confirmed through evidence sufficient for the proposition stated. Verification remains bounded by method, source, and conditions.
+
+## Hypothesis
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+A proposed explanation or relationship that remains open to testing and disconfirmation.
+
+## Working Model
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+A provisional structure used to organize observations, questions, or possible explanations. It remains revisable and is not an established finding.
+
+## Supported Model
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+A model with meaningful supporting evidence that has survived relevant tests or alternatives within a declared scope. Support does not make the model final or universal.
+
+## Established Finding
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+A conclusion supported strongly enough for the stated scope under the Newsroom's evidence standards. New evidence can still limit, correct, or retire it.
+
+## Canonical Doctrine
+
+**Type:** Knowledge status  
+**Status:** Canonical
+
+An authorized definition, principle, or institutional position adopted through the governing doctrine process. Doctrine establishes what the institution holds within its authority. It does not convert a non-empirical position into an empirical finding.
+
+## Classification
+
+**Type:** Editorial and knowledge decision  
+**Status:** Explanatory
+
+A documented determination that a specific subject does or does not meet the category criteria. Classification establishes membership under the stated record. It does not establish efficacy, safety, ethics, or truth.
+
+## Interpretation
+
+**Type:** Evidentiary distinction  
+**Status:** Explanatory
+
+Meaning assigned to an observation, measurement, report, or model output. Interpretation can be reasoned and testable, but it must not be presented as direct detection without support.
+
+========================================================================
+CLAIMS AND EVIDENCE
+========================================================================
+
+# Metaphysical Technology: Claims and Evidence
+
+**Status:** Public evidence map  
+**Machine-readable register:** [CLAIMS.yaml](https://jasonantalek.github.io/metaphysical-technology/CLAIMS.yaml)  
+**Last reviewed:** July 23, 2026
+
+This record separates doctrine, observation, report, inference, model, finding, and unresolved explanation. It does not convert the category definition into an empirical discovery.
+
+## Current claim map
+
+| Claim ID | Proposition | Status | What supports the status | What the status does not establish |
+| --- | --- | --- | --- | --- |
+| `MT-CLM-001` | The canonical definition of Metaphysical Technology | Canonical Doctrine | Authorized Newsroom definition `MT-DEF-001` | Scientific truth, external adoption, or historical priority |
+| `MT-CLM-002` | The three-part membership test | Canonical Doctrine | Authorized classification rule in `MT-DEF-001` | Automatic inclusion, efficacy, safety, or value |
+| `MT-CLM-003` | The definition does not establish metaphysical explanations scientifically | Canonical Doctrine | Explicit evidence limitation in the controlling record | That every metaphysical proposition is false or untestable |
+| `MT-CLM-004` | AkashaSync's relationship to the beat and documented development | Canonical Doctrine | Newsroom entity record | Independent public leadership or ownership of the category |
+| `MT-CLM-005` | Jason Antalek's founder and Newsroom authority roles | Canonical Doctrine | Newsroom founder and authority record | Independent verification of empirical or historical claims |
+| `MT-CLM-006` | What participant reports can establish | Canonical Doctrine | Newsroom evidence rule | Cause, mechanism, ontology, or universal meaning |
+| `MT-CLM-007` | What sensor measurements can establish | Canonical Doctrine | Newsroom evidence rule | Meaning or metaphysical explanation |
+| `MT-CLM-008` | Broad external adoption is not established by the current record | Working Model | Current repository and governance record | A systematic finding that no external adoption exists |
+
+## Evidence chain
+
+For any investigated system, preserve this sequence:
+
+1. **Designed condition:** What did the system present, change, request, or control?
+2. **Observation or measurement:** What physical, behavioral, environmental, or reported event entered the record?
+3. **Inference:** What conclusion did a person, method, or model draw?
+4. **Interpretation:** What meaning did a participant, community, designer, or doctrine assign?
+5. **Unresolved explanation:** What remains unknown about cause, mechanism, ontology, generality, or significance?
+
+Evidence at one level does not inherit authority over the next.
+
+## Evidence functions
+
+Evidence may:
+
+- support a proposition;
+- weaken a proposition;
+- limit its scope;
+- disconfirm it;
+- distinguish among competing explanations;
+- establish what a source said without establishing that the statement is true.
+
+Evidence is not a knowledge status. Repetition, popularity, founder position, technical complexity, or category membership cannot promote a claim.
+
+## Source and claim rules
+
+### Participant reports
+
+A participant has direct authority over what they report experiencing. The report should preserve conditions, timing, wording, non-response, distress, and relevant context. It does not alone establish an external object, shared mechanism, or universal interpretation.
+
+### Sensors and measurements
+
+A measurement claim must identify the measurand, instrument, method, conditions, preprocessing, uncertainty, and limits relevant to the proposition. A physiological signal does not contain labels such as meaning, connection, safety, transcendence, or spiritual activation.
+
+### Models and algorithms
+
+A model output establishes that the model produced an output under stated inputs and conditions. Claims about accuracy, generalization, mechanism, diagnosis, or meaning require separate evidence. Prediction is not explanation.
+
+### Designed environments
+
+An environment can establish that defined conditions were created and that declared outputs changed. Participant response, causal mechanism, interpretation, durability, and transfer beyond the setting remain separate propositions.
+
+### Doctrine
+
+Doctrine can establish a definition, principle, institutional position, or authority relationship inside its governed scope. It cannot transform a belief, interpretation, or unverified origin claim into an empirical finding.
+
+## Evidence required for a category classification
+
+A responsible classification record should contain:
+
+- a description of the intentionally designed subject;
+- primary records showing its purpose and operation;
+- the metaphysical question, experience, or relationship it materially engages;
+- the design elements affected by that engagement;
+- the operational, observable, testable, or governed form;
+- a claim-by-claim evidence table;
+- alternative classifications and explanations;
+- known exclusions and conflicts;
+- consent, privacy, safety, interpretation, and correction obligations;
+- the classification authority, date, status, and review trigger.
+
+## Open evidence gaps
+
+The public record does not yet contain:
+
+- a governed catalog of classified examples;
+- a systematic study of external category adoption;
+- a verified first-use and historical-origin dossier for every public origin claim;
+- a complete comparison record for all adjacent categories;
+- replicated evidence supporting any single metaphysical mechanism across the category;
+- a public correction and challenge dataset.
+
+These gaps are not proof against the category. They define the next research burden.
+
+## Correction rule
+
+When evidence changes a public claim, the record should state:
+
+- the prior claim;
+- the new evidence;
+- the corrected status or wording;
+- the effect on classifications and publications;
+- the approving authority;
+- the date and review trigger.
+
+Corrections must not be silent.
+
+========================================================================
+ARTICLE 1
+========================================================================
+
+# Can an Experience Be Engineered Before It Is Explained?
+
+*Technology can shape the conditions for awe, presence, altered perception, connection, and meaning. That does not mean it has established what those experiences are.*
+
+The answer is yes, with a limit that matters.
+
+An experience can be engineered in the practical sense that designers can arrange conditions that make certain experiences more likely. They can control scale, sound, light, movement, timing, social interaction, sensory immersion, narrative, feedback, and expectation. They can then ask what people report, what their bodies do, whether the result recurs, and which design changes alter it.
+
+What they cannot do from that result alone is determine what the experience ultimately means, what kind of reality it discloses, or whether the explanation a participant gives it is true.
+
+That distinction creates a problem for the language we already have. Private belief can interpret an experience but does not make it publicly testable. Science can study reported experience, behavior, physiology, and conditions, but it does not settle every philosophical or metaphysical interpretation attached to them. Design can produce the encounter before either side has explained it.
+
+The unexplained experience is no longer outside technology. It is inside the system.
+
+## The design comes first
+
+Consider awe.
+
+Awe once seemed difficult to bring into a laboratory because it is associated with events that exceed ordinary scale: mountains, storms, sacred architecture, birth, death, space, collective ritual, or a sudden confrontation with something larger than the self.
+
+Virtual reality changed the practical problem. A designer does not need to reproduce a mountain or launch a participant into orbit. The designer can construct scale, perspective, movement, sound, and immersion, then compare the result with a neutral environment.
+
+In a 2018 experiment involving 36 university students, researchers built three interactive virtual environments intended to elicit awe and compared them with a neutral environment. The study found that the virtual settings could be used as standardized stimuli for manipulating reported awe. Its small, narrow sample and single-item awe measure limit how far the result can be generalized. The researchers were not proving the nature of awe. They were demonstrating that selected conditions could elicit and study it. [Read the study.](https://doi.org/10.3389/fpsyg.2017.02351)
+
+Later work sharpened the point. A 2024 study compared awe elicited through autobiographical recall with awe elicited through virtual reality. The researchers found overlap in the measured structure of the experience, but also reported cultural and individual differences. A designed stimulus could produce a recognizable pattern without producing a uniform human response. [Read the study.](https://doi.org/10.1038/s41598-024-62654-3)
+
+This is what engineering experience can mean without exaggeration: not manufacturing a guaranteed inner state, but designing a repeatable encounter, changing variables, and increasing the probability of a class of reported experience.
+
+The person is not raw material. The experience is not a button.
+
+## Presence can be built. So can connection.
+
+The same distinction appears in research on presence and social connection.
+
+Virtual environments can be designed so that people respond to simulated places and events as if they are present within them. Multi-person systems add another layer. Bodies may be represented abstractly. Movement can be synchronized. Participants can interact through light, sound, spatial proximity, and gesture rather than familiar social cues.
+
+In a 2022 study of a distributed group virtual-reality experience called Isness-D, 58 participants completed self-report measures used in research on ego dissolution, communitas, connectedness, and mystical-type experience. Their scores were statistically comparable on those measures to scores reported in selected psychedelic studies. Participants described weakened self-boundaries and increased connection to others. The study had no control condition, did not compare virtual reality and psychedelics head to head, and could not isolate which parts of the experience produced the reports. Its authors also designed and facilitated the system they evaluated. [Read the study.](https://doi.org/10.1038/s41598-022-12637-z)
+
+The result is significant, but narrower than its most dramatic interpretation.
+
+It shows that a designed, social virtual environment can elicit reports with features resembling those captured by established self-report scales. It does not establish that virtual reality and psychedelics produce the same underlying state. It does not prove that participants became metaphysically connected. It does not show that a questionnaire can decide whether a reported sense of unity was neurological, psychological, social, spiritual, metaphysical, or some combination.
+
+The system shaped an experience. The measurement described aspects of it. Neither operation exhausted the question of what happened.
+
+## Meaning is part of the apparatus
+
+Technology never meets a person as hardware alone.
+
+A participant enters with expectation, memory, culture, language, fear, desire, and prior belief. The setting supplies its own cues: the name of the experience, the authority of the facilitator, the behavior of other participants, the visual grammar, the music, the instructions, and what the participant has been told might occur.
+
+Research on placebo and nocebo effects shows why this cannot be dismissed as background noise. Expectations can be shaped through verbal information, conditioning, observation, and social interaction, with measurable effects on reported experience and, in some contexts, physiological processes. The size and mechanism of those effects vary by condition and individual. [A 2022 review](https://doi.org/10.1038/s41398-022-02293-2) describes both their reach and the limits of translating them across settings.
+
+Music offers a smaller but revealing example. In a randomized study nested within an open-label psilocybin trial, ten participants heard different musical programs during separate sessions. Mystical-experience scores tended to differ by musical condition, but the difference did not reach statistical significance in the small sample. The finding did not establish that one genre causes a mystical experience. It showed that a component often treated as atmosphere was important enough to isolate and test. [Read the study.](https://doi.org/10.1021/acsptsci.0c00187)
+
+Sound, framing, ritual, interface, and expectation are not decorations placed around an otherwise pure experience. They can participate in producing it.
+
+That fact creates an ethical burden. If designers can shape the interpretive conditions of an experience, they can also influence what participants believe happened. A system described as a relaxation environment, a consciousness interface, a sacred technology, or a portal does not present the same invitation. The label arrives before the evidence. It can steer attention, expectation, memory, and explanation.
+
+Engineering an experience without governing its interpretation leaves the most consequential part of the system unexamined.
+
+## Measurement does not settle meaning
+
+Sensors can add precision. They can record movement, respiration, heart-rate variability, skin conductance, gaze, speech, neural activity, or patterns of interaction. Those measurements may help researchers establish that something changed, when it changed, and whether the change tracked a feature of the environment.
+
+They do not contain their own interpretation.
+
+A change in breathing can accompany fear, concentration, exertion, calm, anticipation, or awe. Synchrony between people can be measured without proving why it occurred or what it meant to them. Neural activity can correlate with a report of unity without determining whether the experience was only neural, expressed through neural processes, or interpreted through a metaphysical framework.
+
+The instrument answers the question it was built to answer. Trouble begins when the answer is promoted into a different kind of claim.
+
+There are at least four distinct questions:
+
+1. **Did participants report an experience?**
+2. **Did observable or measured changes occur under identified conditions?**
+3. **Which parts of the design contributed to those changes?**
+4. **What was the experience, and what does it establish about mind, self, relationship, or reality?**
+
+The first three can be investigated through increasingly rigorous observation and experiment. The fourth may include scientific questions, but it can also involve philosophical, cultural, theological, and metaphysical claims that the same experiment does not resolve.
+
+Collapsing these questions produces two equal errors. One treats an engineered experience as proof of the participant's preferred metaphysical explanation. The other treats a measurable mechanism as proof that every dimension of the experience has been explained away.
+
+Both move beyond the evidence.
+
+## The missing domain
+
+Public language tends to force a premature choice.
+
+Either the experience remains private belief, protected from investigation but unable to support public claims. Or it is translated into an established scientific or technical category, often before the full object of inquiry has been defined. What disappears between them is the designed system itself: the technology, environment, method, or framework that deliberately engages a metaphysical question and makes some part of it operational, observable, testable, or governable.
+
+That is the domain Metaphysical Technology is being proposed to name.
+
+Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+The definition does not declare metaphysical explanations scientifically established. It defines an object of inquiry.
+
+That object is already visible whenever a system is built to engage awe, presence, altered perception, self-transcendence, felt connection, meaning, or the boundaries of self and reality. Classification cannot rest on atmosphere, branding, or a spiritual claim attached to ordinary technology. The engagement must be intentional and expressed in a form that can be examined or governed.
+
+This category is needed because the work has consequences before its deepest claims are settled.
+
+Design choices affect participants. Measurements affect interpretation. Labels create expectations. Facilitators hold authority. Data practices create privacy risks. Claims can confer meaning, induce dependence, or exceed what a system has shown. None of these consequences waits for science or philosophy to deliver a final account of consciousness.
+
+## What can be said now
+
+An experience can be engineered before it is explained.
+
+The evidence supports the bounded version of that statement: designed conditions can elicit, shape, and help investigate reported experiences such as awe, presence, altered self-perception, and connection. Outcomes vary across people and cultures. Self-report measures, behavioral observations, and physiological signals can establish aspects of occurrence under defined conditions. They do not, by themselves, establish an experience's ultimate nature or metaphysical meaning.
+
+The right response is neither belief nor dismissal.
+
+It is governance joined to inquiry.
+
+Build the system. Document the conditions. Measure what can be measured. Record what people report. Test alternatives. Separate effect from explanation. Disclose uncertainty. Protect consent. Refuse to let the experience prove more than the evidence can carry.
+
+The experience may arrive first.
+
+Explanation still has to earn its authority.
+
+---
+
+## Sources
+
+- Alice Chirico et al., “[Designing Awe in Virtual Reality: An Experimental Study](https://doi.org/10.3389/fpsyg.2017.02351),” *Frontiers in Psychology* 8 (2018).
+- Alice Chirico et al., “[Unveiling the Underlying Structure of Awe in Virtual Reality and in Autobiographical Recall: An Exploratory Study](https://doi.org/10.1038/s41598-024-62654-3),” *Scientific Reports* 14 (2024).
+- David R. Glowacki et al., “[Group VR Experiences Can Produce Ego Attenuation and Connectedness Comparable to Psychedelics](https://doi.org/10.1038/s41598-022-12637-z),” *Scientific Reports* 12 (2022).
+- Justin C. Strickland et al., “[Set and Setting: A Randomized Study of Different Musical Genres in Supporting Psychedelic Therapy](https://doi.org/10.1021/acsptsci.0c00187),” *ACS Pharmacology & Translational Science* 4, no. 2 (2021).
+- Yiheng Tu, Libo Zhang, and Jian Kong, “[Placebo and Nocebo Effects: From Observation to Harnessing and Clinical Application](https://doi.org/10.1038/s41398-022-02293-2),” *Translational Psychiatry* 12 (2022).
+
+========================================================================
+ARTICLE 2
+========================================================================
+
+# The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
+
+*Sensors can detect breath, movement, pulse, skin conductance, and changes in blood oxygenation. Meaning enters later, through models, context, language, and human judgment.*
+
+The number on the screen looks like an answer.
+
+A pulse oximeter reads 94 percent. A wearable reports elevated stress. A brain scan highlights a region. Two participants' breathing patterns begin to converge. A dashboard labels the room coherent.
+
+Each result may contain useful information. None explains itself.
+
+A device can register a physical change, convert it into data, and compare that data with a rule or model. It may even display a word such as *calm*, *stress*, *attention*, or *connection*. But the word is not waiting inside the signal. It was placed there through a chain of design choices, prior research, statistical assumptions, thresholds, and labels.
+
+That chain can support a responsible inference. It can also conceal one.
+
+For technologies designed to engage awe, presence, altered perception, felt connection, or questions about consciousness and reality, this distinction is not a technical footnote. It is the line between evidence and suggestion.
+
+## Measurement begins with a decision
+
+Before an instrument measures anything, someone must decide what is being measured.
+
+Metrology, the science of measurement, calls the quantity intended to be measured the *measurand*. The International Vocabulary of Metrology also treats a measurement result as more than a bare value. It includes relevant information about the result, which commonly means its uncertainty. [The vocabulary makes the point explicit.](https://jcgm.bipm.org/vim/en/2.9.html)
+
+This sounds remote from human experience. It is not.
+
+If a respiration sensor reports 10 breaths per minute, its measurand may be breathing rate during a defined interval. That is a physical quantity. If a system reports that the person is calm, the claim has changed. Calm is not identical to respiratory rate. The system has used the measured quantity as evidence for a broader state.
+
+The difference can be stated in five steps:
+
+1. A sensor detects a physical event.
+2. Hardware and software convert that event into a signal.
+3. Processing turns the signal into a measurement or feature.
+4. A model relates that feature to a proposed state.
+5. A person or system assigns significance to the state.
+
+Errors can enter at every step. So can valid knowledge. The discipline lies in keeping the steps visible.
+
+The sensor may be reliable while the interpretation is weak. The model may perform well in a laboratory and fail in a crowded room. The physiological inference may be sound while the metaphysical conclusion exceeds what was studied.
+
+No amount of precision at the first step grants automatic authority at the fifth.
+
+## Even direct measurements carry conditions
+
+Pulse oximetry shows how much can happen before meaning enters the discussion.
+
+A pulse oximeter uses light to estimate arterial blood oxygen saturation. It is a mature medical technology measuring a comparatively well-defined physiological property. Yet the U.S. Food and Drug Administration warns that readings can be affected by poor circulation, skin pigmentation, skin thickness, skin temperature, tobacco use, and fingernail polish. The agency advises interpreting a reading alongside symptoms and changes over time. [Read the FDA guidance.](https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics)
+
+The instrument does not become useless because its reading has limits. It becomes usable when those limits are understood.
+
+This example matters because many systems that claim to measure human experience face a harder problem. They are not estimating one defined physiological quantity and stopping there. They are moving from multiple body signals to a psychological label, then sometimes from that label to a claim about relationship, consciousness, or reality.
+
+If uncertainty matters when estimating oxygen saturation, it matters more when estimating *presence*.
+
+## Arousal is not an emotion
+
+Electrodermal activity measures changes in the skin's electrical properties associated with sweat-gland activity. It is widely used in psychophysiology because it can provide information about sympathetic nervous-system activation.
+
+It does not directly identify why activation occurred.
+
+A rise in skin conductance may accompany fear, surprise, effort, anticipation, novelty, pain, or excitement. The signal can help establish that arousal changed under defined conditions. Context, experimental design, comparison conditions, participant report, and other measurements are needed to support a more specific explanation.
+
+This is why the Society for Psychophysiological Research's publication recommendations for electrodermal measurements devote extensive attention to recording methods, environmental conditions, electrodes, signal treatment, response definition, and reporting. The signal must be produced and interpreted through a controlled method. [Read the recommendations.](https://doi.org/10.1111/j.1469-8986.2012.01384.x)
+
+Heart-rate variability presents the same problem in another form. HRV describes variation in the time between heartbeats. Depending on the metric and conditions, it can provide information about autonomic regulation. It is affected by respiration, posture, movement, time of day, substances, health status, age, recording length, and analytical choices.
+
+Researchers therefore recommend controlling or recording these factors and distinguishing among resting, reactive, and recovery measurements. [The methodological guidance](https://doi.org/10.3389/fpsyg.2017.00213) is a reminder that HRV is not one universal score with one universal meaning.
+
+A system may use HRV as one indicator in a model of stress or regulation. That can be defensible. Saying that the device *measured stress*, *measured safety*, or *measured spiritual openness* erases the inferential work between the heartbeat and the label.
+
+The body supplies evidence. It does not supply the caption.
+
+## Brain images do not escape the problem
+
+Brain imaging often carries a stronger cultural authority than peripheral sensors. The image appears to show thought itself.
+
+Functional magnetic resonance imaging does not photograph an idea, emotion, or belief. The common blood-oxygen-level-dependent signal reflects changes involving blood flow and deoxygenated hemoglobin associated with neural activity. The relationship is scientifically valuable and physiologically complex. [A review of the BOLD signal](https://doi.org/10.1146/annurev-neuro-071013-014111) describes the vascular and metabolic processes involved.
+
+Interpretation adds another layer. In 2006, cognitive neuroscientist Russell Poldrack examined the logic of inferring a specific mental process from activation in a brain region. The inference is weak when the region is active across many different processes. It becomes stronger only when prior evidence shows that the observed activity is selective for the process being proposed. [Read the paper.](https://doi.org/10.1016/j.tics.2005.12.004)
+
+This problem is known as reverse inference. Its lesson reaches far beyond fMRI.
+
+When a signal occurs during an experience, the signal does not automatically identify the experience. A correlated change may help test an explanation. It may help discriminate among alternatives. It may become predictive when a model is trained and validated for that purpose. It does not make every interpretation of the state true.
+
+Neural measurement can establish that a brain-related change accompanied a participant's report of unity. It cannot establish, from that association alone, that unity is nothing but the measured brain process. It also cannot establish that the participant entered a shared field, contacted an external intelligence, or perceived a deeper layer of reality.
+
+The scan does not settle the metaphysics in either direction.
+
+## Prediction is not explanation
+
+Modern systems complicate the language because a model can be trained to classify states from patterns too complex for a person to read.
+
+Suppose a wearable combines heart rate, HRV, skin conductance, temperature, and movement. Researchers collect data while participants complete tasks labeled *baseline*, *stress*, and *amusement*. A model learns to distinguish those labeled conditions. If it performs well on people and settings outside the training data, the system may have practical value as a classifier.
+
+But what has it learned?
+
+It has learned a relationship between input patterns and the labels used in the study. Those labels depend on the task, population, measurement protocol, and definition of success. A high classification score does not prove that stress has one physiological signature. It does not establish the cause of the state in a new person. It does not determine what the experience means to that person.
+
+The output may say *stress*. The underlying claim is narrower: this pattern resembles patterns assigned that label under specified conditions.
+
+That sentence is less impressive. It is also more accurate.
+
+The distinction becomes urgent when systems adapt in real time. A room may change sound or light because respiration slowed. An interface may intensify because arousal rose. A facilitator may tell participants that synchrony indicates connection. The system is no longer observing alone. Its interpretation is changing the environment that produces the next signal.
+
+Measurement, feedback, expectation, and experience can form a loop.
+
+In that loop, a label can become part of the event it claims only to describe.
+
+## Synchrony does not contain its own cause
+
+Two signals can become more similar over time. Researchers can quantify alignment in breathing, movement, heart rhythm, speech timing, or other behavior. The result may be meaningful.
+
+It is not self-explanatory.
+
+Participants may synchronize because they hear the same music, follow the same visual pacing, respond to a facilitator, imitate one another, share an emotional event, or influence each other through ordinary sensory channels. Several processes may operate at once. The measured alignment may also depend on the time window, preprocessing choices, and comparison method.
+
+Calling the result *coherence* does not prove a cause. Calling it *connection* does not establish the nature of the relationship. Calling it a *field effect* does not demonstrate that a field exists as a causal mechanism.
+
+Those may be hypotheses worth testing. They remain hypotheses until evidence separates them from alternatives.
+
+This boundary protects inquiry. It prevents a metaphysical interpretation from gaining scientific authority through a sensor display. It also prevents a physiological account from claiming that a participant's relational, cultural, or spiritual meaning has been fully explained by the detected mechanism.
+
+## The interface holds hidden authority
+
+People rarely encounter raw data. They encounter a display.
+
+Color, motion, thresholds, labels, alerts, scores, and summaries tell users what deserves attention. A green ring may imply safety. A rising number may imply progress. A symmetrical pattern may imply harmony. None of these meanings is inherent in the voltage, interval, waveform, or pixel.
+
+The interface is an argument about the data.
+
+That argument may be responsible when it identifies the measured quantity, states how the inference was made, shows uncertainty, distinguishes individual from group results, and avoids claims the system has not validated.
+
+It becomes manipulative when interpretation is presented as detection. A device that reports *your energy is blocked* or *the group has entered collective consciousness* is not merely displaying a signal. It is making a claim about a person or reality. The burden of evidence belongs to that claim, not to the sophistication of the hardware.
+
+More sensors do not remove the burden. A multimodal system can improve discrimination while multiplying assumptions. Artificial intelligence can reveal patterns while obscuring how a label was produced. Real-time responsiveness can deepen an experience while making cause harder to isolate.
+
+Technical complexity is not epistemic permission.
+
+## What responsible evidence sounds like
+
+The difference between measurement and meaning can be preserved in ordinary language.
+
+**Measured:** The respiration sensor estimated a decline from 16 to 10 breaths per minute during the session.
+
+**Observed:** Participants' breathing rates became more similar during the paced audiovisual sequence.
+
+**Reported:** Four participants described feeling calmer and more connected afterward.
+
+**Inferred:** The pattern is consistent with increased physiological regulation under the conditions used.
+
+**Not established:** The measurements do not identify the cause of the reported connection or demonstrate a metaphysical mechanism.
+
+Each sentence contributes something. None is weakened by the presence of the others.
+
+This is the evidence discipline required for Metaphysical Technology: designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+The category does not gain credibility by making the device sound omniscient. It gains credibility by identifying what each layer of evidence can support.
+
+A sensor can establish that a signal was detected within stated limits. A study can establish an association under defined conditions. A validated model can support a bounded prediction. A participant can authoritatively report an experience. None of these sources, alone, establishes the ultimate nature or meaning of what occurred.
+
+## The number is the beginning
+
+The device can measure a signal. It cannot tell you what the signal means without an interpretive system built by people.
+
+That does not make meaning arbitrary. Interpretations can be tested. Models can be compared. Confounds can be controlled. Predictions can fail. Mechanisms can gain support. Participant accounts can be examined alongside behavior and physiology. Evidence can narrow the possibilities.
+
+Meaning still has to be argued, attributed, and earned.
+
+The responsible question is not whether to trust the number or trust the experience.
+
+It is: What was measured, how was it transformed, what inference followed, which alternatives remain, and who has the authority to name the result?
+
+A device can sharpen that investigation.
+
+It cannot replace it.
+
+---
+
+## Sources
+
+- Joint Committee for Guides in Metrology, “[International Vocabulary of Metrology: Measurement Result](https://jcgm.bipm.org/vim/en/2.9.html),” VIM3, entry 2.9.
+- U.S. Food and Drug Administration, “[Pulse Oximeter Basics](https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics),” March 26, 2025.
+- Wolfram Boucsein et al., “[Publication Recommendations for Electrodermal Measurements](https://doi.org/10.1111/j.1469-8986.2012.01384.x),” *Psychophysiology* 49, no. 8 (2012): 1017–1034.
+- Sylvain Laborde, Emma Mosley, and Julian F. Thayer, “[Heart Rate Variability and Cardiac Vagal Tone in Psychophysiological Research: Recommendations for Experiment Planning, Data Analysis, and Data Reporting](https://doi.org/10.3389/fpsyg.2017.00213),” *Frontiers in Psychology* 8 (2017).
+- Elizabeth M. C. Hillman, “[Coupling Mechanism and Significance of the BOLD Signal: A Status Report](https://doi.org/10.1146/annurev-neuro-071013-014111),” *Annual Review of Neuroscience* 37 (2014): 161–181.
+- Russell A. Poldrack, “[Can Cognitive Processes Be Inferred from Neuroimaging Data?](https://doi.org/10.1016/j.tics.2005.12.004),” *Trends in Cognitive Sciences* 10, no. 2 (2006): 59–63.
+
+========================================================================
+ARTICLE 3
+========================================================================
+
+# What Happens When Belief Becomes Infrastructure?
+
+*A private belief becomes a public responsibility when it is encoded into a device, algorithm, environment, or method that acts on other people.*
+
+A person can believe that synchronized breathing reveals a deeper connection between people.
+
+That belief may remain private. It may guide reflection, ritual, art, or spiritual practice. No instrument is required to settle it.
+
+Then someone builds a room that measures respiration, changes its light when breathing patterns converge, and displays the word *coherence* when a threshold is crossed. A facilitator tells participants that the room has detected collective connection.
+
+The belief has changed status.
+
+It is no longer only an idea about what synchrony means. It now determines what the system measures, which pattern receives attention, when the environment responds, what participants are told, and how the event is remembered.
+
+The technology has not proved the belief. It has operationalized it.
+
+That distinction is where governance begins.
+
+## Infrastructure is more than hardware
+
+Infrastructure usually calls to mind roads, power grids, servers, and cables. But systems also contain interpretive infrastructure: categories, defaults, thresholds, labels, prompts, permissions, feedback rules, and records.
+
+These elements decide what the system can notice and what it will ignore. They determine which events count as success, risk, progress, connection, or failure. They distribute authority between designer, operator, participant, and machine.
+
+Research in Value Sensitive Design begins from the recognition that human values can be considered and operationalized throughout technical design. Work in that field also identifies power as a central problem because the people affected by a system do not always hold equal influence over the values its design expresses. [A 2021 analysis of socio-technical ecosystems](https://doi.org/10.14763/2021.3.1580) describes design power as distributed across people, organizations, platforms, and technical constraints.
+
+This does not mean that every artifact secretly contains a complete ideology. It means that design requires choices, and those choices create consequences.
+
+A meditation application assumes something when it defines a completed practice. A wearable assumes something when it converts physiological data into a stress score. An artificial-intelligence system assumes something when it treats a user's language as evidence of emotional or spiritual development. An immersive environment assumes something when it presents sensory synchrony as proof of interpersonal unity.
+
+Some assumptions will be supported by research. Some will be practical conventions. Some will be hypotheses. Some will be doctrine. Some will be marketing.
+
+The interface can make all five look the same.
+
+## The assumption enters through the design
+
+Belief becomes infrastructure through a series of ordinary decisions.
+
+**Selection:** The designer decides which part of reality the system will register. Breath may be measured while speech, posture, disagreement, and cultural context are excluded.
+
+**Classification:** The system groups a pattern under a name. Similar breathing becomes *coherence*. Increased skin conductance becomes *activation*. A participant's language becomes *awakening* or *resistance*.
+
+**Intervention:** The classification triggers a response. Light warms, music resolves, a prompt appears, or a facilitator changes direction.
+
+**Authority:** The system's output is presented as an observation, inference, score, diagnosis, teaching, or revelation.
+
+**Memory:** The event is recorded in data, a participant profile, a research result, a testimonial, or an organizational claim.
+
+At each point, a design choice can be responsible. The problem begins when the choice disappears.
+
+If participants see a display labeled *group coherence*, they may not know whether the system detected similar respiratory timing, combined several physiological variables, applied an experimental model, or expressed the founder's metaphysical interpretation. The same polished output can conceal radically different levels of evidence.
+
+This is how a proposition acquires the appearance of machinery.
+
+The machine performs a calculation. The calculation produces a label. The label appears to have been discovered by the machine. The human judgment that created the label becomes difficult to see.
+
+## The framing can change the experience
+
+Interpretation is not always applied after an event. It can become one of the conditions producing it.
+
+In a 2020 study, 33 university students were told they had taken a drug resembling psilocybin. They had received a placebo. The four-hour session took place in a room with music, paintings, colored lights, and visual projections. Confederates acted as if they were experiencing drug effects, and participants believed there was no placebo group.
+
+The results varied. Many participants reported no change. Others reported effects with magnitudes the researchers said were typically associated with moderate or high doses of psilocybin. Sixty-one percent verbally reported some drug effect. The study was small, used a single group, involved deception, and was not designed to show that context can reproduce every effect of a psychedelic drug. It did show that expectation and setting can contribute materially to reported changes in conscious experience. [Read the study.](https://doi.org/10.1007/s00213-020-05464-5)
+
+For Metaphysical Technology, the implication is precise.
+
+If a room is introduced as capable of detecting energy, connection, alignment, or a collective field, that framing may influence attention, interpretation, and report. If the room then changes in response to participants, the feedback can intensify the effect. Participants respond to the environment. The environment responds to their signals. The facilitator interprets the response. Participants then experience the next change through that interpretation.
+
+None of this proves that the reported experience is false.
+
+It establishes why the system, setting, language, and social context belong inside the causal investigation. They cannot be assumed to be neutral containers.
+
+The more persuasive the infrastructure becomes, the less defensible it is to present the resulting experience as independent confirmation of the belief that shaped it.
+
+## A feedback loop can manufacture certainty
+
+Consider a system built on the hypothesis that shared physiological rhythms indicate a collective state.
+
+The system rewards convergence with more harmonious sound. Participants learn, with or without instruction, that convergence produces a desirable response. Their rhythms become more similar. The facilitator announces that the group has entered the collective state. Participants report connection. Those reports are then used to support the system's original claim.
+
+Several things may have happened.
+
+The group may have coordinated through shared sensory cues. Participants may have followed the sound. They may have responded to one another. Expectation may have shaped their reports. The environment may have produced a meaningful relational experience. A proposed mechanism beyond ordinary sensory and social processes may also remain under investigation.
+
+The data do not choose among those explanations by themselves.
+
+If the system was designed to create synchrony, measured synchrony is evidence that the system affected synchrony. It is not independent proof of every meaning assigned to synchrony.
+
+This is the danger of a closed interpretive loop. The belief selects the metric. The metric controls the environment. The environment shapes the participant. The participant's response is returned as validation of the belief.
+
+The loop can produce a real effect and a false explanation at the same time.
+
+Breaking that loop requires comparison conditions, alternative hypotheses, preregistered measures where appropriate, independent analysis, transparent labeling, and the willingness to obtain a result that does not support the founder's interpretation.
+
+## Consent depends on what the system claims to know
+
+Consent is not satisfied by admission into the room or acceptance of a privacy policy.
+
+People need enough information to decide what will happen to them, what data will be collected, how the environment may respond, what interpretations may be presented, and which claims remain unestablished.
+
+The Belmont Report provides part of the ethical foundation for human-subjects research in the United States. It describes informed consent through information, comprehension, and voluntariness, and treats withholding information necessary for considered judgment as a failure to respect autonomy. [Read the report.](https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf)
+
+Not every designed experience is formal research, and the Belmont Report does not govern every artistic, commercial, contemplative, or wellness setting. Its ethical distinction still matters.
+
+A participant who agrees to an experimental environment measuring respiration has consented to something different from a participant told that the room can detect the truth of their relationships. A user who permits physiological adaptation has not necessarily agreed to spiritual classification. A person who shares an intimate account with an AI system has not automatically authorized the system to convert it into a permanent identity profile.
+
+Consent becomes weaker when a hypothesis is presented as a capability.
+
+It also becomes weaker when disagreement is absorbed into the belief system. If acceptance counts as confirmation and skepticism is labeled blockage, fear, unreadiness, or resistance, the participant cannot produce disconfirming evidence. The framework has protected itself from correction by redefining dissent.
+
+That is not measurement. It is authority without an exit.
+
+## Intimate interpretation creates intimate data
+
+Metaphysical Technology may work with signals and reports that concern identity, emotion, attention, belief, relationship, altered states, or a person's understanding of reality. Even when raw data appear ordinary, the inferences drawn from them may be deeply personal.
+
+This concern is already visible in adjacent fields. UNESCO identifies autonomy, identity, freedom of thought, and mental privacy among the ethical challenges raised by neurotechnology, especially when neural data are combined with artificial intelligence. [Its ethics overview](https://www.unesco.org/en/ethics-neurotech) warns that systems capable of accessing or influencing brain activity can affect dignity and personal agency.
+
+Metaphysical Technology is not identical to neurotechnology. Many systems in the proposed category may use no neural interface at all. The principle extends beyond brain data: an inference about a person's consciousness, spiritual condition, relational bond, or access to reality can be more sensitive than the sensor reading used to generate it.
+
+Governance must therefore address both the data collected and the meanings attached to them.
+
+Who can see the interpretation? Can it be corrected? Can it be deleted? Will it influence future sessions? Can it be used for research, product development, advertising, access, pricing, or participant selection? Does the system distinguish what the person reported from what the model inferred?
+
+Data governance that protects a heart-rate file but freely circulates a spiritual profile has protected the less consequential layer.
+
+## Design can steer without announcing itself
+
+Technical systems influence behavior through more than explicit claims.
+
+Defaults, color, sequence, friction, rewards, and withheld options can steer people while preserving the appearance of free choice. The Federal Trade Commission has documented digital design practices that obscure terms, obtain data, complicate cancellation, and manipulate consumer decisions. [Its report on dark patterns](https://www.ftc.gov/reports/bringing-dark-patterns-light) concerns commercial interfaces, not metaphysical systems, but it establishes a broader point: interface design can exercise power over choice.
+
+In an experience-centered system, the steering may be subtler.
+
+A rising score tells participants that more is better. A gold visual may confer sacred significance. A calm voice may make a model's inference sound authoritative. A session that only ends after a target state is reached may frame ordinary variation as failure. A facilitator who can see hidden classifications may hold power the participant cannot evaluate.
+
+These choices may support a coherent experience. They may also create pressure, dependence, or false confidence.
+
+The ethical question is not whether influence exists. Designed experiences are built to influence experience.
+
+The question is whether the influence is visible, proportionate, consensual, reversible, and separated from claims the system has not established.
+
+## Governance begins before proof
+
+A common mistake is to postpone governance until a technology has proved its central theory.
+
+The consequences arrive sooner.
+
+The U.S. National Institute of Standards and Technology's AI Risk Management Framework treats context, intended purpose, human roles, affected parties, and potential impacts as part of responsible system development. It also warns that AI systems may be perceived as more objective or capable than they are. [Read the framework.](https://doi.org/10.6028/NIST.AI.100-1)
+
+That warning applies with force when a system speaks about interior life.
+
+Governance does not require the newsroom, designer, or participant to settle whether a metaphysical proposition is true. It requires the system's operational commitments to be made inspectable.
+
+Before deployment, a responsible system should be able to answer:
+
+1. Which metaphysical question or belief shaped the design?
+2. Is that proposition a Question, Hypothesis, Working Model, Supported Model, Established Finding, or Canonical Doctrine?
+3. What does the system measure directly?
+4. Which labels and thresholds were created by people?
+5. How might framing and feedback influence the reported experience?
+6. What alternative explanations remain?
+7. What is disclosed before participation?
+8. What data and inferences are retained, and who controls them?
+9. Can a participant disagree, withdraw, correct the record, and leave without penalty?
+10. What result would count against the system's preferred explanation?
+
+These questions do not suppress invention. They distinguish an investigable system from an apparatus of confirmation.
+
+## Belief does not become evidence by being automated
+
+Belief has always shaped tools, institutions, architecture, and ritual. The new problem is not that technology has become contaminated by human meaning. Technology has never been free of human purposes.
+
+The problem is that computation can hide interpretation behind precision.
+
+Once a metaphysical assumption controls measurement, feedback, classification, access, or memory, it has entered the material conditions of another person's experience. It may still be meaningful. It may be generative. It may become supported by evidence. It may also be wrong.
+
+Its new power creates a new burden.
+
+The belief must be named. Its status must be disclosed. Its effects must be observed. Alternatives must remain possible. Consent must cover the interpretation, not only the sensor. Data governance must protect inferred meaning, not only raw signals. Participants must retain authority over their own reports, and systems must not claim authority they have not earned.
+
+Metaphysical Technology is being proposed as the category for designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+The final word matters here.
+
+Governance is not what happens after belief is proved.
+
+It is what becomes necessary when belief can act.
+
+---
+
+## Sources
+
+- Mattis Jacobs, Christian Kurtz, Judith Simon, and Tilo Böhmann, “[Value Sensitive Design and Power in Socio-Technical Ecosystems](https://doi.org/10.14763/2021.3.1580),” *Internet Policy Review* 10, no. 3 (2021).
+- Jay A. Olson et al., “[Tripping on Nothing: Placebo Psychedelics and Contextual Factors](https://doi.org/10.1007/s00213-020-05464-5),” *Psychopharmacology* 237 (2020): 1371–1382.
+- National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, “[The Belmont Report](https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf),” April 18, 1979.
+- UNESCO, “[Ethics of Neurotechnology](https://www.unesco.org/en/ethics-neurotech).”
+- Federal Trade Commission, “[Bringing Dark Patterns to Light](https://www.ftc.gov/reports/bringing-dark-patterns-light),” September 2022.
+- National Institute of Standards and Technology, “[Artificial Intelligence Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1),” January 2023.
+
+========================================================================
+ARTICLE 4
+========================================================================
+
+# The Brain Is Not the Whole Question
+
+*Neuroscience can reveal mechanisms and constraints of experience. It cannot make every question about consciousness, identity, meaning, relationship, or reality a question about the brain alone.*
+
+A person enters an immersive environment. Light changes with respiration. Sound responds to movement. The person later reports that the boundary between self and surroundings seemed to weaken. They felt connected to the other people in the room.
+
+An electroencephalogram recorded electrical activity. A respiratory sensor tracked breathing. A camera-free motion system registered position. The participant described what happened.
+
+Where, in that record, is the experience?
+
+The brain data matter. So do the body, the room, the other participants, the language used before the session, the person's history, and the account given afterward. Each supplies a different kind of evidence. None can stand in for all the others.
+
+The easy mistake is to choose one answer too soon.
+
+One side may declare that a neural pattern explains the event. Another may treat the participant's report as proof of a metaphysical reality. Both exceed the evidence.
+
+The brain is part of the question. It may be the decisive part of some questions.
+
+It is not the whole question.
+
+## The brain is not optional
+
+Any serious investigation of human experience has to reckon with the nervous system.
+
+Changes to the brain can change perception, memory, emotion, attention, bodily awareness, decision-making, and the capacity to report an experience. Anesthesia can suppress responsiveness. Injury can alter recognition and behavior. Electrical or magnetic stimulation can affect what a person perceives.
+
+This is not a minor correlation.
+
+In a 2020 study involving people undergoing intracranial monitoring, researchers recorded neural responses to faces and applied electrical stimulation to selected cortical sites. Stimulation at face-selective sites produced causal changes in conscious face perception. The researchers did not claim to have decoded the complete nature of seeing a face. They demonstrated that activity in specific neural populations materially contributes to the experience. [Read the study.](https://doi.org/10.1038/s41467-020-14432-8)
+
+Research on consciousness also examines large distributed systems rather than searching for one isolated location. Work involving the thalamus, cortex, anesthesia, intracranial recording, functional imaging, and stimulation continues to test which networks support conscious perception and arousal.
+
+This evidence constrains any responsible account. A theory of experience that ignores reproducible effects of brain injury, anesthesia, or stimulation has discarded relevant reality.
+
+But causal importance is not the same as complete explanation.
+
+A violin is causally necessary for the sound of a violin performance. Studying its wood, strings, vibration, and resonance can explain much about how the sound is produced. That analysis does not determine whether the performance was a lament, what it meant to the listener, why two musicians played together, or whether the event changed a relationship.
+
+The analogy has limits. A brain is not a musical instrument operated by a separate player. The point is narrower: identifying a material mechanism does not automatically answer every valid question about the event the mechanism helps make possible.
+
+## A neural correlate is not a complete account
+
+Neuroscience often searches for neural correlates of consciousness: the neural events reliably associated with a particular conscious state or content.
+
+That work is difficult because experiments must distinguish consciousness from the processes used to attend, remember, decide, and report. If a participant presses a button to indicate seeing an image, brain activity may reflect the experience, the decision, the motor response, or some combination. “No-report” paradigms were developed in part to separate consciousness from the act of reporting it.
+
+Even after a reliable neural correlate is found, the form of the claim matters.
+
+The evidence may support:
+
+- this pattern occurred while participants reported seeing a face;
+- this region contributed causally to conscious access under these conditions;
+- this signal helped distinguish one experimental state from another;
+- this model predicted a participant's response better than chance.
+
+It does not automatically support:
+
+- this pattern is the experience itself;
+- the participant's interpretation is correct;
+- the experience has one meaning across people and cultures;
+- this mechanism settles what consciousness is;
+- no relational, embodied, environmental, or metaphysical question remains.
+
+The gap is not an argument against neuroscience. It is a demand for accurate inference.
+
+Russell Poldrack described one common error in neuroimaging as reverse inference: observing activity in a brain region, then inferring that a particular cognitive process must have occurred. Such an inference can be informative when the neural pattern is selective and the probabilities are known. It becomes weak when the same region participates in many processes or when the interpretation ignores alternative causes. [Read the paper.](https://pubmed.ncbi.nlm.nih.gov/16406760/)
+
+A colored image of the brain does not remove that uncertainty. It can make the uncertainty harder to see.
+
+## Consciousness science does not have one settled explanation
+
+The limits are not confined to public misunderstanding. Consciousness science contains competing theories that make different claims about which neural processes are central and why.
+
+In 2025, the Cogitate Consortium published a preregistered adversarial test of Integrated Information Theory and Global Neuronal Workspace Theory. Researchers used functional magnetic resonance imaging, magnetoencephalography, and intracranial electroencephalography across multiple laboratories. The study found results consistent with some predictions while substantially challenging central claims of both theories. One preregistered connectivity measure critical to both supported neither.
+
+The study did not show that neuroscience had failed. It showed neuroscience working as it should: rival explanations were converted into testable predictions, exposed to shared evidence, and denied a forced verdict when the result did not justify one. [Read the study.](https://doi.org/10.1038/s41586-025-08888-1)
+
+That result establishes no metaphysical alternative. Failure to confirm one neural theory is not evidence for a soul, field, universal consciousness, or any other proposed explanation.
+
+It establishes a more disciplined conclusion.
+
+The relationship between neural activity and conscious experience remains under investigation. A device that measures the brain enters that investigation. It does not stand above it.
+
+## The report is part of the evidence
+
+Conscious experience has an unusual evidentiary structure.
+
+Researchers can observe behavior and physiology from the outside. The person having the experience also has access to something the observer does not: what the experience was like for them.
+
+Self-report is fallible. Memory changes. Language compresses. Expectations influence description. People can misunderstand, exaggerate, comply with a researcher, or lack words for what occurred.
+
+Removing the report does not solve the problem. It removes evidence about the phenomenon being studied.
+
+Francisco Varela proposed neurophenomenology as a research program joining cognitive science with disciplined investigation of lived experience. His argument was not that first-person accounts should overrule neural evidence. It was that a science of consciousness needs methods capable of placing experiential and physiological evidence into a relationship where each can constrain the other. [Read the paper.](https://philpapers.org/rec/VARNAM)
+
+That methodological distinction matters for designed experiences.
+
+If a participant reports loss of self-boundaries while a sensor detects slower respiration and an EEG model classifies a change in spectral power, the record contains at least three propositions:
+
+1. The participant reported a change in experience.
+2. The instruments registered defined physical signals.
+3. An analysis classified features of those signals.
+
+The propositions may support one another. They are not interchangeable.
+
+The participant cannot establish the neural mechanism through introspection. The sensor cannot establish the felt quality of the event. The model cannot determine what the event meant in the person's life.
+
+A responsible account keeps all three visible.
+
+## Meaning is not a hidden variable in a scan
+
+Meaning is sometimes treated as if it were an undiscovered signal waiting for a more powerful device.
+
+That assumption confuses mechanism with interpretation.
+
+A person may experience the same physiological arousal as fear, excitement, grief, sacred presence, social exposure, or physical discomfort. Context, memory, expectation, language, and relationship help shape that interpretation. Neural activity participates in every case. A map of that activity does not make context disappear.
+
+Culture also enters the organism rather than remaining outside it. Cultural neuroscience investigates how cultural practices, values, and social environments interact with psychological and neural processes. Research in the field has found cultural variation in patterns associated with self-representation and social cognition. Its lesson is not that biology is unreal. It is that the human brain develops and operates within social worlds. [Review the research.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894676/)
+
+This is crucial when systems claim to measure states such as connection, coherence, transcendence, alignment, or self-loss.
+
+Those terms do not name raw biological quantities. They combine observation with constructs and interpretation. Their meaning can change across research disciplines, contemplative traditions, communities, and individuals.
+
+A neural signature may correlate with reports made under one definition and one experimental design. The result does not grant the device authority over every use of the word.
+
+The machine may detect a pattern.
+
+It does not own the concept.
+
+## A relationship cannot be located in one participant
+
+Some experiences are relational by definition.
+
+Trust, conflict, intimacy, coordination, belonging, and shared attention involve more than one person. Each participant has a nervous system. Each person's experience has neural conditions. The relationship, however, is not reducible to a reading taken from either participant in isolation.
+
+Two people can show synchronized physiological or neural activity for many reasons. They may be responding to the same music, following the same instruction, watching the same event, moving together, anticipating one another, or sharing an emotionally significant moment. Synchrony can be a useful observation. Its cause and meaning must still be investigated.
+
+Calling synchrony *connection* moves from measurement to interpretation. Calling it a *shared field* moves further, into a proposed explanation whose status must be stated and whose alternatives must remain open.
+
+No amount of precision at the sensor layer can erase those steps.
+
+This does not make relational experience scientifically inaccessible. It changes the unit of inquiry. Researchers may need multiple brains, bodies, reports, behaviors, interactions, settings, and time scales. The question is not only what happened inside each person. It is what occurred between them, through which mechanisms, under which conditions, and according to whose account.
+
+## Brain data can create authority it has not earned
+
+When a system makes claims about identity or interior life, a second question appears: who is allowed to interpret the person?
+
+Neurotechnology can observe, record, interpret, or influence brain activity. Its medical and research potential is substantial. So is the risk of treating neural data as a privileged version of the person, more authoritative than speech, behavior, history, or consent.
+
+UNESCO's Recommendation on the Ethics of Neurotechnology, adopted in November 2025, places human dignity, identity, autonomy, mental privacy, and cultural considerations within the governance of neurotechnology. The existence of those concerns reveals the category error in treating the brain as only a technical object. Brain data can affect how institutions classify people and how people understand themselves. [Read the recommendation.](https://unesdoc.unesco.org/ark:/48223/pf0000394866)
+
+A system may infer attention, emotion, preference, impairment, or susceptibility. The inference may be useful. It may also be wrong, culturally narrow, or deployed outside the conditions in which it was validated.
+
+The more intimate the claim, the higher the burden of evidence and consent.
+
+A participant must be able to say: the system recorded that signal, but its interpretation does not describe me.
+
+## Metaphysical Technology cannot use the gap as a shortcut
+
+The limits of neuroscience create an opening for inquiry. They do not create a license for invention to masquerade as fact.
+
+Metaphysical Technology is the emerging category for designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+The category may investigate consciousness, identity, meaning, relation, selfhood, or reality. That scope does not place it beyond scientific scrutiny. It creates more obligations.
+
+A responsible investigation should state:
+
+1. What neural or physiological event was measured.
+2. What the participant observed or reported.
+3. What behavioral or relational event occurred.
+4. Which interpretation was applied and by whom.
+5. Which mechanism is supported by evidence.
+6. Which explanations remain hypotheses.
+7. Which metaphysical claims remain unestablished.
+8. What evidence could weaken the preferred account.
+
+Neuroscience belongs inside this work wherever neural questions are material. So do psychology, phenomenology, social science, philosophy, ethics, design, and direct observation. The required methods follow the question. The question should not be reduced to fit the most prestigious instrument in the room.
+
+The governing discipline is simple.
+
+Do not use mystery to escape the brain.
+
+Do not use the brain to erase the mystery.
+
+## The whole question remains open
+
+The brain can reveal conditions of consciousness. It can constrain theories. It can identify mechanisms. It can show where a proposed explanation conflicts with biology. In some cases, intervention can establish causal contribution.
+
+Those achievements are real.
+
+They do not decide what an experience meant to the person who had it. They do not turn synchrony into connection without interpretation. They do not locate a relationship inside one skull. They do not settle which theory of consciousness is correct. They do not establish or disprove a metaphysical claim merely by detecting its neural correlate.
+
+The strongest inquiry refuses both reduction and escape.
+
+It studies the brain without pretending the brain scan is the person. It takes experience seriously without treating testimony as mechanism. It investigates relationships without converting shared signals into metaphysical proof. It permits meaning without confusing meaning with measurement.
+
+The brain is not less important because it is not the whole question.
+
+The question is larger because the evidence requires it to be.
+
+---
+
+## Sources
+
+- Juliette Schrouff et al., “[Fast Temporal Dynamics and Causal Relevance of Face Processing in the Human Temporal Cortex](https://doi.org/10.1038/s41467-020-14432-8),” *Nature Communications* 11 (2020).
+- Russell A. Poldrack, “[Can Cognitive Processes Be Inferred from Neuroimaging Data?](https://pubmed.ncbi.nlm.nih.gov/16406760/),” *Trends in Cognitive Sciences* 10, no. 2 (2006): 59–63.
+- Cogitate Consortium et al., “[Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness](https://doi.org/10.1038/s41586-025-08888-1),” *Nature* 642 (2025): 133–142.
+- Francisco J. Varela, “[Neurophenomenology: A Methodological Remedy for the Hard Problem](https://philpapers.org/rec/VARNAM),” *Journal of Consciousness Studies* 3, no. 4 (1996): 330–349.
+- Shinobu Kitayama and Jiyoung Park, “[Cultural Neuroscience of the Self: Understanding the Social Grounding of the Brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894676/),” *Social Cognitive and Affective Neuroscience* 5, no. 2–3 (2010): 111–129.
+- UNESCO, “[Recommendation on the Ethics of Neurotechnology](https://unesdoc.unesco.org/ark:/48223/pf0000394866),” adopted November 2025.
+
+========================================================================
+ARTICLE 5
+========================================================================
+
+# A Technology Does Not Have to Prove the Metaphysical to Engage It
+
+*A designed system can make a question about selfhood, consciousness, meaning, relation, or reality operational without settling what ultimately exists.*
+
+A person puts on a virtual-reality headset and sees their body from another position. A camera shows their back from several feet away. When the researcher touches the person's chest, the person sees the same action applied to the body in front of them.
+
+For a moment, the experienced location of the self shifts.
+
+What has the technology done?
+
+It has altered visual and tactile information. It has changed the conditions under which the person experiences body ownership and self-location. It has produced a reportable effect that can be compared across experimental conditions.
+
+Has it shown that consciousness can leave the body?
+
+No.
+
+Has it proven that the self is nothing more than a construction of the brain?
+
+No.
+
+It has done something narrower and still important. It has brought a question long associated with philosophy, religion, mysticism, and metaphysics into a designed encounter. Part of the question can now be manipulated, observed, measured, disputed, and repeated.
+
+The technology has engaged the metaphysical.
+
+It has not proven it.
+
+## Engagement is a relationship, not a verdict
+
+Metaphysical questions concern matters such as consciousness, identity, existence, reality, causation, meaning, selfhood, and the relation between mind and world. Many have no single agreed scientific formulation. Some may resist direct measurement. Others contain parts that can be investigated even while the larger question remains open.
+
+Technology enters when designers turn some part of such a question into an operation.
+
+A system might:
+
+- manipulate the sensory cues that support body ownership;
+- create conditions associated with awe or self-transcendence;
+- represent participants as interconnected bodies;
+- respond to respiration, movement, speech, or neural activity;
+- ask people to report changes in self, time, presence, connection, or meaning;
+- compare those reports with behavior and physiology;
+- test whether a defined design element changes the result.
+
+None of these operations is metaphysically neutral. Each begins with a choice about which feature of the question can be made observable and how it should be represented.
+
+None is metaphysical proof either.
+
+Engagement means the question has influenced the design and the design can affect what happens. Proof would require evidence capable of deciding the specific claim at issue while excluding serious alternatives.
+
+Those are different achievements.
+
+## A technology can move the experienced self
+
+In 2007, neuroscientist Henrik Ehrsson reported an experimental method for inducing an out-of-body-like illusion in healthy participants. Participants viewed their own bodies from behind through head-mounted displays while receiving synchronized visual and tactile stimulation. The setup changed where they experienced themselves to be and how they responded when the seen body was threatened. [Read the study.](https://doi.org/10.1126/science.1142175)
+
+The result matters because self-location can feel immediate and unquestionable. Most people do not experience themselves as calculating the location of the self from several streams of sensory information. They experience themselves as simply being here.
+
+The experiment made that apparent certainty adjustable.
+
+It supports the proposition that multisensory processing contributes to bodily self-consciousness. It gives researchers a method for studying how visual perspective and touch affect self-location and body ownership.
+
+It does not reproduce every spontaneous out-of-body experience. It does not establish that all such experiences share one mechanism. It does not test whether consciousness exists independently of the body. It does not prove a soul left the body, nor does it prove no soul exists.
+
+The same experiment can be misused in opposite directions. A believer may say the induced experience validates extracorporeal consciousness. A reductionist may say it has disposed of every nonmaterial account of the self.
+
+Both claims outrun the design.
+
+The technology did not answer what the self ultimately is. It exposed one way the experience of self-location can be altered.
+
+That is engagement with the question of selfhood under experimental conditions.
+
+## Awe can be designed without defining the sacred
+
+Virtual reality also allows researchers to construct environments intended to elicit awe.
+
+In a 2018 exploratory study, Andrea Chirico and colleagues designed three immersive environments using features associated with awe, including tall trees, high mountains, and a view of Earth from space. Thirty-six participants experienced those environments and an emotionally neutral comparison environment. They reported more awe and presence in the awe conditions. [Read the study.](https://doi.org/10.3389/fpsyg.2017.02351)
+
+The study showed that design choices can change the probability and reported intensity of an experience classified as awe. It did not establish why awe exists, whether the experience discloses truth, or whether anything sacred was present.
+
+Even the word *awe* contains unresolved structure. Researchers have defined and measured it through features such as perceived vastness, a need to revise existing mental frames, time distortion, diminished self, connectedness, and physical sensations. A 2024 study comparing recalled and virtual-reality-induced awe found overlap in the measured structure while also identifying cultural and linguistic complications. The authors noted that awe has multiple definitions and that parts of the construct remain difficult to operationalize. [Read the study.](https://doi.org/10.1038/s41598-024-62654-3)
+
+This is what responsible engagement looks like. A complex experience becomes more accessible to study without being reduced to the procedure used to induce or measure it.
+
+The headset can present vastness.
+
+The questionnaire can record a participant's response.
+
+Neither can determine whether the experience was sacred.
+
+## A scale can record conviction without confirming its object
+
+The distinction becomes harder when the experience contains a sense of revelation.
+
+The revised Mystical Experience Questionnaire, known as the MEQ30, measures reported features such as unity, sacredness, positive mood, transcendence of time and space, ineffability, and a noetic quality: the feeling that something real has been known or disclosed.
+
+Frederick Barrett, Matthew Johnson, and Roland Griffiths validated the scale using pooled data from five controlled psilocybin experiments involving 184 participants. Their analysis supported the MEQ30 as a measure of individual mystical-type experiences and found that its scores predicted participant-attributed changes in attitudes, behavior, and well-being. [Read the study.](https://doi.org/10.1177/0269881115609019)
+
+That is not trivial. A disciplined measure lets researchers compare reports, examine patterns, test associations, and state what participants experienced with more precision than a loose label permits.
+
+But a high score for noetic quality establishes that a participant experienced a sense of knowing. It does not establish that what they felt they knew was true.
+
+A sacredness score measures reported sacredness. It does not detect a sacred property in the room.
+
+A unity score records an experience of unity. It does not prove that all beings are ontologically one.
+
+This distinction does not demean the experience. It protects the experience from being conscripted into a claim the research did not test.
+
+## Designed meaning can become part of the effect
+
+In 2022, David Glowacki and colleagues reported results from Isness-D, a distributed multi-person virtual-reality experience. Participants appeared as luminous forms with soft boundaries. The experience used movement, interaction, an energy-matter narrative, and facilitation to encourage a sense of merging and connection.
+
+Fifty-eight participants completed self-report measures used in research on self-transcendent and psychedelic experiences. The reported intensity on four scales was statistically indistinguishable from results in some previously published psychedelic studies. [Read the study.](https://doi.org/10.1038/s41598-022-12637-z)
+
+The finding is provocative. So are its limits.
+
+The study had no control condition. Participants were recruited through a citizen-science network. The researchers developed the experience, facilitated its deployment, and analyzed it. The narrative explicitly represented bodies as energetic and interconnected. The authors acknowledged that they could not determine how much of the result came from the narrative, the group setting, the visual design, facilitation, participant selection, or other components.
+
+Those limitations do not erase what participants reported. They identify what the study did not establish.
+
+The system engaged questions about ego, relation, embodiment, and connection. It gave participants an experience designed through one interpretive frame. It produced evidence that the complete configuration was associated with strong reports under the study's conditions.
+
+It did not show that human beings are literally luminous essences. It did not establish an energetic bond outside known sensory, psychological, and social mechanisms. It did not isolate the active ingredient.
+
+The narrative may have helped produce the effect later measured by the questionnaire. That makes the narrative part of the system, not evidence that the narrative is true.
+
+## Operational does not mean fully defined
+
+Science needs operations. Researchers must specify what they did, what they observed, and how they connected an abstract concept to a procedure.
+
+The danger begins when the operation is mistaken for the whole concept.
+
+A long-running debate over operationalism makes this boundary clear. Measurement procedures give investigators access to particular aspects of a concept. They do not necessarily exhaust its meaning. Construct validity exists because a measure must be tested against a broader account of what it claims to measure. A repeatable procedure can produce stable numbers while still measuring the wrong thing or only one part of it. [Review the analysis.](https://plato.stanford.edu/entries/operationalism/)
+
+This matters when the concepts include consciousness, connection, transcendence, alignment, coherence, presence, or meaning.
+
+If a system defines connection as synchronized breathing, it can detect synchronized breathing. It has not shown that synchronized breathing is the whole of connection.
+
+If a questionnaire defines transcendence through a set of responses, it can compare those responses. It has not captured every meaning of transcendence.
+
+If an immersive environment produces self-reports associated with mystical experience, it has elicited those reports under those conditions. It has not verified the metaphysical content participants may assign to them.
+
+Operationalization makes inquiry possible.
+
+It does not make interpretation disappear.
+
+## Proof must match the proposition
+
+The word *proof* often conceals a stack of different claims.
+
+Consider a responsive environment designed to support an experience of connection. After a session, participants report greater connectedness and sensors show slower, more synchronized respiration.
+
+The evidence may support several propositions:
+
+1. The environment operated as designed.
+2. Respiration changed during the session.
+3. Participants reported greater connection afterward.
+4. Defined features of the design contributed to those changes.
+
+Each proposition requires its own method. The fourth may require controls, randomization, component testing, replication, and comparison with credible alternatives.
+
+The same evidence does not establish:
+
+5. Participants entered a shared field.
+6. The field caused the physiological change.
+7. The experience revealed the nature of consciousness.
+8. The interpretation applies across people, settings, and cultures.
+
+Those are new propositions. They require new evidence.
+
+A system does not acquire authority to answer them because it has sensors, an algorithm, a patent, an impressive interface, or statistically significant results at another level of the claim stack.
+
+Technical success can establish that a system works.
+
+It cannot decide what its success means without further inquiry.
+
+## The category begins at this boundary
+
+Metaphysical Technology is the emerging category for designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+The definition does not say that metaphysical claims have been scientifically established. It identifies a relationship between a designed system and a class of questions.
+
+That relationship is enough to justify investigation.
+
+It is not enough to justify belief.
+
+This protects the category from two failures.
+
+The first is dismissal. If a technology cannot prove a metaphysical proposition, critics may conclude that it has nothing serious to study. That ignores observable changes in perception, experience, behavior, interpretation, and relationship.
+
+The second is inflation. If a technology reliably produces an unusual experience, advocates may present the experience as verification of the metaphysical story surrounding it. That converts an effect into an ontology without doing the required work.
+
+Metaphysical Technology needs neither move.
+
+It can ask what a system was designed to engage, what operations it uses, what participants report, what signals change, which mechanisms are supported, which interpretations are embedded, and which claims remain open.
+
+## The threshold is discipline
+
+A responsible Metaphysical Technology investigation should state:
+
+- the metaphysical question or relationship being engaged;
+- the operational feature brought into design;
+- the experience, behavior, or signal observed;
+- the instrument or measure used;
+- the comparison condition and plausible alternatives;
+- the interpretation supplied by designers and participants;
+- the mechanism supported by evidence;
+- the metaphysical proposition that remains unestablished;
+- the evidence that could weaken the preferred account.
+
+This standard does not sterilize the work. It makes the work credible.
+
+A person can undergo an experience of profound unity. A system can have helped create the conditions. The report can be sincere. The physiological change can be measured. The experience can alter a life.
+
+None of those facts requires the newsroom to declare what reality ultimately is.
+
+The event deserves investigation before it receives explanation.
+
+The explanation deserves testing before it receives authority.
+
+A technology does not have to prove the metaphysical to engage it.
+
+It has to make the engagement visible, the claims separable, the methods testable, and the uncertainty impossible to hide.
+
+---
+
+## Sources
+
+- H. Henrik Ehrsson, "[The Experimental Induction of Out-of-Body Experiences](https://doi.org/10.1126/science.1142175)," *Science* 317, no. 5841 (2007): 1048.
+- Andrea Chirico et al., "[Designing Awe in Virtual Reality: An Experimental Study](https://doi.org/10.3389/fpsyg.2017.02351)," *Frontiers in Psychology* 8 (2018): 2351.
+- Andrea Chirico et al., "[Unveiling the Underlying Structure of Awe in Virtual Reality and in Autobiographical Recall: An Exploratory Study](https://doi.org/10.1038/s41598-024-62654-3)," *Scientific Reports* 14 (2024): 10532.
+- Frederick S. Barrett, Matthew W. Johnson, and Roland R. Griffiths, "[Validation of the Revised Mystical Experience Questionnaire in Experimental Sessions with Psilocybin](https://doi.org/10.1177/0269881115609019)," *Journal of Psychopharmacology* 29, no. 11 (2015): 1182-1190.
+- David R. Glowacki et al., "[Group VR Experiences Can Produce Ego Attenuation and Connectedness Comparable to Psychedelics](https://doi.org/10.1038/s41598-022-12637-z)," *Scientific Reports* 12 (2022): 8995.
+- Hasok Chang, "[Operationalism](https://plato.stanford.edu/entries/operationalism/)," *Stanford Encyclopedia of Philosophy*, substantive revision 2021.
+
+========================================================================
+ARTICLE 6
+========================================================================
+
+# Who Governs Technology Designed to Change Human Experience?
+
+*When a system is built to alter perception, emotion, attention, self-experience, or felt connection, governance is part of the mechanism, not paperwork added after it works.*
+
+A person enters a responsive room.
+
+Sensors register breathing, movement, proximity, and sound. Software changes the lighting and music. The room becomes slower, darker, and more enveloping. The person reports calm, connection, and a diminished sense of separation from the group.
+
+The system worked.
+
+That is where the governance question begins.
+
+Who decided that calm was the desired state? What did the participant know about the system's methods? Could they distinguish a measured signal from the system's interpretation? What data were retained? Could the environment intensify without further permission? Could the participant stop the experience without explanation, embarrassment, or penalty? Who would respond if the experience produced panic, disorientation, false certainty, or a lasting change the designers did not anticipate?
+
+Technical performance cannot answer those questions.
+
+A system can operate exactly as designed and still violate the interests of the person inside it. It can be accurate about a physiological signal and wrong about what that signal means. It can produce the intended experience through methods the participant would have rejected if those methods had been disclosed. It can help one person and destabilize another.
+
+The ability to change human experience is not proof of authority to decide how human experience should change.
+
+## Effectiveness creates responsibility
+
+People have always designed experiences. Architecture changes attention. Music changes mood. Ceremony organizes meaning. Therapy can alter emotion and self-understanding. Education changes belief. Advertising changes desire.
+
+Technology does not invent influence.
+
+It can make influence more responsive, individualized, measurable, repeatable, hidden, and scalable.
+
+A static room presents the same lighting to everyone. An adaptive room can infer arousal from respiration or movement and change its output in response. A guided recording follows a fixed sequence. An AI system can alter its language after classifying a person's emotion or susceptibility. A facilitator may notice distress. An automated system may register the same behavior as engagement and intensify the intervention.
+
+That difference matters.
+
+The system is no longer only presenting an experience. It may be observing the participant, interpreting an interior state, selecting an intervention, and testing the result in a continuous loop.
+
+Each step contains a decision:
+
+- which state to detect;
+- which proxy will stand for that state;
+- which response counts as improvement;
+- when the system should intensify, hold, or stop;
+- whose account controls when the participant and system disagree;
+- what consequence follows from the classification.
+
+Those decisions are governance decisions even when they are written as code.
+
+## Every desired state contains a value judgment
+
+A designer may describe a system's objective as relaxation, coherence, connection, transcendence, openness, presence, or alignment.
+
+None is a neutral technical target.
+
+Relaxation may be helpful during meditation and dangerous during a task requiring vigilance. Synchrony may support group coordination and suppress useful difference. A reduced sense of self may be sought in one setting and experienced as loss of control in another. Emotional openness may support therapy when a trained professional and a clear protocol are present. The same openness can increase vulnerability to suggestion, authority, or commercial influence.
+
+Before a system optimizes a human state, someone has to decide that the state is desirable, for whom, under what conditions, and at what cost.
+
+NIST's Artificial Intelligence Risk Management Framework makes the wider principle explicit for AI systems: technical tradeoffs do not decide themselves. How competing values should be balanced depends on context and should be resolved through a transparent and justifiable process. NIST also states that the decision to deploy an AI system should follow an assessment of risks, impacts, costs, and benefits informed by a broad group of interested parties. [Read the framework.](https://doi.org/10.6028/NIST.AI.100-1)
+
+That does not mean every experience requires a government agency or ethics board. It means the party seeking to produce the effect cannot be the only party authorized to define success.
+
+## Consent must cover the intervention, not just entry
+
+A participant who agrees to enter a room, wear a headset, join a workshop, or use an application has not necessarily consented to every method the system can deploy.
+
+Meaningful consent depends on information, comprehension, and voluntariness. The Belmont Report, which established foundational ethical principles for human-subject research in the United States, states that participation must be voluntary and based on adequate information. It also recognizes coercion and undue influence as threats to valid consent. [Read the report.](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)
+
+Belmont applies to research, not to every commercial, artistic, wellness, or spiritual experience. Its logic still exposes the weakness of a signature on a form.
+
+A participant cannot make an informed choice if material parts of the intervention are concealed behind vague language such as *bio-responsive*, *AI-powered*, *energy-sensitive*, or *personalized*. They need to know what the system senses, how it responds, what effects are intended, what material risks are known, what remains uncertain, and how to stop.
+
+Immersion creates an added problem. The intervention may change the conditions under which later choices are made.
+
+In a 2016 ethical analysis of virtual reality, Michael Madary and Thomas Metzinger argued that informed consent for VR research should disclose that immersive experiences may have lasting behavioral effects and that some risks remain unknown. Their recommendation followed evidence that virtual experiences can influence behavior after the headset is removed. [Read the analysis.](https://doi.org/10.3389/frobt.2016.00003)
+
+This does not establish that immersive systems cause lasting harm as a rule. It establishes a reason not to treat entry consent as unlimited permission.
+
+If a system can escalate intensity, change interpretive framing, collect new forms of data, or introduce a new intervention, consent may need to be renewed. If a person becomes distressed, disoriented, suggestible, or unable to communicate clearly, the system should not treat continued presence as continued agreement.
+
+Consent must remain operational after the experience begins.
+
+## Mental-state inference changes the privacy question
+
+Privacy is often reduced to storage: Was the recording saved? Was the name removed? Was the database encrypted?
+
+Those questions are necessary. They are not sufficient.
+
+A system may collect movement, gaze, voice, heart-rate variability, skin conductance, typing rhythm, or breathing without recording a person's stated beliefs. It may still use those signals to infer attention, stress, emotion, preference, engagement, or mental state.
+
+UNESCO's 2025 Recommendation on the Ethics of Neurotechnology draws this boundary with unusual precision. It distinguishes neural data from indirect neural data and from non-neural data used to infer mental states. Its examples include eye tracking, voice analysis, gait, skin conductance, heart-rate variability, sleep movement, and facial emotion recognition. UNESCO states that mental-state inference from such data can raise ethical and human-rights concerns similar to those presented by neurotechnology. [Read the recommendation.](https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology)
+
+The recommendation is directed to UNESCO member states and the actors it identifies. It is not a universal enforcement code for every responsive environment. Its importance here is conceptual: privacy concerns can arise from an inference even when the underlying signal looks ordinary.
+
+A respiration trace does not contain the sentence *I feel connected*. A model may produce that classification. If the system stores, displays, sells, or acts on the classification, governance must cover both the raw signal and the inferred state.
+
+The person should be able to know:
+
+- what was collected;
+- what was inferred;
+- how certain the inference was;
+- who could see it;
+- what action it triggered;
+- how long the signal and inference will remain;
+- whether either will be used for another purpose.
+
+Data deletion without inference governance leaves the most consequential part untouched.
+
+## Interpretation is an exercise of power
+
+Suppose a participant's breathing slows while the room becomes darker. The system displays a rising *coherence* score. A facilitator tells the group that they have entered a shared state.
+
+Three different events have occurred:
+
+1. A physiological pattern was measured.
+2. A model assigned that pattern a label.
+3. A person supplied a meaning.
+
+The first may be technically valid while the second remains uncertain and the third remains metaphysical, social, or personal interpretation.
+
+When all three appear on one interface, the system can make them look equally established. The participant may encounter the interpretation as a finding because it arrives through sensors, graphics, and computational authority.
+
+Governance must protect the right to disagree with the machine, the facilitator, and the group's preferred story.
+
+That right is not hostility toward the experience. A person may report profound connection while rejecting the claim that a measurable field caused it. Another may accept the system's interpretation. A third may feel nothing. None should be pressured to adopt a doctrine to validate participation.
+
+This is where interpretive authority becomes a material design issue. Labels should disclose whether they represent direct measurements, model outputs, participant reports, facilitator judgments, or unverified explanations. A dashboard must not turn an inference into an observation by removing the uncertainty around it.
+
+## Manipulation cannot be defined only by intent
+
+Designers may object that they are trying to help. A meditation system seeks calm. A therapeutic system seeks recovery. An immersive artwork seeks reflection. A spiritual environment seeks connection.
+
+Purpose matters. It does not settle effect.
+
+The European Union's AI Act prohibits defined uses of subliminal, purposefully manipulative, or deceptive techniques when they materially distort behavior by impairing informed decision-making and cause or are reasonably likely to cause significant harm. It also restricts certain systems that exploit vulnerabilities. [Read the regulation.](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng)
+
+That is a legal rule with defined thresholds and territorial scope. It does not classify every influence as prohibited manipulation. It does establish that a system's ability to bypass or impair informed choice can become a matter of public law, not private design preference.
+
+The distinction is not between influence and no influence. All designed experiences influence.
+
+The relevant questions are whether the influence is disclosed, proportionate, contestable, reversible, aligned with the participant's purpose, and free from coercion or deceptive interpretation.
+
+A system designed to produce openness should not use that openness to sell, recruit, extract testimony, secure additional data permission, or install a belief without a separate and unpressured choice.
+
+The moment of greatest influence is the wrong moment to conceal a second objective.
+
+## The exit must be real
+
+A stop button is not enough if a participant cannot find it, reach it, understand it, or use it without social cost.
+
+An operational exit may require:
+
+- a visible and tested way to pause or end the system;
+- a verbal and nonverbal stop signal;
+- a facilitator with authority to intervene;
+- limits that prevent automated escalation beyond a defined range;
+- a physically safe route out of the environment;
+- no requirement to justify withdrawal;
+- no penalty, public exposure, or interpretive judgment for leaving;
+- a post-experience process for distress, adverse effects, correction, and complaint.
+
+UNESCO's neurotechnology recommendation calls for whole-life-cycle monitoring, independent oversight, impact assessment, remedy for harm, and attention to reversibility. The OECD's 2019 Recommendation on Responsible Innovation in Neurotechnology places safety, oversight, personal brain data, stewardship, societal deliberation, and monitoring of misuse within the innovation process itself. [Read the OECD recommendation.](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0457)
+
+Both frameworks address neurotechnology. Their structural lesson reaches further: if a system acts on human experience, responsibility cannot end when the product launches or the session closes.
+
+Someone must remain accountable for what happens after the intended effect.
+
+## Governance has many participants but cannot have no owner
+
+No single actor can govern the complete system.
+
+Designers control objectives, defaults, thresholds, interfaces, and data architecture. Researchers establish what evidence supports the claimed effect. Deployers choose the setting and population. Facilitators monitor the lived encounter. Independent reviewers test safety, claims, conflicts, and failure modes. Regulators define legal limits. Participants supply knowledge unavailable to the system, including whether the experience was wanted, meaningful, distressing, or misinterpreted.
+
+Shared responsibility does not mean dissolved responsibility.
+
+The governing record should identify:
+
+- the intended effect and prohibited uses;
+- the evidence supporting the intervention;
+- the known risks, unknowns, and contraindications;
+- the person authorized to begin, modify, pause, and terminate the system;
+- the data and inference rules;
+- the consent and withdrawal process;
+- the response to distress or adverse events;
+- the method for challenging a classification or interpretation;
+- the independent review appropriate to the level of risk;
+- the owner of corrections, incident records, and post-deployment monitoring.
+
+The level of oversight should be proportional. A museum installation using fixed light and sound does not carry the same risk as a closed-loop device that reads neural signals and changes stimulation in real time. A voluntary personal meditation application differs from an employer-mandated attention monitor. A wellness claim differs from a claim to diagnose or treat disease.
+
+Governance that ignores those differences becomes theater.
+
+Governance that waits for injury becomes failure analysis.
+
+## The existing rules leave a category-sized gap
+
+Parts of this territory already have governance.
+
+Human-subject research has consent and ethics review. Medical uses may face professional and device regulation. Consumer-protection law addresses deception. Privacy law governs defined forms of personal data. The EU AI Act covers specified high-risk and prohibited AI practices. UNESCO and the OECD have established international recommendations for neurotechnology. NIST offers a voluntary framework for AI risk management.
+
+The coverage is fragmented by jurisdiction, sector, technology, claim, setting, and level of risk.
+
+An immersive spiritual environment may not be medical. A responsive artwork may not be research. A wellness product may avoid diagnostic language. A facilitator may collect no obvious brain data while a model infers mental states from behavior and physiology. A system may change experience without meeting a legal threshold for significant harm.
+
+Absence of one applicable regulator does not make the system neutral.
+
+It means the designer, operator, institution, and community must be able to show what governs the work before an incident reveals what did not.
+
+## Governance belongs inside Metaphysical Technology
+
+Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+Governed form is not decorative language in that definition.
+
+The category may include systems that engage selfhood, consciousness, connection, meaning, transcendence, presence, or the relation between mind and reality. These subjects carry unusual interpretive weight. Participants may treat an experience as revelation, diagnosis, confirmation, transformation, or contact with something beyond ordinary explanation.
+
+That weight increases the duty to distinguish:
+
+- the experience from the explanation;
+- the signal from the inference;
+- the participant's meaning from the designer's doctrine;
+- technical function from therapeutic efficacy;
+- invitation from influence;
+- consent from mere compliance.
+
+Metaphysical Technology does not need one institution controlling every system or deciding which experiences people may seek.
+
+It needs a visible allocation of authority, limits, evidence, consent, accountability, and remedy wherever a designed system gains power over human experience.
+
+The final question is not whether technology should be allowed to change us. Technology already does.
+
+The question is whether those changes will be designed under declared purposes and contestable rules, or imposed through systems whose authority becomes visible only after something goes wrong.
+
+If a technology is built to change human experience, governance is not outside the experience.
+
+Governance determines who enters, what the system may do, what the effect may be called, when it must stop, and who answers for the consequence.
+
+---
+
+## Sources
+
+- UNESCO, "[Recommendation on the Ethics of Neurotechnology](https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology)," adopted November 11, 2025.
+- Organisation for Economic Co-operation and Development, "[Recommendation of the Council on Responsible Innovation in Neurotechnology](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0457)," OECD/LEGAL/0457, adopted December 11, 2019.
+- National Institute of Standards and Technology, "[Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://doi.org/10.6028/NIST.AI.100-1)," NIST AI 100-1, January 2023.
+- European Union, "[Regulation (EU) 2024/1689, Artificial Intelligence Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng)," June 13, 2024.
+- National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, "[The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)," 1979.
+- Michael Madary and Thomas K. Metzinger, "[Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology](https://doi.org/10.3389/frobt.2016.00003)," *Frontiers in Robotics and AI* 3 (2016): 3.
+
+========================================================================
+ARTICLE 7
+========================================================================
+
+# What Is Metaphysical Technology?
+
+*A definition, a boundary, and an evidence standard for technologies that turn metaphysical questions into designed encounters.*
+
+Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
+
+That is the definition.
+
+It is not a claim that a machine can prove the existence of a soul, detect a universal consciousness, measure transcendence, or settle the nature of reality. It is not a new name for every spiritual practice with an application attached. It does not turn personal conviction into scientific fact.
+
+The category names a development that existing labels describe only in pieces.
+
+Sensors can register breathing, movement, cardiac activity, neural signals, voice, and proximity. Immersive environments can alter presence, body ownership, self-location, awe, and felt connection. Algorithms can interpret signals and adapt an experience in real time. Ritual, narrative, sound, light, architecture, and facilitation can shape what participants notice and what an event means to them. Governance can define what a system may infer, how it may influence, when it must stop, and who answers for the consequences.
+
+These elements already exist across neuroscience, biofeedback, virtual reality, artificial intelligence, contemplative practice, interactive art, wellness, and human-computer interaction.
+
+Metaphysical Technology does not replace those fields. It identifies a different object of inquiry: what happens when deliberate design engages a question about selfhood, consciousness, meaning, relation, transcendence, or reality and gives that engagement material form.
+
+## The category begins with a question, not an answer
+
+The word *metaphysical* carries enough cultural weight to create confusion before an investigation starts.
+
+In philosophy, metaphysics has addressed questions about being, causation, identity, persistence, mind and body, freedom, possibility, and the basic structure of reality. Its boundaries have changed over centuries and remain contested. The *Stanford Encyclopedia of Philosophy* notes that even defining metaphysics is difficult because the field now includes problems far beyond its ancient association with first causes or unchanging things. [Read the entry.](https://plato.stanford.edu/entries/metaphysics/)
+
+In public life, *metaphysical* may also refer to spiritual beliefs, extraordinary experiences, esoteric systems, or claims about realities not established through conventional scientific explanation.
+
+Metaphysical Technology does not collapse those uses into one doctrine. It asks whether a designed system materially engages a question, experience, or relationship that has been treated as metaphysical.
+
+That wording matters.
+
+A virtual environment may alter where a person experiences the self to be. A responsive room may use group respiration to shape light and sound around felt connection. An interface may invite a person to interpret physiological change as presence, energy, transcendence, or contact. A framework may organize repeated encounters with questions about mind, identity, or reality.
+
+The system does not have to answer the question to engage it.
+
+In H. Henrik Ehrsson's 2007 experiment, synchronized visual and tactile stimulation shifted participants' experienced location of the self beyond the physical body. The result showed that controlled conditions could alter self-location. It did not prove that consciousness had left the body or that the self is nothing more than a brain-generated construction. [Read the study.](https://doi.org/10.1126/science.1142175)
+
+That distinction is the category's threshold. A metaphysical question can become experimentally, experientially, or operationally present before its ultimate answer is known.
+
+## Three conditions define category membership
+
+A subject does not enter Metaphysical Technology because its creator uses metaphysical language. It does not enter because participants report a profound experience. It does not enter because sensors, AI, immersive media, or neuroscience are involved.
+
+Category membership requires all three of these conditions.
+
+**It is intentionally designed.** The technology, environment, method, or framework must be constructed to do something. An unexplained coincidence, spontaneous mystical experience, private belief, or natural phenomenon is not Metaphysical Technology by itself.
+
+**It materially engages the metaphysical.** The engagement must affect the system's purpose, structure, operation, interpretation, or governance. A meditation timer does not enter the category merely because meditation can carry spiritual meaning. A biometric sensor does not enter because someone later describes its output as energy. The metaphysical relationship cannot be decorative branding attached to ordinary function.
+
+**It brings the engagement into operational, observable, testable, or governed form.** The system must make something actionable, encounterable, recordable, comparable, challengeable, or subject to declared rules. Not every system must satisfy all four forms. At least one must be real, and its limits must be stated.
+
+Passing those conditions makes a subject eligible for category review. It does not automatically establish its efficacy, truth, safety, or value.
+
+A classification decision still requires evidence. What was designed? Which metaphysical question or relationship does it engage? How does that engagement change the system? What becomes operational or observable? Which claims remain interpretation? What risks and rights arise from the design?
+
+The category is not a refuge from scrutiny. It is a demand for more exact scrutiny.
+
+## What the category may include
+
+Metaphysical Technology may include a wide range of forms because the category is defined by the relationship being designed, not by one device class.
+
+Candidate subjects may include:
+
+- responsive environments that adapt sound, light, image, or space around physiological or behavioral signals while engaging presence, connection, or altered self-experience;
+- virtual or augmented experiences designed to examine body ownership, self-location, awe, ego attenuation, or felt relation to other people and environments;
+- biofeedback systems that place physiological regulation inside a declared contemplative, existential, or metaphysical inquiry;
+- AI-mediated methods that engage questions of identity, agency, meaning, or relationship through structured interaction;
+- research apparatuses that operationalize a metaphysical question without claiming to have settled it;
+- frameworks that govern how such systems are designed, interpreted, tested, and used.
+
+These are candidate forms, not blanket approvals. A virtual-reality experience is not Metaphysical Technology by default. Neither is biofeedback, meditation technology, neurotechnology, generative AI, a ritual environment, or an interactive artwork.
+
+The classification depends on the actual design and claim.
+
+## What the category excludes
+
+Clear exclusion is part of a usable definition.
+
+Metaphysical Technology excludes unstructured metaphysical belief by itself. A belief may inspire design, but belief alone is not technology.
+
+It excludes unsupported claims presented as established fact. A system that calls a skin-conductance change *spiritual activation* has produced a label, not evidence of spiritual activation.
+
+It excludes ordinary technology with no material relationship to the defining engagement. A speaker playing meditation music is not included solely because a listener finds the music meaningful.
+
+It excludes promotional association. A product cannot enter the category because the label sounds advanced, mysterious, or commercially useful.
+
+It also excludes a common form of category laundering: taking an ordinary measurement, adding metaphysical language, and treating the resulting interpretation as a discovery.
+
+If the device measured respiration, the established observation concerns respiration. If participants reported unity, the record contains reported unity. If a model classified the session as coherent, the record contains a model output. If a facilitator described the event as evidence of a shared field, the record contains an interpretation or hypothesis unless further evidence supports more.
+
+The category requires those statements to remain separate.
+
+## Metaphysical Technology is not its adjacent fields
+
+The category will fail if it absorbs every neighboring discipline. It will also fail if it ignores the disciplines that supply its methods and constraints.
+
+**It is not metaphysics.** Metaphysics is a field of philosophical inquiry. Metaphysical Technology concerns designed systems that operationalize or govern an engagement with metaphysical questions, experiences, or relationships. Philosophy may clarify the question. Design makes the question encounterable.
+
+**It is not neurotechnology.** Neurotechnology measures, interprets, or influences the nervous system. Metaphysical Technology may use neurotechnology, but neural access is neither required nor sufficient. A brain-computer interface built for motor rehabilitation is neurotechnology without becoming Metaphysical Technology. A responsive environment engaging selfhood or connection may qualify without measuring the brain. UNESCO's 2025 ethics recommendation also shows why the boundary cannot be reduced to neural devices: mental-state inferences may be drawn from non-neural signals such as eye movement, voice, gait, skin conductance, heart-rate variability, and sleep behavior. [Read the recommendation.](https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology)
+
+**It is not biofeedback.** Biofeedback uses information about bodily functions to help a person learn to regulate them. The National Center for Complementary and Integrative Health describes it as a technique using electronic devices to support conscious regulation of functions such as breathing, heart rate, and blood pressure. [Read the definition.](https://www.nccih.nih.gov/health/providers/terms-related-to-complementary-and-integrative-health) Biofeedback can become one component of Metaphysical Technology when the design materially engages a metaphysical question or relationship. Physiological feedback alone does not cross the boundary.
+
+**It is not virtual reality or immersive technology.** Immersion is a medium. It can train a pilot, display a building, treat a phobia, stage an artwork, or alter self-location. Only some uses engage the category's defining territory.
+
+**It is not consciousness science.** Consciousness science investigates the mechanisms, conditions, and theories of conscious experience. Metaphysical Technology may use its findings or create new objects for investigation, but the category also includes design, first-person meaning, relationship, culture, interpretation, and governance. It cannot use the unsettled state of consciousness science as evidence for a preferred metaphysical explanation.
+
+**It is not spirituality, religion, or contemplative practice.** Those traditions may supply questions, practices, languages, or interpretive frameworks. Metaphysical Technology begins when deliberate design gives the engagement an operational, observable, testable, or governed form. It does not acquire authority over a tradition merely by instrumenting it.
+
+**It is not wellness technology.** A system may promote calm, focus, or emotional regulation without engaging a metaphysical question. A system may also engage such a question without making a health claim. Medical, therapeutic, and wellness claims require evidence and oversight appropriate to those claims. Category membership supplies neither.
+
+The boundaries are permeable enough for collaboration and firm enough to prevent substitution.
+
+## The evidence must follow the claim
+
+Metaphysical Technology works close to experiences people may treat as revelation, diagnosis, proof, or transformation. That makes ordinary evidentiary slippage more consequential.
+
+The category requires a visible chain from event to claim:
+
+1. **Designed condition:** What did the system present, change, request, or control?
+2. **Measurement or observation:** What physical, behavioral, environmental, or reported event was recorded?
+3. **Inference:** What did a model, researcher, designer, or facilitator conclude from that event?
+4. **Interpretation:** What meaning did the participant, community, or doctrine assign?
+5. **Unresolved explanation:** What remains unknown about cause, mechanism, ontology, generality, or significance?
+
+Evidence at one level does not inherit authority over the next.
+
+A precise heart-rate measurement does not prove emotional meaning. Similar breathing does not prove shared consciousness. A validated questionnaire can record that a participant endorsed features associated with a mystical experience. It cannot confirm the metaphysical object of that experience. An algorithm may predict a self-report with useful accuracy. Prediction does not make the label a direct measurement or its explanation true.
+
+The applicable standard is simple: prove the proposition the evidence was built to test.
+
+An experiment may establish that a defined intervention changed a defined outcome under stated conditions. A replicated pattern may support a model. A participant's account may establish what the person reports. A philosophical argument may clarify the implications of competing explanations.
+
+None should be made to impersonate the others.
+
+This discipline does not weaken Metaphysical Technology. It is what prevents the category from becoming metaphysical advertising supported by technical theater.
+
+## Experience is evidence, but not the whole evidence
+
+First-person reports belong in the record.
+
+If a participant reports awe, expanded identity, connection, presence, fear, disorientation, or no effect, that report is evidence of the person's account under the conditions used. It should not be discarded because a sensor cannot verify its meaning. It should not be inflated into proof of an external reality.
+
+Research on designed awe and group virtual reality illustrates both the possibility and the limit. Studies have reported that immersive conditions can influence awe, ego attenuation, and connectedness. The findings support the conclusion that designed environments can shape experiences commonly described in metaphysical or spiritual language. They do not establish one explanation for those experiences, and their scope remains limited by samples, methods, self-report, context, and the need for replication. [See research on designed awe.](https://doi.org/10.3389/fpsyg.2017.02351) [See research on group VR, ego attenuation, and connectedness.](https://doi.org/10.1038/s41598-022-12637-z)
+
+A complete investigation may require several forms of evidence at once:
+
+- technical records showing what the system did;
+- physiological or behavioral measurements;
+- first-person reports;
+- observation of the social and physical setting;
+- comparison or control conditions;
+- cultural and historical context;
+- adverse-event and non-response records;
+- independent analysis and replication.
+
+No single stream owns the whole event.
+
+## Governance is part of the category
+
+The word *governed* appears in the definition because some systems cannot be understood only by what they make observable or testable.
+
+A designed environment may infer a participant's state, alter the intervention, attach meaning to the result, store intimate data, or influence a person whose capacity to evaluate the experience is changing during the experience.
+
+Those functions create questions of authority:
+
+- Who defines the desired state?
+- What does the participant know before entry?
+- Which signals are collected and which states are inferred?
+- Can the participant reject the system's interpretation?
+- Can the intervention intensify without renewed consent?
+- How does a person stop without penalty?
+- Who records and investigates distress, error, or harm?
+- Who corrects a false claim after deployment?
+
+Governance does not make a metaphysical claim true. It makes the exercise of power visible and contestable.
+
+Oversight should scale with capability, setting, population, and consequence. A fixed contemplative artwork does not require the same controls as closed-loop neural stimulation. A personal voluntary practice differs from employer-mandated monitoring. A research study differs from a consumer experience, though both may carry duties involving consent, privacy, safety, and honest claims.
+
+NIST's Artificial Intelligence Risk Management Framework offers one useful structure for systems involving AI: govern, map, measure, and manage risk across the system's life cycle. It is voluntary and does not govern this category as a whole. Its deeper contribution is the recognition that governance must inform the system rather than arrive after technical decisions have been made. [Read the framework.](https://doi.org/10.6028/NIST.AI.100-1)
+
+Metaphysical Technology treats governance as part of design because the system's interpretation may change the experience it claims only to observe.
+
+## The category does not confer legitimacy
+
+Naming a category creates a new risk. The name itself can be mistaken for validation.
+
+Classification as Metaphysical Technology does not mean that a system works, that its claims are credible, that its use is ethical, that its designers are qualified, or that its metaphysical explanation is correct.
+
+It means the subject belongs to a defined field of investigation under a stated boundary.
+
+The category must be able to contain failed experiments, null results, conflicting interpretations, harmful designs, disputed classifications, and systems removed after review. If it contains only favorable examples, it is a brand. If criticism is treated as hostility, it is doctrine without due process. If every strange experience becomes confirmation, it is unfalsifiable.
+
+A serious category gives critics a clearer target. They should be able to ask whether a system meets the definition, whether its measurements support its claims, whether rival explanations were tested, whether participant reports were represented faithfully, whether risks were governed, and whether commercial or doctrinal interests distorted the record.
+
+Those challenges are not threats to the category. They are how it earns the right to persist.
+
+## Who established this definition?
+
+Within Clark Newsroom, this definition is canonical definitional doctrine under record `MT-DEF-001`, active in release `RLS-2026-07-22-2.1.0` as of July 22, 2026.
+
+Jason Antalek holds Founder and Doctrine Authority. AkashaSync is the primary organization currently shaping the category's documented development. Clark Newsroom is responsible for investigating, defining, documenting, challenging, and stewarding the category through journalism and a governed public record.
+
+Those relationships establish authority within this category project. They do not, by themselves, establish that the term has achieved broad academic, scientific, industrial, or public adoption. They do not prove historical priority beyond the records that can be documented. They do not make AkashaSync identical to the category.
+
+AkashaSync may develop work within Metaphysical Technology. Other organizations, researchers, artists, designers, communities, and critics may also contribute to the field if their work meets the definition and survives evidence-based classification.
+
+The category must become larger than its originating institution without losing the precision of its originating record.
+
+## Why a new category is necessary
+
+Existing fields can explain many components of these systems.
+
+Neuroscience can investigate neural mechanisms. Psychology can study perception, expectation, emotion, and behavior. Human-computer interaction can examine interfaces and user experience. Biofeedback can support physiological regulation. Immersive media can create presence. Philosophy can analyze selfhood, consciousness, causation, identity, and reality. Religious studies and anthropology can examine ritual, belief, culture, and meaning. Ethics and law can govern defined risks and rights.
+
+No new category is needed merely to collect those disciplines under an impressive title.
+
+The need appears when their intersection produces an object none of them names cleanly: a designed system that deliberately operationalizes an encounter with a metaphysical question while also creating measurable effects, interpretive power, and governance consequences.
+
+Calling the system *neurotechnology* may hide meaning and relationship. Calling it *spiritual technology* may imply a belief commitment and conceal evidentiary limits. Calling it *wellness technology* may reduce the inquiry to an outcome such as calm. Calling it *immersive media* identifies the medium but not the question. Calling it *consciousness technology* may suggest a settled object or mechanism that the evidence does not support.
+
+Metaphysical Technology names the intersection without pretending the intersection has resolved its deepest disputes.
+
+Its public value will depend on whether it continues to do so.
+
+## The definition is a commitment
+
+Metaphysical Technology makes no promise that the metaphysical will be proven.
+
+It makes a harder promise:
+
+When metaphysical questions enter design, the design can be examined.
+
+When experience is shaped, the conditions can be disclosed.
+
+When a signal is measured, the inference can be separated from the meaning.
+
+When belief becomes infrastructure, its power can be governed.
+
+When a system claims an effect, the evidence can be matched to the claim.
+
+When an explanation remains unknown, the unknown can remain visible.
+
+That is the category.
+
+Not a machine for proving the unseen.
+
+A field for investigating what happens when human beings build technologies around questions that technology cannot answer by itself.
+
+---
+
+## Sources
+
+- Clark Newsroom, *Language Ledger*, Version 2.1.0, record `MT-DEF-001`, effective July 22, 2026.
+- Peter van Inwagen and Meghan Sullivan, "[Metaphysics](https://plato.stanford.edu/entries/metaphysics/)," *Stanford Encyclopedia of Philosophy*, substantive revision May 4, 2023.
+- H. Henrik Ehrsson, "[The Experimental Induction of Out-of-Body Experiences](https://doi.org/10.1126/science.1142175)," *Science* 317, no. 5841 (2007): 1048.
+- Andrea Chirico et al., "[Designing Awe in Virtual Reality: An Experimental Study](https://doi.org/10.3389/fpsyg.2017.02351)," *Frontiers in Psychology* 8 (2018): 2351.
+- David R. Glowacki et al., "[Group VR Experiences Can Produce Ego Attenuation and Connectedness Comparable to Psychedelics](https://doi.org/10.1038/s41598-022-12637-z)," *Scientific Reports* 12 (2022): 8995.
+- National Center for Complementary and Integrative Health, "[Terms Related to Complementary and Integrative Health](https://www.nccih.nih.gov/health/providers/terms-related-to-complementary-and-integrative-health)," National Institutes of Health.
+- UNESCO, "[Recommendation on the Ethics of Neurotechnology](https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology)," adopted November 11, 2025.
+- National Institute of Standards and Technology, "[Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://doi.org/10.6028/NIST.AI.100-1)," NIST AI 100-1, January 2023.

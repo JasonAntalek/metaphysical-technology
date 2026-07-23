@@ -1,3 +1,14 @@
+---
+layout: article
+title: A Technology Does Not Have to Prove the Metaphysical to Engage It
+description: A designed system can operationalize a metaphysical question without settling what ultimately exists.
+permalink: /articles/a-technology-does-not-have-to-prove-the-metaphysical/
+article_order: 5
+previous_url: /articles/the-brain-is-not-the-whole-question/
+previous_title: The Brain Is Not the Whole Question
+next_url: /articles/who-governs-technology-designed-to-change-human-experience/
+next_title: Who Governs Technology Designed to Change Human Experience?
+---
 # A Technology Does Not Have to Prove the Metaphysical to Engage It
 
 *A designed system can make a question about selfhood, consciousness, meaning, relation, or reality operational without settling what ultimately exists.*

@@ -1,7 +1,14 @@
+---
+layout: page
+title: "Metaphysical Technology: Claims and Evidence"
+description: The human-readable map of material category claims, their statuses, support, limitations, and review triggers.
+permalink: /evidence/
+record_type: Evidence map
+---
 # Metaphysical Technology: Claims and Evidence
 
 **Status:** Public evidence map  
-**Machine-readable register:** [CLAIMS.yaml](CLAIMS.yaml)  
+**Machine-readable register:** [CLAIMS.yaml](https://jasonantalek.github.io/metaphysical-technology/CLAIMS.yaml)
 **Last reviewed:** July 23, 2026
 
 This record separates doctrine, observation, report, inference, model, finding, and unresolved explanation. It does not convert the category definition into an empirical discovery.

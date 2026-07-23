@@ -1,3 +1,12 @@
+---
+layout: article
+title: Can an Experience Be Engineered Before It Is Explained?
+description: Technology can shape conditions for awe, presence, altered perception, connection, and meaning without settling what those experiences are.
+permalink: /articles/can-an-experience-be-engineered-before-it-is-explained/
+article_order: 1
+next_url: /articles/the-device-can-measure-a-signal/
+next_title: The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
+---
 # Can an Experience Be Engineered Before It Is Explained?
 
 *Technology can shape the conditions for awe, presence, altered perception, connection, and meaning. That does not mean it has established what those experiences are.*

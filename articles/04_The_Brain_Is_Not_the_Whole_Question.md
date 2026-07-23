@@ -1,3 +1,14 @@
+---
+layout: article
+title: The Brain Is Not the Whole Question
+description: Neuroscience can reveal mechanisms and constraints without reducing every question of consciousness, identity, meaning, or relationship to the brain alone.
+permalink: /articles/the-brain-is-not-the-whole-question/
+article_order: 4
+previous_url: /articles/what-happens-when-belief-becomes-infrastructure/
+previous_title: What Happens When Belief Becomes Infrastructure?
+next_url: /articles/a-technology-does-not-have-to-prove-the-metaphysical/
+next_title: A Technology Does Not Have to Prove the Metaphysical to Engage It
+---
 # The Brain Is Not the Whole Question
 
 *Neuroscience can reveal mechanisms and constraints of experience. It cannot make every question about consciousness, identity, meaning, relationship, or reality a question about the brain alone.*

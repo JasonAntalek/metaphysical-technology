@@ -1,7 +1,14 @@
+---
+layout: page
+title: "Metaphysical Technology: Boundary Map"
+description: A working comparison map distinguishing Metaphysical Technology from adjacent fields without overstating settled boundaries.
+permalink: /boundaries/
+record_type: Working comparison map
+---
 # Metaphysical Technology: Boundary Map
 
 **Status:** Public working comparison map  
-**Controlling doctrine:** [CATEGORY.md](CATEGORY.md)  
+**Controlling doctrine:** [Canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/)
 **Last reviewed:** July 23, 2026
 
 This document compares fields and labels that may overlap with Metaphysical Technology. It does not redefine those fields, claim that every external use is consistent, or classify a subject by association.
@@ -58,4 +65,4 @@ A classification should be rejected or returned for more evidence when:
 
 These comparisons are working editorial guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
 
-For the full boundary argument and cited sources, see [What Is Metaphysical Technology?](articles/07_What_Is_Metaphysical_Technology.md).
+For the full boundary argument and cited sources, see [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).

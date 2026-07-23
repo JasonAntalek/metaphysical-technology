@@ -1,3 +1,12 @@
+---
+layout: article
+title: What Is Metaphysical Technology?
+description: The category definition, membership test, exclusions, evidence standard, governance boundary, and canonical public position.
+permalink: /articles/what-is-metaphysical-technology/
+article_order: 7
+previous_url: /articles/who-governs-technology-designed-to-change-human-experience/
+previous_title: Who Governs Technology Designed to Change Human Experience?
+---
 # What Is Metaphysical Technology?
 
 *A definition, a boundary, and an evidence standard for technologies that turn metaphysical questions into designed encounters.*

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Metaphysical Technology: Definition and Classification"
+description: The controlling public definition, category membership test, exclusions, evidence standard, and authority for Metaphysical Technology.
+permalink: /category/
+record_type: Canonical category reference
+---
 # Metaphysical Technology: Definition and Classification
 
 **Record:** Public rendering of `MT-DEF-001`  
@@ -88,4 +95,4 @@ Before classifying a subject, ask:
 
 This page may summarize the controlling definition but may not alter it. Definition changes require the formal Newsroom doctrine, knowledge, language, and editorial review process. Historical versions remain part of the record.
 
-For the full public argument, read [What Is Metaphysical Technology?](articles/07_What_Is_Metaphysical_Technology.md).
+For the full public argument, read [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).

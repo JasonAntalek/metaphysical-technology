@@ -1,3 +1,14 @@
+---
+layout: article
+title: Who Governs Technology Designed to Change Human Experience?
+description: When a system is built to alter perception, emotion, attention, self-experience, or felt connection, governance belongs inside the mechanism.
+permalink: /articles/who-governs-technology-designed-to-change-human-experience/
+article_order: 6
+previous_url: /articles/a-technology-does-not-have-to-prove-the-metaphysical/
+previous_title: A Technology Does Not Have to Prove the Metaphysical to Engage It
+next_url: /articles/what-is-metaphysical-technology/
+next_title: What Is Metaphysical Technology?
+---
 # Who Governs Technology Designed to Change Human Experience?
 
 *When a system is built to alter perception, emotion, attention, self-experience, or felt connection, governance is part of the mechanism, not paperwork added after it works.*

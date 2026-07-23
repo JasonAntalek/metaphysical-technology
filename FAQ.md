@@ -1,3 +1,10 @@
+---
+layout: page
+title: Metaphysical Technology FAQ
+description: Direct answers to common questions about the category, its evidence standard, its boundaries, and its authority.
+permalink: /faq/
+record_type: Public reference
+---
 # Metaphysical Technology FAQ
 
 ## What is Metaphysical Technology?
@@ -70,7 +77,7 @@ No. Classification does not establish efficacy, safety, ethics, value, regulator
 
 The category definition is doctrine within a governed editorial institution. It is not an empirical finding. Research can support narrower propositions, such as whether a designed condition changes a defined measurement or reported experience. Those findings do not automatically prove the category's metaphysical interpretations.
 
-See [EVIDENCE.md](EVIDENCE.md) for the public claim and evidence map.
+See [Claims and Evidence](https://jasonantalek.github.io/metaphysical-technology/evidence/) for the public claim and evidence map.
 
 ## Who defined the category?
 
@@ -100,4 +107,4 @@ Unknown is a valid status. The repository will preserve unresolved questions ins
 
 ## Where is the controlling public reference?
 
-Start with [CATEGORY.md](CATEGORY.md), then read the category pillar, [What Is Metaphysical Technology?](articles/07_What_Is_Metaphysical_Technology.md).
+Start with the [canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/), then read the category pillar, [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).

@@ -1,3 +1,14 @@
+---
+layout: article
+title: What Happens When Belief Becomes Infrastructure?
+description: Once belief is encoded into a device, algorithm, environment, or method that acts on other people, it becomes a public responsibility.
+permalink: /articles/what-happens-when-belief-becomes-infrastructure/
+article_order: 3
+previous_url: /articles/the-device-can-measure-a-signal/
+previous_title: The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
+next_url: /articles/the-brain-is-not-the-whole-question/
+next_title: The Brain Is Not the Whole Question
+---
 # What Happens When Belief Becomes Infrastructure?
 
 *A private belief becomes a public responsibility when it is encoded into a device, algorithm, environment, or method that acts on other people.*

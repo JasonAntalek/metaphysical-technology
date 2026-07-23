@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article class="record h-entry">
+  <header class="record-header">
+    <p class="eyebrow">Opening series · Article {{ page.article_order }} of 7</p>
+    <h1 class="p-name">{{ page.title }}</h1>
+    <p class="record-meta">Public record · Reviewed July 23, 2026</p>
+  </header>
+  <div class="prose e-content">
+    {{ content }}
+  </div>
+  <nav class="article-nav" aria-label="Article sequence">
+    {% if page.previous_url %}
+      <a class="previous" href="{{ page.previous_url | relative_url }}">
+        <span>Previous</span>
+        {{ page.previous_title }}
+      </a>
+    {% else %}
+      <a class="previous" href="{{ '/articles/' | relative_url }}">
+        <span>Series index</span>
+        Opening series
+      </a>
+    {% endif %}
+    {% if page.next_url %}
+      <a class="next" href="{{ page.next_url | relative_url }}">
+        <span>Next</span>
+        {{ page.next_title }}
+      </a>
+    {% else %}
+      <a class="next" href="{{ '/category/' | relative_url }}">
+        <span>Controlling record</span>
+        Canonical category reference
+      </a>
+    {% endif %}
+  </nav>
+</article>

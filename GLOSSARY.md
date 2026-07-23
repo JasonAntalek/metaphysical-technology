@@ -1,3 +1,10 @@
+---
+layout: page
+title: Metaphysical Technology Glossary
+description: The controlled public vocabulary for category terms, evidence statuses, entities, and governance distinctions.
+permalink: /glossary/
+record_type: Controlled vocabulary
+---
 # Metaphysical Technology Glossary
 
 **Status:** Public controlled vocabulary  

@@ -1,0 +1,17 @@
+title: Metaphysical Technology
+description: >-
+  The public record defining, testing, and governing Metaphysical Technology.
+url: "https://jasonantalek.github.io"
+baseurl: "/metaphysical-technology"
+lang: en-US
+timezone: America/Denver
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - scripts
+
+strict_front_matter: true

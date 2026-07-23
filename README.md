@@ -4,6 +4,8 @@ Metaphysical Technology is an emerging category of designed technologies, enviro
 
 This repository is the public record for defining, testing, challenging, and developing that category.
 
+**Public site:** [jasonantalek.github.io/metaphysical-technology](https://jasonantalek.github.io/metaphysical-technology/)
+
 ## Start here
 
 - [Canonical category reference](CATEGORY.md)
@@ -13,6 +15,9 @@ This repository is the public record for defining, testing, challenging, and dev
 - [Claims and evidence map](EVIDENCE.md)
 - [Machine-readable claim register](CLAIMS.yaml)
 - [JSON-LD ontology](ontology/metaphysical-technology.jsonld)
+- [LLM discovery map](llms.txt)
+- [Consolidated public corpus](llms-full.txt)
+- [Citation metadata](CITATION.cff)
 
 ## The boundary
 
@@ -95,6 +100,25 @@ articles/
   07_What_Is_Metaphysical_Technology.md
 ontology/
   metaphysical-technology.jsonld
+_layouts/
+_includes/
+assets/
+index.md
+llms.txt
+llms-full.txt
+CITATION.cff
+robots.txt
+_config.yml
 ```
 
 Every article includes its own source list. The repository will expand through documented investigations, category classifications, adjacent-field comparisons, case records, criticism, and corrections.
+
+## Machine discovery
+
+The GitHub Pages site provides stable rendered URLs, canonical metadata, a generated sitemap, and previous/next navigation across the opening series. `llms.txt` is a compact retrieval map. `llms-full.txt` consolidates the governed public corpus. `CLAIMS.yaml`, the JSON-LD ontology, and `CITATION.cff` expose structured claim, entity, and citation records.
+
+`llms.txt` is an emerging convention, not a guarantee of model ingestion or retrieval priority. Machine-readable packaging improves access and interpretation. It does not create evidence or authority.
+
+## Release
+
+Version `1.0.0` preserves the first public discovery package for the Metaphysical Technology category record. No reuse license has been granted through this repository.

@@ -1,3 +1,14 @@
+---
+layout: article
+title: The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
+description: Measurement is not interpretation. Sensors produce signals and data. Meaning enters through models, context, language, and judgment.
+permalink: /articles/the-device-can-measure-a-signal/
+article_order: 2
+previous_url: /articles/can-an-experience-be-engineered-before-it-is-explained/
+previous_title: Can an Experience Be Engineered Before It Is Explained?
+next_url: /articles/what-happens-when-belief-becomes-infrastructure/
+next_title: What Happens When Belief Becomes Infrastructure?
+---
 # The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
 
 *Sensors can detect breath, movement, pulse, skin conductance, and changes in blood oxygenation. Meaning enters later, through models, context, language, and human judgment.*
