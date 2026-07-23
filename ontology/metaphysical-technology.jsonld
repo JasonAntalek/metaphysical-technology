@@ -1,0 +1,112 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "mt": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/",
+    "knowledgeStatus": "mt:knowledgeStatus",
+    "governingRecord": "mt:governingRecord"
+  },
+  "@graph": [
+    {
+      "@id": "mt:CATEGORY.md",
+      "@type": "DefinedTermSet",
+      "name": "Metaphysical Technology Public Vocabulary",
+      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/CATEGORY.md",
+      "dateModified": "2026-07-23",
+      "hasDefinedTerm": [
+        {
+          "@id": "mt:term/metaphysical-technology"
+        },
+        {
+          "@id": "mt:term/category-ownership"
+        }
+      ]
+    },
+    {
+      "@id": "mt:term/metaphysical-technology",
+      "@type": "DefinedTerm",
+      "name": "Metaphysical Technology",
+      "description": "An emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.",
+      "termCode": "MT-DEF-001",
+      "inDefinedTermSet": {
+        "@id": "mt:CATEGORY.md"
+      },
+      "knowledgeStatus": "Canonical Doctrine",
+      "governingRecord": "RLS-2026-07-23-3.1.1",
+      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/CATEGORY.md",
+      "subjectOf": {
+        "@id": "mt:articles/07"
+      }
+    },
+    {
+      "@id": "mt:term/category-ownership",
+      "@type": "DefinedTerm",
+      "name": "Category ownership",
+      "description": "Stewardship of definition, evidence, distinction, public understanding, correction, and continuity; not possession of reality.",
+      "inDefinedTermSet": {
+        "@id": "mt:CATEGORY.md"
+      },
+      "knowledgeStatus": "Canonical Doctrine"
+    },
+    {
+      "@id": "mt:organization/akashasync",
+      "@type": "Organization",
+      "name": "AkashaSync",
+      "description": "The primary organization currently shaping the Newsroom beat and the documented development of Metaphysical Technology.",
+      "founder": {
+        "@id": "mt:person/jason-antalek"
+      },
+      "knowsAbout": {
+        "@id": "mt:term/metaphysical-technology"
+      }
+    },
+    {
+      "@id": "mt:person/jason-antalek",
+      "@type": "Person",
+      "name": "Jason Antalek",
+      "description": "Founder of AkashaSync and Founder and Doctrine Authority within Newsroom governance."
+    },
+    {
+      "@id": "mt:organization/newsroom",
+      "@type": "Organization",
+      "name": "Newsroom",
+      "description": "The governed editorial institution maintaining the public record for Metaphysical Technology.",
+      "knowsAbout": {
+        "@id": "mt:term/metaphysical-technology"
+      }
+    },
+    {
+      "@id": "mt:role/clark",
+      "@type": "DefinedTerm",
+      "name": "Clark",
+      "description": "The governed Senior Investigative Journalist role within Newsroom; not a person or the institution itself.",
+      "knowledgeStatus": "Canonical Doctrine"
+    },
+    {
+      "@id": "mt:claims",
+      "@type": "Dataset",
+      "name": "Metaphysical Technology Public Claim Register",
+      "description": "Machine-readable claims, statuses, authorities, sources, limitations, and review triggers.",
+      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/CLAIMS.yaml",
+      "dateModified": "2026-07-23",
+      "creator": {
+        "@id": "mt:organization/newsroom"
+      },
+      "about": {
+        "@id": "mt:term/metaphysical-technology"
+      }
+    },
+    {
+      "@id": "mt:articles/07",
+      "@type": "Article",
+      "headline": "What Is Metaphysical Technology?",
+      "description": "The category definition, membership test, exclusions, evidence standard, governance boundary, and canonical public position.",
+      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/articles/07_What_Is_Metaphysical_Technology.md",
+      "publisher": {
+        "@id": "mt:organization/newsroom"
+      },
+      "about": {
+        "@id": "mt:term/metaphysical-technology"
+      }
+    }
+  ]
+}
