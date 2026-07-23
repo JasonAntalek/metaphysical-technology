@@ -59,10 +59,10 @@ A classification should be rejected or returned for more evidence when:
 - a medium or component is treated as sufficient for membership;
 - a health, scientific, or safety claim borrows legitimacy from the category name;
 - an external field is misrepresented to manufacture distinction;
-- AkashaSync, Jason, Clark, a product, or a publication is treated as identical to the category.
+- an organization, person, product, or publication is treated as identical to the category.
 
 ## Current limits
 
-These comparisons are working editorial guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
+These comparisons are working category guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
 
 For the full boundary argument and cited sources, see [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
