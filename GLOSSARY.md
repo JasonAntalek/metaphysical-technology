@@ -1,58 +1,44 @@
 ---
 layout: page
 title: Metaphysical Technology Glossary
-description: The controlled public vocabulary for category terms, evidence statuses, entities, and governance distinctions.
+description: The controlled public vocabulary for category terms, evidence statuses, classification, and interpretation.
 permalink: /glossary/
 record_type: Controlled vocabulary
 ---
 # Metaphysical Technology Glossary
 
 **Status:** Public controlled vocabulary  
-**Current authority:** `RLS-2026-07-23-3.1.1`  
+**Version:** 1.0.0  
 **Last reviewed:** July 23, 2026
 
-Only terms identified as canonical are canonical. Explanatory entries clarify the public record but do not create doctrine.
+Terms labeled as category standards control this public record. Explanatory entries clarify usage without making empirical claims.
 
 ## Metaphysical Technology
 
 **Type:** Category  
-**Status:** Canonical  
-**Record:** `MT-DEF-001`
+**Status:** Controlling category definition
 
 An emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
 
 ## AkashaSync
 
 **Type:** Organization  
-**Status:** Canonical entity name
+**Status:** Category standard entity name
 
-The primary organization currently shaping the Newsroom beat and the documented development of Metaphysical Technology. AkashaSync is not the category and is not a substitute for independent evidence.
+An organization founded by Jason Antalek that develops work within Metaphysical Technology. AkashaSync is not the category and is not a substitute for independent evidence.
 
 ## Jason Antalek
 
 **Type:** Person  
 **Status:** Public attribution
 
-Founder of AkashaSync. Within Newsroom governance, Jason holds Founder and Doctrine Authority. That authority does not independently verify empirical claims or establish historical priority beyond supporting records.
+Founder of AkashaSync and originator of this public category record. Authorship does not independently verify empirical claims or establish historical priority beyond supporting evidence.
 
-## Clark
-
-**Type:** Governed role  
-**Status:** Canonical
-
-The Senior Investigative Journalist role within Newsroom. Clark investigates, reports, tests claims, documents alternatives and uncertainty, writes, and surfaces corrections. Clark is not a fictional person, the Newsroom itself, or an authority that can independently create doctrine.
-
-## Newsroom
-
-**Type:** Editorial institution  
-**Status:** Governing institution
-
-The institution responsible for maintaining the category's governed editorial record through separated constitutional, doctrine, editorial, knowledge, language, investigation, public-review, and deployment functions.
 
 ## Category ownership
 
 **Type:** Governance concept  
-**Status:** Canonical as stewardship, not possession
+**Status:** Category standard: stewardship, not possession
 
 The long-term responsibility to define, evidence, distinguish, explain, preserve, challenge, and correct a category. It does not mean ownership of reality or the exclusion of independent contributors.
 
@@ -87,76 +73,76 @@ Declared rules make authority, consent, limits, data handling, interpretation, i
 ## Evidence
 
 **Type:** Cross-cutting evidentiary function  
-**Status:** Canonical
+**Status:** Category standard
 
 Material used to support, weaken, limit, or disconfirm a proposition. Evidence is not a lifecycle stage and does not acquire a stronger status through repetition.
 
 ## Question
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A defined matter for inquiry. A question may guide reporting but asserts no answer.
 
 ## Observation
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 Something noticed or recorded before its interpretation has been established.
 
 ## Reported Observation
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 An observation attributed to a source. It establishes what the source reported, not that the report is externally verified.
 
 ## Verified Observation
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 An observation confirmed through evidence sufficient for the proposition stated. Verification remains bounded by method, source, and conditions.
 
 ## Hypothesis
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A proposed explanation or relationship that remains open to testing and disconfirmation.
 
 ## Working Model
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A provisional structure used to organize observations, questions, or possible explanations. It remains revisable and is not an established finding.
 
 ## Supported Model
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A model with meaningful supporting evidence that has survived relevant tests or alternatives within a declared scope. Support does not make the model final or universal.
 
 ## Established Finding
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
-A conclusion supported strongly enough for the stated scope under the Newsroom's evidence standards. New evidence can still limit, correct, or retire it.
+A conclusion supported strongly enough for the stated scope under the declared evidence standards. New evidence can still limit, correct, or retire it.
 
-## Canonical Doctrine
+## Category Standard
 
-**Type:** Knowledge status  
-**Status:** Canonical
+**Type:** Public record status  
+**Status:** Category standard
 
-An authorized definition, principle, or institutional position adopted through the governing doctrine process. Doctrine establishes what the institution holds within its authority. It does not convert a non-empirical position into an empirical finding.
+A definition, boundary, classification rule, or evidence rule declared as controlling for this public category record. A category standard states how the record operates. It does not convert a non-empirical position into an empirical finding.
 
 ## Classification
 
-**Type:** Editorial and knowledge decision  
+**Type:** Category decision  
 **Status:** Explanatory
 
 A documented determination that a specific subject does or does not meet the category criteria. Classification establishes membership under the stated record. It does not establish efficacy, safety, ethics, or truth.
