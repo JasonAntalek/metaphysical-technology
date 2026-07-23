@@ -204,15 +204,13 @@ Those challenges are not threats to the category. They are how it earns the righ
 
 ## Who established this definition?
 
-Within Clark Newsroom, this definition is canonical definitional doctrine under record `MT-DEF-001`, active in release `RLS-2026-07-22-2.1.0` as of July 22, 2026.
+Jason Antalek established this public category record and founded AkashaSync, an organization developing work within Metaphysical Technology.
 
-Jason Antalek holds Founder and Doctrine Authority. AkashaSync is the primary organization currently shaping the category's documented development. Clark Newsroom is responsible for investigating, defining, documenting, challenging, and stewarding the category through journalism and a governed public record.
+That authorship identifies responsibility for the definition. It does not, by itself, establish broad academic, scientific, industrial, or public adoption. It does not prove historical priority beyond supporting evidence. It does not make AkashaSync identical to the category.
 
-Those relationships establish authority within this category project. They do not, by themselves, establish that the term has achieved broad academic, scientific, industrial, or public adoption. They do not prove historical priority beyond the records that can be documented. They do not make AkashaSync identical to the category.
+Other organizations, researchers, artists, designers, communities, and critics may contribute to the field if their work meets the definition and survives evidence-based classification.
 
-AkashaSync may develop work within Metaphysical Technology. Other organizations, researchers, artists, designers, communities, and critics may also contribute to the field if their work meets the definition and survives evidence-based classification.
-
-The category must become larger than its originating institution without losing the precision of its originating record.
+The category must become larger than its originating record without losing the precision of that record.
 
 ## Why a new category is necessary
 
@@ -258,7 +256,6 @@ A field for investigating what happens when human beings build technologies arou
 
 ## Sources
 
-- Clark Newsroom, *Language Ledger*, Version 2.1.0, record `MT-DEF-001`, effective July 22, 2026.
 - Peter van Inwagen and Meghan Sullivan, "[Metaphysics](https://plato.stanford.edu/entries/metaphysics/)," *Stanford Encyclopedia of Philosophy*, substantive revision May 4, 2023.
 - H. Henrik Ehrsson, "[The Experimental Induction of Out-of-Body Experiences](https://doi.org/10.1126/science.1142175)," *Science* 317, no. 5841 (2007): 1048.
 - Andrea Chirico et al., "[Designing Awe in Virtual Reality: An Experimental Study](https://doi.org/10.3389/fpsyg.2017.02351)," *Frontiers in Psychology* 8 (2018): 2351.
