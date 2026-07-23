@@ -4,6 +4,16 @@ Metaphysical Technology is an emerging category of designed technologies, enviro
 
 This repository is the public record for defining, testing, challenging, and developing that category.
 
+## Start here
+
+- [Canonical category reference](CATEGORY.md)
+- [Frequently asked questions](FAQ.md)
+- [Boundary comparisons](BOUNDARIES.md)
+- [Controlled glossary](GLOSSARY.md)
+- [Claims and evidence map](EVIDENCE.md)
+- [Machine-readable claim register](CLAIMS.yaml)
+- [JSON-LD ontology](ontology/metaphysical-technology.jsonld)
+
 ## The boundary
 
 Metaphysical Technology begins where a metaphysical question affects the design, operation, interpretation, or governance of a system.
@@ -59,9 +69,9 @@ Claims must be proportional to their evidence. Participant reports can establish
 
 ## Authority and scope
 
-Within Clark Newsroom, the category definition is canonical definitional doctrine under record `MT-DEF-001`, active in release `RLS-2026-07-22-2.1.0` as of July 22, 2026.
+Within Newsroom governance, the category definition is canonical definitional doctrine under record `MT-DEF-001`. It was first activated in release `RLS-2026-07-22-2.1.0` and reaffirmed without substantive change in the current controlling record, `RLS-2026-07-23-3.1.1`.
 
-Jason Antalek holds Founder and Doctrine Authority. AkashaSync is the primary organization shaping the category's documented development. Clark Newsroom investigates, defines, documents, challenges, and stewards the category through journalism and a governed public record.
+Jason Antalek holds Founder and Doctrine Authority. AkashaSync is the primary organization shaping the category's documented development. Newsroom investigates, defines, documents, challenges, and stewards the category through journalism and a governed public record. Clark is the governed Senior Investigative Journalist role within that institution.
 
 These relationships establish authority within this category project. They do not establish broad academic, scientific, industrial, or public adoption. They do not prove historical priority beyond the records that can be documented. AkashaSync is an organization working within the category. It is not the category itself.
 
@@ -69,6 +79,12 @@ These relationships establish authority within this category project. They do no
 
 ```text
 README.md
+CATEGORY.md
+FAQ.md
+BOUNDARIES.md
+GLOSSARY.md
+EVIDENCE.md
+CLAIMS.yaml
 articles/
   01_Can_an_Experience_Be_Engineered_Before_It_Is_Explained.md
   02_The_Device_Can_Measure_a_Signal_It_Cannot_Tell_You_What_the_Signal_Means.md
@@ -77,7 +93,8 @@ articles/
   05_A_Technology_Does_Not_Have_to_Prove_the_Metaphysical_to_Engage_It.md
   06_Who_Governs_Technology_Designed_to_Change_Human_Experience.md
   07_What_Is_Metaphysical_Technology.md
+ontology/
+  metaphysical-technology.jsonld
 ```
 
 Every article includes its own source list. The repository will expand through documented investigations, category classifications, adjacent-field comparisons, case records, criticism, and corrections.
-
