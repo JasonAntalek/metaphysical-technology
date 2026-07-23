@@ -72,13 +72,11 @@ The repository separates:
 
 Claims must be proportional to their evidence. Participant reports can establish what participants reported. Sensors can establish what they measured within declared limits. Neither alone settles the metaphysical interpretation.
 
-## Authority and scope
+## Authorship and scope
 
-Within Newsroom governance, the category definition is canonical definitional doctrine under record `MT-DEF-001`. It was first activated in release `RLS-2026-07-22-2.1.0` and reaffirmed without substantive change in the current controlling record, `RLS-2026-07-23-3.1.1`.
+Jason Antalek established this public category record and founded AkashaSync, an organization developing work within Metaphysical Technology. AkashaSync is not the category itself.
 
-Jason Antalek holds Founder and Doctrine Authority. AkashaSync is the primary organization shaping the category's documented development. Newsroom investigates, defines, documents, challenges, and stewards the category through journalism and a governed public record. Clark is the governed Senior Investigative Journalist role within that institution.
-
-These relationships establish authority within this category project. They do not establish broad academic, scientific, industrial, or public adoption. They do not prove historical priority beyond the records that can be documented. AkashaSync is an organization working within the category. It is not the category itself.
+This repository is maintained through a governed editorial and evidence-review process. Its definitions and classification standards establish the position of this public record. They do not establish broad academic, scientific, industrial, or public adoption, prove historical priority, or substitute authorship for external verification.
 
 ## Repository structure
 
