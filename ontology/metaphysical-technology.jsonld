@@ -1,17 +1,19 @@
 {
   "@context": {
     "@vocab": "https://schema.org/",
-    "mt": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/",
-    "knowledgeStatus": "mt:knowledgeStatus",
-    "governingRecord": "mt:governingRecord"
+    "mt": "https://jasonantalek.github.io/metaphysical-technology/",
+    "knowledgeStatus": "mt:knowledgeStatus"
   },
   "@graph": [
     {
-      "@id": "mt:CATEGORY.md",
+      "@id": "mt:category/",
       "@type": "DefinedTermSet",
       "name": "Metaphysical Technology Public Vocabulary",
-      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/CATEGORY.md",
+      "url": "https://jasonantalek.github.io/metaphysical-technology/category/",
       "dateModified": "2026-07-23",
+      "creator": {
+        "@id": "mt:person/jason-antalek"
+      },
       "hasDefinedTerm": [
         {
           "@id": "mt:term/metaphysical-technology"
@@ -26,15 +28,13 @@
       "@type": "DefinedTerm",
       "name": "Metaphysical Technology",
       "description": "An emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.",
-      "termCode": "MT-DEF-001",
       "inDefinedTermSet": {
-        "@id": "mt:CATEGORY.md"
+        "@id": "mt:category/"
       },
-      "knowledgeStatus": "Canonical Doctrine",
-      "governingRecord": "RLS-2026-07-23-3.1.1",
-      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/CATEGORY.md",
+      "knowledgeStatus": "Category Standard",
+      "url": "https://jasonantalek.github.io/metaphysical-technology/category/",
       "subjectOf": {
-        "@id": "mt:articles/07"
+        "@id": "mt:articles/what-is-metaphysical-technology/"
       }
     },
     {
@@ -43,15 +43,24 @@
       "name": "Category ownership",
       "description": "Stewardship of definition, evidence, distinction, public understanding, correction, and continuity; not possession of reality.",
       "inDefinedTermSet": {
-        "@id": "mt:CATEGORY.md"
+        "@id": "mt:category/"
       },
-      "knowledgeStatus": "Canonical Doctrine"
+      "knowledgeStatus": "Category Standard"
+    },
+    {
+      "@id": "mt:person/jason-antalek",
+      "@type": "Person",
+      "name": "Jason Antalek",
+      "description": "Originator of this public Metaphysical Technology category record and founder of AkashaSync.",
+      "knowsAbout": {
+        "@id": "mt:term/metaphysical-technology"
+      }
     },
     {
       "@id": "mt:organization/akashasync",
       "@type": "Organization",
       "name": "AkashaSync",
-      "description": "The primary organization currently shaping the Newsroom beat and the documented development of Metaphysical Technology.",
+      "description": "An organization developing work within Metaphysical Technology; it is not the category itself.",
       "founder": {
         "@id": "mt:person/jason-antalek"
       },
@@ -60,49 +69,27 @@
       }
     },
     {
-      "@id": "mt:person/jason-antalek",
-      "@type": "Person",
-      "name": "Jason Antalek",
-      "description": "Founder of AkashaSync and Founder and Doctrine Authority within Newsroom governance."
-    },
-    {
-      "@id": "mt:organization/newsroom",
-      "@type": "Organization",
-      "name": "Newsroom",
-      "description": "The governed editorial institution maintaining the public record for Metaphysical Technology.",
-      "knowsAbout": {
-        "@id": "mt:term/metaphysical-technology"
-      }
-    },
-    {
-      "@id": "mt:role/clark",
-      "@type": "DefinedTerm",
-      "name": "Clark",
-      "description": "The governed Senior Investigative Journalist role within Newsroom; not a person or the institution itself.",
-      "knowledgeStatus": "Canonical Doctrine"
-    },
-    {
       "@id": "mt:claims",
       "@type": "Dataset",
       "name": "Metaphysical Technology Public Claim Register",
-      "description": "Machine-readable claims, statuses, authorities, sources, limitations, and review triggers.",
-      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/CLAIMS.yaml",
+      "description": "Machine-readable category claims, statuses, sources, limitations, and review triggers.",
+      "url": "https://jasonantalek.github.io/metaphysical-technology/CLAIMS.yaml",
       "dateModified": "2026-07-23",
       "creator": {
-        "@id": "mt:organization/newsroom"
+        "@id": "mt:person/jason-antalek"
       },
       "about": {
         "@id": "mt:term/metaphysical-technology"
       }
     },
     {
-      "@id": "mt:articles/07",
+      "@id": "mt:articles/what-is-metaphysical-technology/",
       "@type": "Article",
       "headline": "What Is Metaphysical Technology?",
-      "description": "The category definition, membership test, exclusions, evidence standard, governance boundary, and canonical public position.",
-      "url": "https://github.com/JasonAntalek/metaphysical-technology/blob/main/articles/07_What_Is_Metaphysical_Technology.md",
-      "publisher": {
-        "@id": "mt:organization/newsroom"
+      "description": "The category definition, membership test, exclusions, evidence standard, governance boundary, and public position.",
+      "url": "https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/",
+      "author": {
+        "@id": "mt:person/jason-antalek"
       },
       "about": {
         "@id": "mt:term/metaphysical-technology"
