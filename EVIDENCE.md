@@ -11,20 +11,18 @@ record_type: Evidence map
 **Machine-readable register:** [CLAIMS.yaml](https://jasonantalek.github.io/metaphysical-technology/CLAIMS.yaml)
 **Last reviewed:** July 23, 2026
 
-This record separates doctrine, observation, report, inference, model, finding, and unresolved explanation. It does not convert the category definition into an empirical discovery.
+This record separates category standards, observation, report, inference, model, finding, and unresolved explanation. It does not convert the category definition into an empirical discovery.
 
 ## Current claim map
 
 | Claim ID | Proposition | Status | What supports the status | What the status does not establish |
 | --- | --- | --- | --- | --- |
-| `MT-CLM-001` | The canonical definition of Metaphysical Technology | Canonical Doctrine | Authorized Newsroom definition `MT-DEF-001` | Scientific truth, external adoption, or historical priority |
-| `MT-CLM-002` | The three-part membership test | Canonical Doctrine | Authorized classification rule in `MT-DEF-001` | Automatic inclusion, efficacy, safety, or value |
-| `MT-CLM-003` | The definition does not establish metaphysical explanations scientifically | Canonical Doctrine | Explicit evidence limitation in the controlling record | That every metaphysical proposition is false or untestable |
-| `MT-CLM-004` | AkashaSync's relationship to the beat and documented development | Canonical Doctrine | Newsroom entity record | Independent public leadership or ownership of the category |
-| `MT-CLM-005` | Jason Antalek's founder and Newsroom authority roles | Canonical Doctrine | Newsroom founder and authority record | Independent verification of empirical or historical claims |
-| `MT-CLM-006` | What participant reports can establish | Canonical Doctrine | Newsroom evidence rule | Cause, mechanism, ontology, or universal meaning |
-| `MT-CLM-007` | What sensor measurements can establish | Canonical Doctrine | Newsroom evidence rule | Meaning or metaphysical explanation |
-| `MT-CLM-008` | Broad external adoption is not established by the current record | Working Model | Current repository and governance record | A systematic finding that no external adoption exists |
+| `MT-CLM-001` | The controlling definition of Metaphysical Technology | Category Standard | Published definition and category pillar | Scientific truth, external adoption, or historical priority |
+| `MT-CLM-002` | The three-part membership test | Category Standard | Published classification criteria | Automatic inclusion, efficacy, safety, or value |
+| `MT-CLM-003` | The definition does not establish metaphysical explanations scientifically | Category Standard | Explicit evidence limitation in the controlling definition | That every metaphysical proposition is false or untestable |
+| `MT-CLM-004` | What participant reports can establish | Category Standard | Published evidence rule | Cause, mechanism, ontology, or universal meaning |
+| `MT-CLM-005` | What sensor measurements can establish | Category Standard | Published evidence rule | Meaning or metaphysical explanation |
+| `MT-CLM-006` | Broad external adoption is not established by the current record | Working Model | Current public repository scope | A systematic finding that no external adoption exists |
 
 ## Evidence chain
 
@@ -49,7 +47,7 @@ Evidence may:
 - distinguish among competing explanations;
 - establish what a source said without establishing that the statement is true.
 
-Evidence is not a knowledge status. Repetition, popularity, founder position, technical complexity, or category membership cannot promote a claim.
+Evidence is not a knowledge status. Repetition, popularity, authorship, technical complexity, or category membership cannot promote a claim.
 
 ## Source and claim rules
 
@@ -69,9 +67,9 @@ A model output establishes that the model produced an output under stated inputs
 
 An environment can establish that defined conditions were created and that declared outputs changed. Participant response, causal mechanism, interpretation, durability, and transfer beyond the setting remain separate propositions.
 
-### Doctrine
+### Category standards
 
-Doctrine can establish a definition, principle, institutional position, or authority relationship inside its governed scope. It cannot transform a belief, interpretation, or unverified origin claim into an empirical finding.
+A category standard can establish a definition, boundary, classification rule, or evidence rule for this public record. It cannot transform a belief, interpretation, or unverified origin claim into an empirical finding.
 
 ## Evidence required for a category classification
 
@@ -92,7 +90,7 @@ A responsible classification record should contain:
 
 The public record does not yet contain:
 
-- a governed catalog of classified examples;
+- a public catalog of classified examples;
 - a systematic study of external category adoption;
 - a verified first-use and historical-origin dossier for every public origin claim;
 - a complete comparison record for all adjacent categories;
@@ -109,7 +107,7 @@ When evidence changes a public claim, the record should state:
 - the new evidence;
 - the corrected status or wording;
 - the effect on classifications and publications;
-- the approving authority;
+- the responsible reviewer or maintainer;
 - the date and review trigger.
 
 Corrections must not be silent.
