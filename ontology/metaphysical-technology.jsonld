@@ -27,7 +27,7 @@
       "@id": "mt:term/metaphysical-technology",
       "@type": "DefinedTerm",
       "name": "Metaphysical Technology",
-      "description": "An emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.",
+      "description": "Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.",
       "inDefinedTermSet": {
         "@id": "mt:category/"
       },
