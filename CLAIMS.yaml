@@ -1,0 +1,133 @@
+schema_version: "1.0"
+record_set: "Metaphysical Technology public claim register"
+last_reviewed: "2026-07-23"
+governing_release: "RLS-2026-07-23-3.1.1"
+status_vocabulary:
+  - Question
+  - Observation
+  - Reported Observation
+  - Verified Observation
+  - Hypothesis
+  - Working Model
+  - Supported Model
+  - Established Finding
+  - Canonical Doctrine
+claims:
+  - id: MT-CLM-001
+    claim: "Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form."
+    knowledge_status: "Canonical Doctrine"
+    authority: "MT-DEF-001"
+    evidence_function: "Defines the object of inquiry; does not report an empirical finding."
+    confidence: "Not applicable to doctrinal authority"
+    sources:
+      - "CATEGORY.md"
+      - "articles/07_What_Is_Metaphysical_Technology.md"
+    limitations:
+      - "Does not establish that metaphysical explanations are scientifically true."
+      - "Does not establish broad academic, scientific, industrial, or public adoption."
+    counterevidence: []
+    review_trigger: "Formal definition challenge, doctrine amendment, material boundary conflict, or scheduled language audit."
+
+  - id: MT-CLM-002
+    claim: "Category membership requires intentional design, material engagement with a metaphysical question, experience, or relationship, and operational, observable, testable, or governed form."
+    knowledge_status: "Canonical Doctrine"
+    authority: "MT-DEF-001"
+    evidence_function: "Supplies the category classification rule."
+    confidence: "Not applicable to doctrinal authority"
+    sources:
+      - "CATEGORY.md"
+      - "articles/07_What_Is_Metaphysical_Technology.md"
+    limitations:
+      - "Passing the test creates eligibility for documented review, not automatic inclusion."
+      - "Membership does not establish efficacy, safety, ethics, value, or truth."
+    counterevidence: []
+    review_trigger: "A classification exposes ambiguity or a formal doctrine change is approved."
+
+  - id: MT-CLM-003
+    claim: "The category definition does not assert that metaphysical explanations have been scientifically established."
+    knowledge_status: "Canonical Doctrine"
+    authority: "MT-DEF-001"
+    evidence_function: "Limits the inference permitted from the definition."
+    confidence: "Not applicable to doctrinal authority"
+    sources:
+      - "CATEGORY.md"
+      - "FAQ.md"
+    limitations:
+      - "Individual scientific propositions must be assessed under their own evidence."
+    counterevidence: []
+    review_trigger: "Any repository language implies scientific establishment from category membership."
+
+  - id: MT-CLM-004
+    claim: "AkashaSync is the primary organization currently shaping the Newsroom beat and the documented development of Metaphysical Technology."
+    knowledge_status: "Canonical Doctrine"
+    authority: "Newsroom canonical entity record"
+    evidence_function: "Defines the organization's relationship within the Newsroom record."
+    confidence: "Not applicable to institutional entity doctrine"
+    sources:
+      - "CATEGORY.md"
+      - "GLOSSARY.md"
+    limitations:
+      - "AkashaSync is not the category."
+      - "The statement does not establish independent public leadership, adoption, or historical priority."
+    counterevidence: []
+    review_trigger: "Organizational status changes or independent evidence materially changes the relationship."
+
+  - id: MT-CLM-005
+    claim: "Jason Antalek is the founder of AkashaSync and holds Founder and Doctrine Authority within Newsroom governance."
+    knowledge_status: "Canonical Doctrine"
+    authority: "Newsroom founder and authority record"
+    evidence_function: "Records institutional identity and authority."
+    confidence: "Not applicable to institutional authority"
+    sources:
+      - "CATEGORY.md"
+      - "GLOSSARY.md"
+    limitations:
+      - "Founder authority is not independent verification of empirical claims."
+      - "Specific first-use, authorship, and historical-priority claims require separate evidence."
+    counterevidence: []
+    review_trigger: "A controlling governance record changes or a specific origin claim is investigated."
+
+  - id: MT-CLM-006
+    claim: "A participant report can establish what the participant reported, but does not alone establish the cause, mechanism, ontology, or universal meaning of the experience."
+    knowledge_status: "Canonical Doctrine"
+    authority: "Newsroom evidence discipline"
+    evidence_function: "Defines the permitted inference from reported experience."
+    confidence: "Not applicable to evidentiary rule"
+    sources:
+      - "EVIDENCE.md"
+      - "articles/02_The_Device_Can_Measure_a_Signal_It_Cannot_Tell_You_What_the_Signal_Means.md"
+      - "articles/07_What_Is_Metaphysical_Technology.md"
+    limitations:
+      - "A report may contribute to a larger evidentiary record."
+    counterevidence: []
+    review_trigger: "Evidence standards change or a publication collapses report into external fact."
+
+  - id: MT-CLM-007
+    claim: "A sensor measurement can establish a bounded measurement under declared conditions, but does not alone establish the meaning or metaphysical explanation of that measurement."
+    knowledge_status: "Canonical Doctrine"
+    authority: "Newsroom evidence discipline"
+    evidence_function: "Defines the permitted inference from measurement."
+    confidence: "Not applicable to evidentiary rule"
+    sources:
+      - "EVIDENCE.md"
+      - "articles/02_The_Device_Can_Measure_a_Signal_It_Cannot_Tell_You_What_the_Signal_Means.md"
+    limitations:
+      - "Instrument validity, uncertainty, preprocessing, context, and model performance remain claim-specific."
+    counterevidence: []
+    review_trigger: "A publication represents interpretation as direct detection."
+
+  - id: MT-CLM-008
+    claim: "The current public record does not establish broad academic, scientific, industrial, or public adoption of Metaphysical Technology."
+    knowledge_status: "Working Model"
+    authority: "Current repository scope assessment"
+    evidence_function: "States the limit of the available record."
+    confidence: "Moderate"
+    sources:
+      - "CATEGORY.md"
+      - "FAQ.md"
+      - "articles/07_What_Is_Metaphysical_Technology.md"
+    limitations:
+      - "This is not a systematic adoption study."
+      - "Independent uses may exist outside the inspected record."
+    counterevidence: []
+    review_trigger: "Independent citations, institutions, publications, classifications, or adoption evidence are documented."
