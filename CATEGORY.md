@@ -7,10 +7,8 @@ record_type: Canonical category reference
 ---
 # Metaphysical Technology: Definition and Classification
 
-**Record:** Public rendering of `MT-DEF-001`  
-**Status:** Canonical definitional doctrine within Newsroom governance  
-**Current authority:** `RLS-2026-07-23-3.1.1`  
-**Historical origin of the active definition:** `RLS-2026-07-22-2.1.0`  
+**Status:** Controlling public category definition  
+**Version:** 1.0.0  
 **Last reviewed:** July 23, 2026
 
 ## Canonical definition
@@ -68,15 +66,14 @@ Category membership does not mean:
 
 Claims must remain proportional to the evidence. A participant report can establish what the participant reported. A sensor can establish what it measured within declared limits. A model can establish its output under stated conditions. None alone settles the ultimate nature or meaning of the event.
 
-## Authority and entity boundaries
+## Authorship and entity boundaries
 
 - **Metaphysical Technology** is the category.
-- **AkashaSync** is the primary organization currently shaping the category's documented development. It is not the category.
-- **Jason Antalek** is the founder of AkashaSync and holds Founder and Doctrine Authority within Newsroom governance. Authority is not independent verification.
-- **Clark** is a governed Senior Investigative Journalist role. Clark is not a person, the Newsroom, or an authority capable of creating doctrine.
-- **Newsroom** investigates, classifies, defines, challenges, corrects, and maintains the public record through separated editorial, knowledge, language, and doctrine authorities.
+- **Jason Antalek** established this public category record and founded AkashaSync.
+- **AkashaSync** develops work within Metaphysical Technology. It is not the category.
+- **Other contributors** may research, challenge, classify, or develop work within the category when their claims meet the stated evidence and classification standards.
 
-Specific origin, first-use, authorship, efficacy, and historical-priority claims require their own supporting records.
+Authorship establishes responsibility for this record. It does not provide independent verification. Specific origin, first-use, efficacy, adoption, and historical-priority claims require their own supporting evidence.
 
 ## Classification questions
 
@@ -93,6 +90,6 @@ Before classifying a subject, ask:
 
 ## Revision rule
 
-This page may summarize the controlling definition but may not alter it. Definition changes require the formal Newsroom doctrine, knowledge, language, and editorial review process. Historical versions remain part of the record.
+This page contains the controlling public definition. Any change must be explicit, versioned, justified, and preserved in the public change history. Historical versions remain part of the record.
 
 For the full public argument, read [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
