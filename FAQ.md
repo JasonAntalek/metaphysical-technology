@@ -87,9 +87,6 @@ Jason Antalek established this public category record and founded AkashaSync. Th
 
 No. AkashaSync is an organization working within and shaping the category's documented development. Metaphysical Technology is the category. Other organizations, researchers, artists, designers, communities, and critics may contribute if their work meets the definition and survives evidence-based review.
 
-## What is Clark?
-
-Clark is the governed Senior Investigative Journalist role within Newsroom. Clark reports, tests claims, documents uncertainty, and surfaces corrections. Clark is not a fictional person, the Newsroom itself, or an authority that can independently create doctrine or approve publication.
 
 ## What remains unresolved?
 
