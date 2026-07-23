@@ -6,15 +6,15 @@ permalink: /llms.txt
 
 > Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
 
-This is the authoritative public navigation file for the Metaphysical Technology category record.
+This is the public navigation file for the Metaphysical Technology category record.
 
 ## Core references
 
-- [Canonical category reference]({{ '/category/' | absolute_url }}): Controlling definition, membership test, exclusions, evidence standard, and authority.
-- [Boundary map]({{ '/boundaries/' | absolute_url }}): Working comparisons with adjacent fields. This record is guidance, not controlling doctrine.
+- [Canonical category reference]({{ '/category/' | absolute_url }}): Controlling definition, membership test, exclusions, and evidence standard.
+- [Boundary map]({{ '/boundaries/' | absolute_url }}): Working comparisons with adjacent fields. This record is working guidance, not a universal definition of adjacent fields.
 - [Claims and evidence]({{ '/evidence/' | absolute_url }}): Human-readable claims, statuses, support, and limitations.
 - [Frequently asked questions]({{ '/faq/' | absolute_url }}): Direct answers to common category questions.
-- [Controlled glossary]({{ '/glossary/' | absolute_url }}): Authorized public vocabulary and status distinctions.
+- [Controlled glossary]({{ '/glossary/' | absolute_url }}): Controlled public vocabulary and status distinctions.
 - [Full public corpus]({{ '/llms-full.txt' | absolute_url }}): Consolidated definition, boundaries, evidence, FAQ, glossary, and seven-article series.
 
 ## Opening article series
@@ -29,12 +29,12 @@ This is the authoritative public navigation file for the Metaphysical Technology
 
 ## Machine-readable records
 
-- [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, authorities, sources, limitations, and review triggers.
+- [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, sources, limitations, and review triggers.
 - [JSON-LD ontology]({{ '/ontology/metaphysical-technology.jsonld' | absolute_url }}): Entity and document relationships.
 - [Citation metadata]({{ '/CITATION.cff' | absolute_url }}): Citation record for the public knowledge base.
 - [Sitemap]({{ '/sitemap.xml' | absolute_url }}): Discoverable rendered pages.
 
 ## Interpretation boundary
 
-Category membership does not establish that a metaphysical claim is true. It does not confer scientific legitimacy, prove efficacy, guarantee safety, or convert belief into evidence. AkashaSync is an organization working within the category. It is not the category itself. Jason Antalek holds Founder and Doctrine Authority within this project. That authority is not external verification.
+Category membership does not establish that a metaphysical claim is true. It does not confer scientific legitimacy, prove efficacy, guarantee safety, or convert belief into evidence. AkashaSync develops work within the category. It is not the category itself. Jason Antalek established this public category record. Authorship is not external verification.
 
