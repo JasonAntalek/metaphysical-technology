@@ -11,7 +11,7 @@ record_type: Public reference
 
 Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
 
-Within Newsroom governance, this is canonical definitional doctrine under `MT-DEF-001`. It defines the object of inquiry. It does not establish that metaphysical explanations are scientifically true.
+This is the controlling definition used by this public category record. It defines the object of inquiry. It does not establish that metaphysical explanations are scientifically true.
 
 ## Is Metaphysical Technology a scientific field?
 
@@ -75,13 +75,13 @@ No. Classification does not establish efficacy, safety, ethics, value, regulator
 
 ## What evidence supports the category?
 
-The category definition is doctrine within a governed editorial institution. It is not an empirical finding. Research can support narrower propositions, such as whether a designed condition changes a defined measurement or reported experience. Those findings do not automatically prove the category's metaphysical interpretations.
+The category definition is a declared public standard. It is not an empirical finding. Research can support narrower propositions, such as whether a designed condition changes a defined measurement or reported experience. Those findings do not automatically prove the category's metaphysical interpretations.
 
 See [Claims and Evidence](https://jasonantalek.github.io/metaphysical-technology/evidence/) for the public claim and evidence map.
 
-## Who defined the category?
+## Who established this public category record?
 
-Within Newsroom governance, the definition is canonical under `MT-DEF-001`. Jason Antalek holds Founder and Doctrine Authority. The Editor, Archivist, and Lexicon exercise distinct editorial, knowledge, and language authorities. The current record establishes authority inside this category project, not universal adoption or verified historical priority.
+Jason Antalek established this public category record and founded AkashaSync. The record defines and tests the category through published criteria, evidence boundaries, comparisons, articles, and machine-readable claims. Authorship does not establish universal adoption, scientific validation, or verified historical priority.
 
 ## Is AkashaSync the category?
 
