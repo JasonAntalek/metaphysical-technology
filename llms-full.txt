@@ -1,6 +1,6 @@
 # Metaphysical Technology: Full Public Corpus
 
-Generated from the governed public records in this repository.
+Generated from the public category records in this repository.
 Version: 1.0.0
 Released: 2026-07-23
 Canonical site: https://jasonantalek.github.io/metaphysical-technology/
@@ -9,16 +9,15 @@ INTERPRETATION BOUNDARY
 
 Category membership does not establish that a metaphysical claim is true. It does not confer scientific legitimacy, prove efficacy, guarantee safety, or convert belief into evidence.
 
+
 ========================================================================
 CANONICAL CATEGORY REFERENCE
 ========================================================================
 
 # Metaphysical Technology: Definition and Classification
 
-**Record:** Public rendering of `MT-DEF-001`  
-**Status:** Canonical definitional doctrine within Newsroom governance  
-**Current authority:** `RLS-2026-07-23-3.1.1`  
-**Historical origin of the active definition:** `RLS-2026-07-22-2.1.0`  
+**Status:** Controlling public category definition  
+**Version:** 1.0.0  
 **Last reviewed:** July 23, 2026
 
 ## Canonical definition
@@ -76,15 +75,14 @@ Category membership does not mean:
 
 Claims must remain proportional to the evidence. A participant report can establish what the participant reported. A sensor can establish what it measured within declared limits. A model can establish its output under stated conditions. None alone settles the ultimate nature or meaning of the event.
 
-## Authority and entity boundaries
+## Authorship and entity boundaries
 
 - **Metaphysical Technology** is the category.
-- **AkashaSync** is the primary organization currently shaping the category's documented development. It is not the category.
-- **Jason Antalek** is the founder of AkashaSync and holds Founder and Doctrine Authority within Newsroom governance. Authority is not independent verification.
-- **Clark** is a governed Senior Investigative Journalist role. Clark is not a person, the Newsroom, or an authority capable of creating doctrine.
-- **Newsroom** investigates, classifies, defines, challenges, corrects, and maintains the public record through separated editorial, knowledge, language, and doctrine authorities.
+- **Jason Antalek** established this public category record and founded AkashaSync.
+- **AkashaSync** develops work within Metaphysical Technology. It is not the category.
+- **Other contributors** may research, challenge, classify, or develop work within the category when their claims meet the stated evidence and classification standards.
 
-Specific origin, first-use, authorship, efficacy, and historical-priority claims require their own supporting records.
+Authorship establishes responsibility for this record. It does not provide independent verification. Specific origin, first-use, efficacy, adoption, and historical-priority claims require their own supporting evidence.
 
 ## Classification questions
 
@@ -101,9 +99,10 @@ Before classifying a subject, ask:
 
 ## Revision rule
 
-This page may summarize the controlling definition but may not alter it. Definition changes require the formal Newsroom doctrine, knowledge, language, and editorial review process. Historical versions remain part of the record.
+This page contains the controlling public definition. Any change must be explicit, versioned, justified, and preserved in the public change history. Historical versions remain part of the record.
 
 For the full public argument, read [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
+
 
 ========================================================================
 FREQUENTLY ASKED QUESTIONS
@@ -115,7 +114,7 @@ FREQUENTLY ASKED QUESTIONS
 
 Metaphysical Technology is an emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
 
-Within Newsroom governance, this is canonical definitional doctrine under `MT-DEF-001`. It defines the object of inquiry. It does not establish that metaphysical explanations are scientifically true.
+This is the controlling definition used by this public category record. It defines the object of inquiry. It does not establish that metaphysical explanations are scientifically true.
 
 ## Is Metaphysical Technology a scientific field?
 
@@ -179,21 +178,18 @@ No. Classification does not establish efficacy, safety, ethics, value, regulator
 
 ## What evidence supports the category?
 
-The category definition is doctrine within a governed editorial institution. It is not an empirical finding. Research can support narrower propositions, such as whether a designed condition changes a defined measurement or reported experience. Those findings do not automatically prove the category's metaphysical interpretations.
+The category definition is a declared public standard. It is not an empirical finding. Research can support narrower propositions, such as whether a designed condition changes a defined measurement or reported experience. Those findings do not automatically prove the category's metaphysical interpretations.
 
 See [Claims and Evidence](https://jasonantalek.github.io/metaphysical-technology/evidence/) for the public claim and evidence map.
 
-## Who defined the category?
+## Who established this public category record?
 
-Within Newsroom governance, the definition is canonical under `MT-DEF-001`. Jason Antalek holds Founder and Doctrine Authority. The Editor, Archivist, and Lexicon exercise distinct editorial, knowledge, and language authorities. The current record establishes authority inside this category project, not universal adoption or verified historical priority.
+Jason Antalek established this public category record and founded AkashaSync. The record defines and tests the category through published criteria, evidence boundaries, comparisons, articles, and machine-readable claims. Authorship does not establish universal adoption, scientific validation, or verified historical priority.
 
 ## Is AkashaSync the category?
 
 No. AkashaSync is an organization working within and shaping the category's documented development. Metaphysical Technology is the category. Other organizations, researchers, artists, designers, communities, and critics may contribute if their work meets the definition and survives evidence-based review.
 
-## What is Clark?
-
-Clark is the governed Senior Investigative Journalist role within Newsroom. Clark reports, tests claims, documents uncertainty, and surfaces corrections. Clark is not a fictional person, the Newsroom itself, or an authority that can independently create doctrine or approve publication.
 
 ## What remains unresolved?
 
@@ -213,6 +209,7 @@ Unknown is a valid status. The repository will preserve unresolved questions ins
 
 Start with the [canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/), then read the category pillar, [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
 
+
 ========================================================================
 BOUNDARY MAP
 ========================================================================
@@ -220,7 +217,7 @@ BOUNDARY MAP
 # Metaphysical Technology: Boundary Map
 
 **Status:** Public working comparison map  
-**Controlling doctrine:** [Canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/)  
+**Controlling doctrine:** [Canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/)
 **Last reviewed:** July 23, 2026
 
 This document compares fields and labels that may overlap with Metaphysical Technology. It does not redefine those fields, claim that every external use is consistent, or classify a subject by association.
@@ -271,13 +268,14 @@ A classification should be rejected or returned for more evidence when:
 - a medium or component is treated as sufficient for membership;
 - a health, scientific, or safety claim borrows legitimacy from the category name;
 - an external field is misrepresented to manufacture distinction;
-- AkashaSync, Jason, Clark, a product, or a publication is treated as identical to the category.
+- an organization, person, product, or publication is treated as identical to the category.
 
 ## Current limits
 
-These comparisons are working editorial guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
+These comparisons are working category guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
 
 For the full boundary argument and cited sources, see [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
+
 
 ========================================================================
 CONTROLLED GLOSSARY
@@ -286,51 +284,37 @@ CONTROLLED GLOSSARY
 # Metaphysical Technology Glossary
 
 **Status:** Public controlled vocabulary  
-**Current authority:** `RLS-2026-07-23-3.1.1`  
+**Version:** 1.0.0  
 **Last reviewed:** July 23, 2026
 
-Only terms identified as canonical are canonical. Explanatory entries clarify the public record but do not create doctrine.
+Terms labeled as category standards control this public record. Explanatory entries clarify usage without making empirical claims.
 
 ## Metaphysical Technology
 
 **Type:** Category  
-**Status:** Canonical  
-**Record:** `MT-DEF-001`
+**Status:** Controlling category definition
 
 An emerging category of designed technologies, environments, methods, and frameworks that deliberately engage questions, experiences, or relationships traditionally treated as metaphysical and bring them into operational, observable, testable, or governed form.
 
 ## AkashaSync
 
 **Type:** Organization  
-**Status:** Canonical entity name
+**Status:** Category standard entity name
 
-The primary organization currently shaping the Newsroom beat and the documented development of Metaphysical Technology. AkashaSync is not the category and is not a substitute for independent evidence.
+An organization founded by Jason Antalek that develops work within Metaphysical Technology. AkashaSync is not the category and is not a substitute for independent evidence.
 
 ## Jason Antalek
 
 **Type:** Person  
 **Status:** Public attribution
 
-Founder of AkashaSync. Within Newsroom governance, Jason holds Founder and Doctrine Authority. That authority does not independently verify empirical claims or establish historical priority beyond supporting records.
+Founder of AkashaSync and originator of this public category record. Authorship does not independently verify empirical claims or establish historical priority beyond supporting evidence.
 
-## Clark
-
-**Type:** Governed role  
-**Status:** Canonical
-
-The Senior Investigative Journalist role within Newsroom. Clark investigates, reports, tests claims, documents alternatives and uncertainty, writes, and surfaces corrections. Clark is not a fictional person, the Newsroom itself, or an authority that can independently create doctrine.
-
-## Newsroom
-
-**Type:** Editorial institution  
-**Status:** Governing institution
-
-The institution responsible for maintaining the category's governed editorial record through separated constitutional, doctrine, editorial, knowledge, language, investigation, public-review, and deployment functions.
 
 ## Category ownership
 
 **Type:** Governance concept  
-**Status:** Canonical as stewardship, not possession
+**Status:** Category standard: stewardship, not possession
 
 The long-term responsibility to define, evidence, distinguish, explain, preserve, challenge, and correct a category. It does not mean ownership of reality or the exclusion of independent contributors.
 
@@ -365,76 +349,76 @@ Declared rules make authority, consent, limits, data handling, interpretation, i
 ## Evidence
 
 **Type:** Cross-cutting evidentiary function  
-**Status:** Canonical
+**Status:** Category standard
 
 Material used to support, weaken, limit, or disconfirm a proposition. Evidence is not a lifecycle stage and does not acquire a stronger status through repetition.
 
 ## Question
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A defined matter for inquiry. A question may guide reporting but asserts no answer.
 
 ## Observation
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 Something noticed or recorded before its interpretation has been established.
 
 ## Reported Observation
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 An observation attributed to a source. It establishes what the source reported, not that the report is externally verified.
 
 ## Verified Observation
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 An observation confirmed through evidence sufficient for the proposition stated. Verification remains bounded by method, source, and conditions.
 
 ## Hypothesis
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A proposed explanation or relationship that remains open to testing and disconfirmation.
 
 ## Working Model
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A provisional structure used to organize observations, questions, or possible explanations. It remains revisable and is not an established finding.
 
 ## Supported Model
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
 A model with meaningful supporting evidence that has survived relevant tests or alternatives within a declared scope. Support does not make the model final or universal.
 
 ## Established Finding
 
 **Type:** Knowledge status  
-**Status:** Canonical
+**Status:** Category standard
 
-A conclusion supported strongly enough for the stated scope under the Newsroom's evidence standards. New evidence can still limit, correct, or retire it.
+A conclusion supported strongly enough for the stated scope under the declared evidence standards. New evidence can still limit, correct, or retire it.
 
-## Canonical Doctrine
+## Category Standard
 
-**Type:** Knowledge status  
-**Status:** Canonical
+**Type:** Public record status  
+**Status:** Category standard
 
-An authorized definition, principle, or institutional position adopted through the governing doctrine process. Doctrine establishes what the institution holds within its authority. It does not convert a non-empirical position into an empirical finding.
+A definition, boundary, classification rule, or evidence rule declared as controlling for this public category record. A category standard states how the record operates. It does not convert a non-empirical position into an empirical finding.
 
 ## Classification
 
-**Type:** Editorial and knowledge decision  
+**Type:** Category decision  
 **Status:** Explanatory
 
 A documented determination that a specific subject does or does not meet the category criteria. Classification establishes membership under the stated record. It does not establish efficacy, safety, ethics, or truth.
@@ -446,6 +430,7 @@ A documented determination that a specific subject does or does not meet the cat
 
 Meaning assigned to an observation, measurement, report, or model output. Interpretation can be reasoned and testable, but it must not be presented as direct detection without support.
 
+
 ========================================================================
 CLAIMS AND EVIDENCE
 ========================================================================
@@ -453,23 +438,21 @@ CLAIMS AND EVIDENCE
 # Metaphysical Technology: Claims and Evidence
 
 **Status:** Public evidence map  
-**Machine-readable register:** [CLAIMS.yaml](https://jasonantalek.github.io/metaphysical-technology/CLAIMS.yaml)  
+**Machine-readable register:** [CLAIMS.yaml](https://jasonantalek.github.io/metaphysical-technology/CLAIMS.yaml)
 **Last reviewed:** July 23, 2026
 
-This record separates doctrine, observation, report, inference, model, finding, and unresolved explanation. It does not convert the category definition into an empirical discovery.
+This record separates category standards, observation, report, inference, model, finding, and unresolved explanation. It does not convert the category definition into an empirical discovery.
 
 ## Current claim map
 
 | Claim ID | Proposition | Status | What supports the status | What the status does not establish |
 | --- | --- | --- | --- | --- |
-| `MT-CLM-001` | The canonical definition of Metaphysical Technology | Canonical Doctrine | Authorized Newsroom definition `MT-DEF-001` | Scientific truth, external adoption, or historical priority |
-| `MT-CLM-002` | The three-part membership test | Canonical Doctrine | Authorized classification rule in `MT-DEF-001` | Automatic inclusion, efficacy, safety, or value |
-| `MT-CLM-003` | The definition does not establish metaphysical explanations scientifically | Canonical Doctrine | Explicit evidence limitation in the controlling record | That every metaphysical proposition is false or untestable |
-| `MT-CLM-004` | AkashaSync's relationship to the beat and documented development | Canonical Doctrine | Newsroom entity record | Independent public leadership or ownership of the category |
-| `MT-CLM-005` | Jason Antalek's founder and Newsroom authority roles | Canonical Doctrine | Newsroom founder and authority record | Independent verification of empirical or historical claims |
-| `MT-CLM-006` | What participant reports can establish | Canonical Doctrine | Newsroom evidence rule | Cause, mechanism, ontology, or universal meaning |
-| `MT-CLM-007` | What sensor measurements can establish | Canonical Doctrine | Newsroom evidence rule | Meaning or metaphysical explanation |
-| `MT-CLM-008` | Broad external adoption is not established by the current record | Working Model | Current repository and governance record | A systematic finding that no external adoption exists |
+| `MT-CLM-001` | The controlling definition of Metaphysical Technology | Category Standard | Published definition and category pillar | Scientific truth, external adoption, or historical priority |
+| `MT-CLM-002` | The three-part membership test | Category Standard | Published classification criteria | Automatic inclusion, efficacy, safety, or value |
+| `MT-CLM-003` | The definition does not establish metaphysical explanations scientifically | Category Standard | Explicit evidence limitation in the controlling definition | That every metaphysical proposition is false or untestable |
+| `MT-CLM-004` | What participant reports can establish | Category Standard | Published evidence rule | Cause, mechanism, ontology, or universal meaning |
+| `MT-CLM-005` | What sensor measurements can establish | Category Standard | Published evidence rule | Meaning or metaphysical explanation |
+| `MT-CLM-006` | Broad external adoption is not established by the current record | Working Model | Current public repository scope | A systematic finding that no external adoption exists |
 
 ## Evidence chain
 
@@ -494,7 +477,7 @@ Evidence may:
 - distinguish among competing explanations;
 - establish what a source said without establishing that the statement is true.
 
-Evidence is not a knowledge status. Repetition, popularity, founder position, technical complexity, or category membership cannot promote a claim.
+Evidence is not a knowledge status. Repetition, popularity, authorship, technical complexity, or category membership cannot promote a claim.
 
 ## Source and claim rules
 
@@ -514,9 +497,9 @@ A model output establishes that the model produced an output under stated inputs
 
 An environment can establish that defined conditions were created and that declared outputs changed. Participant response, causal mechanism, interpretation, durability, and transfer beyond the setting remain separate propositions.
 
-### Doctrine
+### Category standards
 
-Doctrine can establish a definition, principle, institutional position, or authority relationship inside its governed scope. It cannot transform a belief, interpretation, or unverified origin claim into an empirical finding.
+A category standard can establish a definition, boundary, classification rule, or evidence rule for this public record. It cannot transform a belief, interpretation, or unverified origin claim into an empirical finding.
 
 ## Evidence required for a category classification
 
@@ -537,7 +520,7 @@ A responsible classification record should contain:
 
 The public record does not yet contain:
 
-- a governed catalog of classified examples;
+- a public catalog of classified examples;
 - a systematic study of external category adoption;
 - a verified first-use and historical-origin dossier for every public origin claim;
 - a complete comparison record for all adjacent categories;
@@ -554,14 +537,20 @@ When evidence changes a public claim, the record should state:
 - the new evidence;
 - the corrected status or wording;
 - the effect on classifications and publications;
-- the approving authority;
+- the responsible reviewer or maintainer;
 - the date and review trigger.
 
 Corrections must not be silent.
 
+
 ========================================================================
+FOUNDATIONAL ARTICLE SERIES
+========================================================================
+
+
+------------------------------------------------------------------------
 ARTICLE 1
-========================================================================
+------------------------------------------------------------------------
 
 # Can an Experience Be Engineered Before It Is Explained?
 
@@ -690,9 +679,10 @@ Explanation still has to earn its authority.
 - Justin C. Strickland et al., “[Set and Setting: A Randomized Study of Different Musical Genres in Supporting Psychedelic Therapy](https://doi.org/10.1021/acsptsci.0c00187),” *ACS Pharmacology & Translational Science* 4, no. 2 (2021).
 - Yiheng Tu, Libo Zhang, and Jian Kong, “[Placebo and Nocebo Effects: From Observation to Harnessing and Clinical Application](https://doi.org/10.1038/s41398-022-02293-2),” *Translational Psychiatry* 12 (2022).
 
-========================================================================
+
+------------------------------------------------------------------------
 ARTICLE 2
-========================================================================
+------------------------------------------------------------------------
 
 # The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
 
@@ -879,9 +869,10 @@ It cannot replace it.
 - Elizabeth M. C. Hillman, “[Coupling Mechanism and Significance of the BOLD Signal: A Status Report](https://doi.org/10.1146/annurev-neuro-071013-014111),” *Annual Review of Neuroscience* 37 (2014): 161–181.
 - Russell A. Poldrack, “[Can Cognitive Processes Be Inferred from Neuroimaging Data?](https://doi.org/10.1016/j.tics.2005.12.004),” *Trends in Cognitive Sciences* 10, no. 2 (2006): 59–63.
 
-========================================================================
+
+------------------------------------------------------------------------
 ARTICLE 3
-========================================================================
+------------------------------------------------------------------------
 
 # What Happens When Belief Becomes Infrastructure?
 
@@ -1083,9 +1074,10 @@ It is what becomes necessary when belief can act.
 - Federal Trade Commission, “[Bringing Dark Patterns to Light](https://www.ftc.gov/reports/bringing-dark-patterns-light),” September 2022.
 - National Institute of Standards and Technology, “[Artificial Intelligence Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1),” January 2023.
 
-========================================================================
+
+------------------------------------------------------------------------
 ARTICLE 4
-========================================================================
+------------------------------------------------------------------------
 
 # The Brain Is Not the Whole Question
 
@@ -1298,9 +1290,10 @@ The question is larger because the evidence requires it to be.
 - Shinobu Kitayama and Jiyoung Park, “[Cultural Neuroscience of the Self: Understanding the Social Grounding of the Brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894676/),” *Social Cognitive and Affective Neuroscience* 5, no. 2–3 (2010): 111–129.
 - UNESCO, “[Recommendation on the Ethics of Neurotechnology](https://unesdoc.unesco.org/ark:/48223/pf0000394866),” adopted November 2025.
 
-========================================================================
+
+------------------------------------------------------------------------
 ARTICLE 5
-========================================================================
+------------------------------------------------------------------------
 
 # A Technology Does Not Have to Prove the Metaphysical to Engage It
 
@@ -1535,9 +1528,10 @@ It has to make the engagement visible, the claims separable, the methods testabl
 - David R. Glowacki et al., "[Group VR Experiences Can Produce Ego Attenuation and Connectedness Comparable to Psychedelics](https://doi.org/10.1038/s41598-022-12637-z)," *Scientific Reports* 12 (2022): 8995.
 - Hasok Chang, "[Operationalism](https://plato.stanford.edu/entries/operationalism/)," *Stanford Encyclopedia of Philosophy*, substantive revision 2021.
 
-========================================================================
+
+------------------------------------------------------------------------
 ARTICLE 6
-========================================================================
+------------------------------------------------------------------------
 
 # Who Governs Technology Designed to Change Human Experience?
 
@@ -1784,9 +1778,10 @@ Governance determines who enters, what the system may do, what the effect may be
 - National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, "[The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)," 1979.
 - Michael Madary and Thomas K. Metzinger, "[Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology](https://doi.org/10.3389/frobt.2016.00003)," *Frontiers in Robotics and AI* 3 (2016): 3.
 
-========================================================================
+
+------------------------------------------------------------------------
 ARTICLE 7
-========================================================================
+------------------------------------------------------------------------
 
 # What Is Metaphysical Technology?
 
@@ -1983,17 +1978,6 @@ A serious category gives critics a clearer target. They should be able to ask wh
 
 Those challenges are not threats to the category. They are how it earns the right to persist.
 
-## Who established this definition?
-
-Within Clark Newsroom, this definition is canonical definitional doctrine under record `MT-DEF-001`, active in release `RLS-2026-07-22-2.1.0` as of July 22, 2026.
-
-Jason Antalek holds Founder and Doctrine Authority. AkashaSync is the primary organization currently shaping the category's documented development. Clark Newsroom is responsible for investigating, defining, documenting, challenging, and stewarding the category through journalism and a governed public record.
-
-Those relationships establish authority within this category project. They do not, by themselves, establish that the term has achieved broad academic, scientific, industrial, or public adoption. They do not prove historical priority beyond the records that can be documented. They do not make AkashaSync identical to the category.
-
-AkashaSync may develop work within Metaphysical Technology. Other organizations, researchers, artists, designers, communities, and critics may also contribute to the field if their work meets the definition and survives evidence-based classification.
-
-The category must become larger than its originating institution without losing the precision of its originating record.
 
 ## Why a new category is necessary
 
@@ -2039,7 +2023,6 @@ A field for investigating what happens when human beings build technologies arou
 
 ## Sources
 
-- Clark Newsroom, *Language Ledger*, Version 2.1.0, record `MT-DEF-001`, effective July 22, 2026.
 - Peter van Inwagen and Meghan Sullivan, "[Metaphysics](https://plato.stanford.edu/entries/metaphysics/)," *Stanford Encyclopedia of Philosophy*, substantive revision May 4, 2023.
 - H. Henrik Ehrsson, "[The Experimental Induction of Out-of-Body Experiences](https://doi.org/10.1126/science.1142175)," *Science* 317, no. 5841 (2007): 1048.
 - Andrea Chirico et al., "[Designing Awe in Virtual Reality: An Experimental Study](https://doi.org/10.3389/fpsyg.2017.02351)," *Frontiers in Psychology* 8 (2018): 2351.
