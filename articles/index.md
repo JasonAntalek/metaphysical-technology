@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Opening Article Series
-description: Seven articles establishing the questions, distinctions, evidence discipline, governance boundary, and canonical definition of Metaphysical Technology.
+title: Metaphysical Technology Articles
+description: The public article record establishing the questions, distinctions, evidence discipline, governance boundaries, and canonical definition of Metaphysical Technology.
 permalink: /articles/
 record_type: Reading order
 ---
 
-The seven articles form one cumulative argument. Read them in order.
+The opening seven articles form one cumulative argument. Further articles extend the public record.
 
 <ol class="article-list">
   <li><a href="{{ '/articles/can-an-experience-be-engineered-before-it-is-explained/' | relative_url }}"><span>Article 1</span>Can an Experience Be Engineered Before It Is Explained?</a></li>
@@ -19,4 +19,10 @@ The seven articles form one cumulative argument. Read them in order.
 </ol>
 
 Article 7 is the category pillar. The first six articles establish the distinctions it brings together.
+
+## Further articles
+
+<ol class="article-list" start="8">
+  <li><a href="{{ '/articles/where-metaphysical-technology-begins/' | relative_url }}"><span>Article 8</span>Where Metaphysical Technology Begins</a></li>
+</ol>
 

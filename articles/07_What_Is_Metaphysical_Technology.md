@@ -6,6 +6,8 @@ permalink: /articles/what-is-metaphysical-technology/
 article_order: 7
 previous_url: /articles/who-governs-technology-designed-to-change-human-experience/
 previous_title: Who Governs Technology Designed to Change Human Experience?
+next_url: /articles/where-metaphysical-technology-begins/
+next_title: Where Metaphysical Technology Begins
 ---
 # What Is Metaphysical Technology?
 
