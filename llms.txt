@@ -15,9 +15,9 @@ This is the public navigation file for the Metaphysical Technology category reco
 - [Claims and evidence]({{ '/evidence/' | absolute_url }}): Human-readable claims, statuses, support, and limitations.
 - [Frequently asked questions]({{ '/faq/' | absolute_url }}): Direct answers to common category questions.
 - [Controlled glossary]({{ '/glossary/' | absolute_url }}): Controlled public vocabulary and status distinctions.
-- [Full public corpus]({{ '/llms-full.txt' | absolute_url }}): Consolidated definition, boundaries, evidence, FAQ, glossary, and seven-article series.
+- [Full public corpus]({{ '/llms-full.txt' | absolute_url }}): Consolidated definition, boundaries, evidence, FAQ, glossary, and public article record.
 
-## Opening article series
+## Articles
 
 - [1. Can an Experience Be Engineered Before It Is Explained?]({{ '/articles/can-an-experience-be-engineered-before-it-is-explained/' | absolute_url }})
 - [2. The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.]({{ '/articles/the-device-can-measure-a-signal/' | absolute_url }})
@@ -26,6 +26,7 @@ This is the public navigation file for the Metaphysical Technology category reco
 - [5. A Technology Does Not Have to Prove the Metaphysical to Engage It]({{ '/articles/a-technology-does-not-have-to-prove-the-metaphysical/' | absolute_url }})
 - [6. Who Governs Technology Designed to Change Human Experience?]({{ '/articles/who-governs-technology-designed-to-change-human-experience/' | absolute_url }})
 - [7. What Is Metaphysical Technology?]({{ '/articles/what-is-metaphysical-technology/' | absolute_url }}): Category pillar.
+- [8. Where Metaphysical Technology Begins]({{ '/articles/where-metaphysical-technology-begins/' | absolute_url }})
 
 ## Machine-readable records
 
