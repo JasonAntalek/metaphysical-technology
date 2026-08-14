@@ -1,14 +1,13 @@
 # Metaphysical Technology: Full Public Corpus
 
-Generated from the public category records in this repository.
-Version: 1.1.0
-Released: 2026-08-13
+Generated from the governed public records in this repository.
+Version: 1.2.0
+Released: 2026-08-14
 Canonical site: https://jasonantalek.github.io/metaphysical-technology/
 
 INTERPRETATION BOUNDARY
 
 Category membership does not establish that a metaphysical claim is true. It does not confer scientific legitimacy, prove efficacy, guarantee safety, or convert belief into evidence.
-
 
 ========================================================================
 CANONICAL CATEGORY REFERENCE
@@ -102,7 +101,6 @@ Before classifying a subject, ask:
 This page contains the controlling public definition. Any change must be explicit, versioned, justified, and preserved in the public change history. Historical versions remain part of the record.
 
 For the full public argument, read [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
-
 
 ========================================================================
 FREQUENTLY ASKED QUESTIONS
@@ -209,7 +207,6 @@ Unknown is a valid status. The repository will preserve unresolved questions ins
 
 Start with the [canonical category reference](https://jasonantalek.github.io/metaphysical-technology/category/), then read the category pillar, [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
 
-
 ========================================================================
 BOUNDARY MAP
 ========================================================================
@@ -275,7 +272,6 @@ A classification should be rejected or returned for more evidence when:
 These comparisons are working category guidance, not settled universal definitions of adjacent fields. External definitions, institutions, and disputed usages must be inspected when a specific classification or publication depends on them.
 
 For the full boundary argument and cited sources, see [What Is Metaphysical Technology?](https://jasonantalek.github.io/metaphysical-technology/articles/what-is-metaphysical-technology/).
-
 
 ========================================================================
 CONTROLLED GLOSSARY
@@ -430,7 +426,6 @@ A documented determination that a specific subject does or does not meet the cat
 
 Meaning assigned to an observation, measurement, report, or model output. Interpretation can be reasoned and testable, but it must not be presented as direct detection without support.
 
-
 ========================================================================
 CLAIMS AND EVIDENCE
 ========================================================================
@@ -542,15 +537,9 @@ When evidence changes a public claim, the record should state:
 
 Corrections must not be silent.
 
-
 ========================================================================
-FOUNDATIONAL ARTICLE SERIES
-========================================================================
-
-
-------------------------------------------------------------------------
 ARTICLE 1
-------------------------------------------------------------------------
+========================================================================
 
 # Can an Experience Be Engineered Before It Is Explained?
 
@@ -679,10 +668,9 @@ Explanation still has to earn its authority.
 - Justin C. Strickland et al., “[Set and Setting: A Randomized Study of Different Musical Genres in Supporting Psychedelic Therapy](https://doi.org/10.1021/acsptsci.0c00187),” *ACS Pharmacology & Translational Science* 4, no. 2 (2021).
 - Yiheng Tu, Libo Zhang, and Jian Kong, “[Placebo and Nocebo Effects: From Observation to Harnessing and Clinical Application](https://doi.org/10.1038/s41398-022-02293-2),” *Translational Psychiatry* 12 (2022).
 
-
-------------------------------------------------------------------------
+========================================================================
 ARTICLE 2
-------------------------------------------------------------------------
+========================================================================
 
 # The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.
 
@@ -869,10 +857,9 @@ It cannot replace it.
 - Elizabeth M. C. Hillman, “[Coupling Mechanism and Significance of the BOLD Signal: A Status Report](https://doi.org/10.1146/annurev-neuro-071013-014111),” *Annual Review of Neuroscience* 37 (2014): 161–181.
 - Russell A. Poldrack, “[Can Cognitive Processes Be Inferred from Neuroimaging Data?](https://doi.org/10.1016/j.tics.2005.12.004),” *Trends in Cognitive Sciences* 10, no. 2 (2006): 59–63.
 
-
-------------------------------------------------------------------------
+========================================================================
 ARTICLE 3
-------------------------------------------------------------------------
+========================================================================
 
 # What Happens When Belief Becomes Infrastructure?
 
@@ -1074,10 +1061,9 @@ It is what becomes necessary when belief can act.
 - Federal Trade Commission, “[Bringing Dark Patterns to Light](https://www.ftc.gov/reports/bringing-dark-patterns-light),” September 2022.
 - National Institute of Standards and Technology, “[Artificial Intelligence Risk Management Framework 1.0](https://doi.org/10.6028/NIST.AI.100-1),” January 2023.
 
-
-------------------------------------------------------------------------
+========================================================================
 ARTICLE 4
-------------------------------------------------------------------------
+========================================================================
 
 # The Brain Is Not the Whole Question
 
@@ -1290,10 +1276,9 @@ The question is larger because the evidence requires it to be.
 - Shinobu Kitayama and Jiyoung Park, “[Cultural Neuroscience of the Self: Understanding the Social Grounding of the Brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894676/),” *Social Cognitive and Affective Neuroscience* 5, no. 2–3 (2010): 111–129.
 - UNESCO, “[Recommendation on the Ethics of Neurotechnology](https://unesdoc.unesco.org/ark:/48223/pf0000394866),” adopted November 2025.
 
-
-------------------------------------------------------------------------
+========================================================================
 ARTICLE 5
-------------------------------------------------------------------------
+========================================================================
 
 # A Technology Does Not Have to Prove the Metaphysical to Engage It
 
@@ -1528,10 +1513,9 @@ It has to make the engagement visible, the claims separable, the methods testabl
 - David R. Glowacki et al., "[Group VR Experiences Can Produce Ego Attenuation and Connectedness Comparable to Psychedelics](https://doi.org/10.1038/s41598-022-12637-z)," *Scientific Reports* 12 (2022): 8995.
 - Hasok Chang, "[Operationalism](https://plato.stanford.edu/entries/operationalism/)," *Stanford Encyclopedia of Philosophy*, substantive revision 2021.
 
-
-------------------------------------------------------------------------
+========================================================================
 ARTICLE 6
-------------------------------------------------------------------------
+========================================================================
 
 # Who Governs Technology Designed to Change Human Experience?
 
@@ -1778,10 +1762,9 @@ Governance determines who enters, what the system may do, what the effect may be
 - National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, "[The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)," 1979.
 - Michael Madary and Thomas K. Metzinger, "[Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology](https://doi.org/10.3389/frobt.2016.00003)," *Frontiers in Robotics and AI* 3 (2016): 3.
 
-
-------------------------------------------------------------------------
+========================================================================
 ARTICLE 7
-------------------------------------------------------------------------
+========================================================================
 
 # What Is Metaphysical Technology?
 
@@ -2169,3 +2152,96 @@ Metaphysical Technology gives that relationship a name.
 - National Institute of Standards and Technology. [Report of the Virtual Workshop on Usable Cybersecurity and Privacy for Immersive Technologies](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8557.pdf)
 - UNESCO. [Recommendation on the Ethics of Neurotechnology](https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology)
 - U.S. Food and Drug Administration. [What is Digital Health?](https://www.fda.gov/medical-devices/digital-health-center-excellence/what-digital-health)
+
+========================================================================
+ARTICLE 9
+========================================================================
+
+# What Happened and What It Means Are Different Questions
+
+*An experience can be real while its cause remains unsettled.*
+
+Imagine a room growing quiet.
+
+Two people sit inside an environment responding to their movement and breathing. The sound softens. The light changes. Afterward, one says the room made them feel connected. The other felt restless and exposed.
+
+The sensors show that both began breathing more slowly. For part of the session, their breathing also moved closer in pace. The software marks that period as coherent.
+
+The participants had experiences. The sensors recorded changes. The software produced a label. Each record answers a different question. Trouble begins when they become one story.
+
+## The room does not produce one answer
+
+A responsive environment can record movement, breathing, proximity, and timing. A model can organize those signals and alter the experience. This can make the system appear to know more than it does.
+
+The label *coherent* may describe a defined relationship among signals. It does not tell us whether either person felt connected, whether they shared the same experience, or why the change occurred.
+
+Each person is the primary source for their own account. A system label does not invalidate either account. But a personal account does not settle the cause. Feeling connected does not prove the other person felt it, the room created it, or an unseen force joined them.
+
+Respecting the experience does not require pretending it explains itself.
+
+## Different questions need different sources
+
+Some parts of an experience are known only to the person having it. An instrument may detect an injury, but it does not possess the pain. The U.S. Food and Drug Administration preserves this distinction in health research by separating patient reports from observations, performance measures, and biomarkers.
+
+Metaphysical Technology is not clinical research by default. The useful lesson is narrower: different questions require different sources.
+
+A person's account is the right source for what they felt. The breathing record can show how their breathing changed. The system's label must be tested against what it claims to represent. None of these records settles the cause on its own.
+
+The standard is simple:
+
+> **No claim may borrow authority from a different kind of record.**
+
+If a system measured breathing, the claim must stay attached to breathing. If a person reported connection, the claim must stay attached to their account. If a model inferred calm, the inference and its limits must be named. A proposed cause needs its own evidence.
+
+## When a label sounds like knowledge
+
+A system does not need mystical language to overreach. Words such as *calm*, *connected*, or *ready* can hide the distance between what was measured and what the measurement is said to mean.
+
+A camera may record posture. A wearable may track heart rate. An artificial intelligence may combine those inputs and label a person *calm*. The label is an inference, not the person's inner state made visible.
+
+The National Institute of Standards and Technology notes that proxies can stand in for things that cannot be observed directly. Its guidance calls for demonstrating that an indicator measures the concept it claims to measure and for stating the limits. A label may look like a result while remaining a model's interpretation.
+
+UNESCO's 2025 Recommendation on the Ethics of Neurotechnology calls for disclosure and informed consent when closed-loop environments change in response to inferred mental states. The distinction is no longer academic once the system acts.
+
+## Where evidence stops
+
+Return to the room. The sensors recorded slower, more similar breathing. The software called the period coherent. Both statements may be accurate within their limits.
+
+If the designer says the room supported connection, the claim has changed. It now moves beyond the signals into an account of Human experience.
+
+A participant may say the experience felt as if everyone entered a shared field. Preserve the account in the person's language. It still does not establish that a field existed as an external entity or caused what happened.
+
+Each move introduces something new. A measurement becomes a label. The label becomes an experience claim. The claim becomes an explanation. This can happen in one sentence, but the evidence does not travel with it.
+
+This does not close the inquiry. It shows where the inquiry remains open.
+
+## What the system can claim
+
+A designed system remains within its evidence when it distinguishes what it observed, calculated, inferred, and does not know. “You are calm” exceeds a record that shows only that movement and breathing matched a pattern associated with calm. “The group connected” exceeds a record showing only that measured breathing patterns became more similar.
+
+The same discipline applies beyond the interface. A facilitator who names a participant's experience exceeds the participant's account. A product that turns selected reports into a universal outcome exceeds its evidence. An artificial intelligence cannot replace the person's account of their own experience.
+
+Clear distinctions protect the work. They keep a surprising pattern visible long enough to test, preserve disagreement, and make failure part of the record. They allow [Metaphysical Technology](https://jasonantalek.github.io/metaphysical-technology/category/) to engage questions of consciousness, connection, meaning, and reality without deciding the answers in advance.
+
+## An experience can matter before it is explained
+
+The person who felt connected may carry that experience for years. The person who felt restless may learn something about vulnerability or the environment's limits. The breathing changes may improve the design. The disagreement may expose a flaw in the model.
+
+An experience can matter before its cause is known. A report can be accurate without becoming universal. A measurement can be useful without containing meaning. A model can guide a response without becoming the Human truth.
+
+What happened and what it means remain connected. They are still different questions.
+
+The integrity of Metaphysical Technology depends on keeping them close enough to inform one another, and separate enough that neither is allowed to speak for the rest.
+
+## Related reading
+
+- [Can an Experience Be Engineered Before It Is Explained?](https://jasonantalek.github.io/metaphysical-technology/articles/can-an-experience-be-engineered-before-it-is-explained/)
+- [The Device Can Measure a Signal. It Cannot Tell You What the Signal Means.](https://jasonantalek.github.io/metaphysical-technology/articles/the-device-can-measure-a-signal/)
+- [The Brain Is Not the Whole Question](https://jasonantalek.github.io/metaphysical-technology/articles/the-brain-is-not-the-whole-question/)
+- [Claims and Evidence](https://jasonantalek.github.io/metaphysical-technology/evidence/)
+
+## Sources
+
+- U.S. Food and Drug Administration. [Patient-Focused Drug Development Glossary](https://www.fda.gov/drugs/development-approval-process-drugs/patient-focused-drug-development-glossary)
+- National Institute of Standards and Technology. [AI Risk Management Framework Playbook: Measure](https://airc.nist.gov/airmf-resources/playbook/measure/)
+- UNESCO. [Recommendation on the Ethics of Neurotechnology](https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology)

@@ -28,6 +28,8 @@ This is the public navigation file for the Metaphysical Technology category reco
 - [7. What Is Metaphysical Technology?]({{ '/articles/what-is-metaphysical-technology/' | absolute_url }}): Category pillar.
 - [8. Where Metaphysical Technology Begins]({{ '/articles/where-metaphysical-technology-begins/' | absolute_url }})
 
+- [9. What Happened and What It Means Are Different Questions]({{ '/articles/what-happened-and-what-it-means-are-different-questions/' | absolute_url }})
+
 ## Machine-readable records
 
 - [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, sources, limitations, and review triggers.

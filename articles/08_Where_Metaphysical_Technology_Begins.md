@@ -6,6 +6,8 @@ permalink: /articles/where-metaphysical-technology-begins/
 article_order: 8
 previous_url: /articles/what-is-metaphysical-technology/
 previous_title: What Is Metaphysical Technology?
+next_url: /articles/what-happened-and-what-it-means-are-different-questions/
+next_title: What Happened and What It Means Are Different Questions
 ---
 
 # Where Metaphysical Technology Begins
