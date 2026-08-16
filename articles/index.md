@@ -25,5 +25,6 @@ Article 7 is the category pillar. The first six articles establish the distincti
 <ol class="article-list" start="8">
   <li><a href="{{ '/articles/where-metaphysical-technology-begins/' | relative_url }}"><span>Article 8</span>Where Metaphysical Technology Begins</a></li>
   <li><a href="{{ '/articles/what-happened-and-what-it-means-are-different-questions/' | relative_url }}"><span>Article 9</span>What Happened and What It Means Are Different Questions</a></li>
+  <li><a href="{{ '/articles/the-experience-belongs-to-the-human-not-the-system/' | relative_url }}"><span>Article 10</span>The Experience Belongs to the Human, Not the System</a></li>
 </ol>
 

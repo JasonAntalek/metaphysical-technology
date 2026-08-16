@@ -30,6 +30,8 @@ This is the public navigation file for the Metaphysical Technology category reco
 
 - [9. What Happened and What It Means Are Different Questions]({{ '/articles/what-happened-and-what-it-means-are-different-questions/' | absolute_url }})
 
+- [10. The Experience Belongs to the Human, Not the System]({{ '/articles/the-experience-belongs-to-the-human-not-the-system/' | absolute_url }})
+
 ## Machine-readable records
 
 - [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, sources, limitations, and review triggers.

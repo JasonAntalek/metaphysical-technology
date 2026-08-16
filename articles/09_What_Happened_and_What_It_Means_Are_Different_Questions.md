@@ -6,6 +6,8 @@ permalink: /articles/what-happened-and-what-it-means-are-different-questions/
 article_order: 9
 previous_url: /articles/where-metaphysical-technology-begins/
 previous_title: Where Metaphysical Technology Begins
+next_url: /articles/the-experience-belongs-to-the-human-not-the-system/
+next_title: The Experience Belongs to the Human, Not the System
 ---
 
 # What Happened and What It Means Are Different Questions
