@@ -6,6 +6,8 @@ permalink: /articles/the-experience-belongs-to-the-human-not-the-system/
 article_order: 10
 previous_url: /articles/what-happened-and-what-it-means-are-different-questions/
 previous_title: What Happened and What It Means Are Different Questions
+next_url: /articles/building-is-not-proof-it-can-still-be-research/
+next_title: Building Is Not Proof. It Can Still Be Research.
 ---
 
 # The Experience Belongs to the Human, Not the System

@@ -40,6 +40,7 @@ RECORDS = [
     ("ARTICLE 8", ROOT / "articles/08_Where_Metaphysical_Technology_Begins.md"),
     ("ARTICLE 9", ROOT / "articles/09_What_Happened_and_What_It_Means_Are_Different_Questions.md"),
     ("ARTICLE 10", ROOT / "articles/10_The_Experience_Belongs_to_the_Human_Not_the_System.md"),
+    ("ARTICLE 11", ROOT / "articles/11_Building_Is_Not_Proof_It_Can_Still_Be_Research.md"),
 ]
 
 
@@ -56,8 +57,8 @@ sections = [
     "# Metaphysical Technology: Full Public Corpus",
     "",
     "Generated from the governed public records in this repository.",
-    "Version: 1.3.0",
-    "Released: 2026-08-16",
+    "Version: 1.4.0",
+    "Released: 2026-08-18",
     "Canonical site: https://jasonantalek.github.io/metaphysical-technology/",
     "",
     "INTERPRETATION BOUNDARY",
