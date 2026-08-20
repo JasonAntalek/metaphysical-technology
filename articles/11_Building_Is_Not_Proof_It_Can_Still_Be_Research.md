@@ -6,6 +6,8 @@ permalink: /articles/building-is-not-proof-it-can-still-be-research/
 article_order: 11
 previous_url: /articles/the-experience-belongs-to-the-human-not-the-system/
 previous_title: The Experience Belongs to the Human, Not the System
+next_url: /articles/the-ai-didnt-produce-the-result-the-relationship-did/
+next_title: The AI Didn’t Produce the Result. The Relationship Did.
 ---
 
 # Building Is Not Proof. It Can Still Be Research.

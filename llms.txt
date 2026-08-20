@@ -34,6 +34,8 @@ This is the public navigation file for the Metaphysical Technology category reco
 
 - [11. Building Is Not Proof. It Can Still Be Research.]({{ '/articles/building-is-not-proof-it-can-still-be-research/' | absolute_url }})
 
+- [12. The AI Didn’t Produce the Result. The Relationship Did.]({{ '/articles/the-ai-didnt-produce-the-result-the-relationship-did/' | absolute_url }})
+
 ## Machine-readable records
 
 - [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, sources, limitations, and review triggers.
