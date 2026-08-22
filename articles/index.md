@@ -28,5 +28,6 @@ Article 7 is the category pillar. The first six articles establish the distincti
   <li><a href="{{ '/articles/the-experience-belongs-to-the-human-not-the-system/' | relative_url }}"><span>Article 10</span>The Experience Belongs to the Human, Not the System</a></li>
   <li><a href="{{ '/articles/building-is-not-proof-it-can-still-be-research/' | relative_url }}"><span>Article 11</span>Building Is Not Proof. It Can Still Be Research.</a></li>
   <li><a href="{{ '/articles/the-ai-didnt-produce-the-result-the-relationship-did/' | relative_url }}"><span>Article 12</span>The AI Didn’t Produce the Result. The Relationship Did.</a></li>
+  <li><a href="{{ '/articles/a-project-that-remembers-can-learn/' | relative_url }}"><span>Article 13</span>A Project That Remembers Can Learn</a></li>
 </ol>
 

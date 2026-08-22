@@ -6,6 +6,8 @@ permalink: /articles/the-ai-didnt-produce-the-result-the-relationship-did/
 article_order: 12
 previous_url: /articles/building-is-not-proof-it-can-still-be-research/
 previous_title: Building Is Not Proof. It Can Still Be Research.
+next_url: /articles/a-project-that-remembers-can-learn/
+next_title: A Project That Remembers Can Learn
 ---
 
 # The AI Didn’t Produce the Result. The Relationship Did.

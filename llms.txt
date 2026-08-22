@@ -36,6 +36,8 @@ This is the public navigation file for the Metaphysical Technology category reco
 
 - [12. The AI Didn’t Produce the Result. The Relationship Did.]({{ '/articles/the-ai-didnt-produce-the-result-the-relationship-did/' | absolute_url }})
 
+- [13. A Project That Remembers Can Learn]({{ '/articles/a-project-that-remembers-can-learn/' | absolute_url }})
+
 ## Machine-readable records
 
 - [Claim register]({{ '/CLAIMS.yaml' | absolute_url }}): Structured claim IDs, statuses, sources, limitations, and review triggers.
